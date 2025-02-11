@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   update_daily_papers:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
