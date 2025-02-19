@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 19, 2025
+title: Latest 15 Papers - February 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](http://arxiv.org/abs/2502.12911v1)** | 2025-02-18 |  |
 | **[Generative-enhanced optimization for knapsack problems: an industry-relevant study](http://arxiv.org/abs/2502.04928v1)** | 2025-02-07 |  |
 | **[Bandits with Anytime Knapsacks](http://arxiv.org/abs/2501.18560v1)** | 2025-01-30 |  |
 | **[A Nearly Quadratic-Time FPTAS for Knapsack](http://arxiv.org/abs/2308.07821v3)** | 2025-01-07 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Packing a Knapsack with Items Owned by Strategic Agents](http://arxiv.org/abs/2410.06080v1)** | 2024-10-08 |  |
 | **[Knapsack with Vertex Cover, Set Cover, and Hitting Set](http://arxiv.org/abs/2406.01057v4)** | 2024-10-05 |  |
 | **[Constrained Bandwidth Observation Sharing for Multi-Robot Navigation in Dynamic Environments via Intelligent Knapsack](http://arxiv.org/abs/2409.09975v1)** | 2024-09-16 |  |
-| **[The Competitive Ratio of Threshold Policies for Online Unit-density Knapsack Problems](http://arxiv.org/abs/1907.08735v3)** | 2024-09-12 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
