@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 05, 2025
+title: Latest 15 Papers - March 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Constrained Bandwidth Observation Sharing for Multi-Robot Navigation in Dynamic Environments via Intelligent Knapsack](http://arxiv.org/abs/2409.09975v2)** | 2025-03-03 |  |
 | **[Sum-Of-Squares To Approximate Knapsack](http://arxiv.org/abs/2502.13292v1)** | 2025-02-18 |  |
 | **[Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](http://arxiv.org/abs/2502.12911v1)** | 2025-02-18 |  |
 | **[Generative-enhanced optimization for knapsack problems: an industry-relevant study](http://arxiv.org/abs/2502.04928v1)** | 2025-02-07 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Approximately Counting Knapsack Solutions in Subquadratic Time](http://arxiv.org/abs/2410.22267v1)** | 2024-10-29 | <details><summary>To ap...</summary><p>To appear at SODA 2025</p></details> |
 | **[Maximizing a Submodular Function with Bounded Curvature under an Unknown Knapsack Constraint](http://arxiv.org/abs/2209.09668v3)** | 2024-10-24 |  |
 | **[Packing a Knapsack with Items Owned by Strategic Agents](http://arxiv.org/abs/2410.06080v1)** | 2024-10-08 |  |
-| **[Knapsack with Vertex Cover, Set Cover, and Hitting Set](http://arxiv.org/abs/2406.01057v4)** | 2024-10-05 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
