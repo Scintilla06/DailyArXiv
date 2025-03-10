@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 10, 2025
+title: Latest 15 Papers - March 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Faster Global Minimum Cut with Predictions](http://arxiv.org/abs/2503.05004v1)** | 2025-03-06 |  |
 | **[An O(log n)-Approximation Algorithm for (p,q)-Flexible Graph Connectivity via Independent Rounding](http://arxiv.org/abs/2501.12549v1)** | 2025-01-22 | 11 pages |
 | **[Fully Dynamic Approximate Minimum Cut in Subpolynomial Time per Operation](http://arxiv.org/abs/2412.15069v2)** | 2025-01-06 | <details><summary>To ap...</summary><p>To appear at SODA2025</p></details> |
 | **[Space Complexity of Minimum Cut Problems in Single-Pass Streams](http://arxiv.org/abs/2412.01143v2)** | 2024-12-06 | <details><summary>25+3 ...</summary><p>25+3 pages, 2 figures. Accepted to ITCS 2025. v2: minor updates to author information</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[The Parameterized Complexity Landscape of Two-Sets Cut-Uncut](http://arxiv.org/abs/2408.13543v1)** | 2024-08-24 |  |
 | **[Distributional limits of graph cuts on discretized grids](http://arxiv.org/abs/2407.15297v1)** | 2024-07-21 | 59 pages, 11 figures |
 | **[Interdiction of minimum spanning trees and other matroid bases](http://arxiv.org/abs/2407.14906v1)** | 2024-07-20 | 29 pages, 2 figures |
-| **[Tight Lower Bounds for Directed Cut Sparsification and Distributed Min-Cut](http://arxiv.org/abs/2406.13231v1)** | 2024-06-19 |  |
 
