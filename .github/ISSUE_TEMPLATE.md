@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 02, 2025
+title: Latest 15 Papers - April 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Local Computation Algorithms for Knapsack: impossibility results, and how to avoid them](http://arxiv.org/abs/2504.01543v1)** | 2025-04-02 |  |
+| **[Generalized Assignment and Knapsack Problems in the Random-Order Model](http://arxiv.org/abs/2504.01486v1)** | 2025-04-02 |  |
 | **[Improved Approximation Algorithms for Three-Dimensional Knapsack](http://arxiv.org/abs/2503.19365v1)** | 2025-03-25 |  |
 | **[Constrained Bandwidth Observation Sharing for Multi-Robot Navigation in Dynamic Environments via Intelligent Knapsack](http://arxiv.org/abs/2409.09975v2)** | 2025-03-03 |  |
 | **[Sum-Of-Squares To Approximate Knapsack](http://arxiv.org/abs/2502.13292v1)** | 2025-02-18 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Approximation Algorithms for Correlated Knapsack Orienteering](http://arxiv.org/abs/2408.16566v2)** | 2024-11-29 | <details><summary>Full ...</summary><p>Full version of APPROX 2024 paper</p></details> |
 | **[Shadoks Approach to Knapsack Polygonal Packing](http://arxiv.org/abs/2403.20123v2)** | 2024-11-28 |  |
 | **[A quantum algorithm for solving 0-1 Knapsack problems](http://arxiv.org/abs/2310.06623v2)** | 2024-11-19 | <details><summary>6+13 ...</summary><p>6+13 pages, 11 figures</p></details> |
-| **[Online Unbounded Knapsack](http://arxiv.org/abs/2407.02045v2)** | 2024-10-31 |  |
-| **[Approximately Counting Knapsack Solutions in Subquadratic Time](http://arxiv.org/abs/2410.22267v1)** | 2024-10-29 | <details><summary>To ap...</summary><p>To appear at SODA 2025</p></details> |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Informed Greedy Algorithm for Scalable Bayesian Network Fusion via Minimum Cut Analysis](http://arxiv.org/abs/2504.00467v1)** | 2025-04-01 |  |
 | **[Network Unreliability in Almost-Linear Time](http://arxiv.org/abs/2503.23526v1)** | 2025-03-30 | <details><summary>To ap...</summary><p>To appear in STOC 2025</p></details> |
 | **[Faster Global Minimum Cut with Predictions](http://arxiv.org/abs/2503.05004v1)** | 2025-03-06 |  |
 | **[An O(log n)-Approximation Algorithm for (p,q)-Flexible Graph Connectivity via Independent Rounding](http://arxiv.org/abs/2501.12549v1)** | 2025-01-22 | 11 pages |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Mimicking Networks for Constrained Multicuts in Hypergraphs](http://arxiv.org/abs/2409.12548v2)** | 2024-09-20 | <details><summary>Accep...</summary><p>Accepted to appear in proceedings of ISAAC 2024</p></details> |
 | **[Finding Diverse Minimum s-t Cuts](http://arxiv.org/abs/2303.07290v3)** | 2024-09-18 | <details><summary>An ea...</summary><p>An earlier version of this work appeared at the 34th International Symposium on Algorithms and Computation (ISAAC 2023). Corrected typos in Section 3 and revised arguments in Section 4. Results unchanged. Added new complexity results in Section 5. Readded missing acknowledgments section</p></details> |
 | **[The Parameterized Complexity Landscape of Two-Sets Cut-Uncut](http://arxiv.org/abs/2408.13543v1)** | 2024-08-24 |  |
-| **[Distributional limits of graph cuts on discretized grids](http://arxiv.org/abs/2407.15297v1)** | 2024-07-21 | 59 pages, 11 figures |
 
