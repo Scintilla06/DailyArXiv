@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 16, 2025
+title: Latest 15 Papers - April 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multicut Problems in Embedded Graphs: The Dependency of Complexity on the Demand Pattern](http://arxiv.org/abs/2312.11086v2)** | 2025-04-15 |  |
 | **[Minimum Cut Representability of Stable Matching Problems](http://arxiv.org/abs/2504.04577v1)** | 2025-04-06 |  |
 | **[Informed Greedy Algorithm for Scalable Bayesian Network Fusion via Minimum Cut Analysis](http://arxiv.org/abs/2504.00467v1)** | 2025-04-01 |  |
 | **[Network Unreliability in Almost-Linear Time](http://arxiv.org/abs/2503.23526v1)** | 2025-03-30 | <details><summary>To ap...</summary><p>To appear in STOC 2025</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Graph Cuts with Arbitrary Size Constraints Through Optimal Transport](http://arxiv.org/abs/2402.04732v2)** | 2024-10-04 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research</p></details> |
 | **[Optimal Sensitivity Oracle for Steiner Mincut](http://arxiv.org/abs/2409.17715v1)** | 2024-09-26 |  |
 | **[Mimicking Networks for Constrained Multicuts in Hypergraphs](http://arxiv.org/abs/2409.12548v2)** | 2024-09-20 | <details><summary>Accep...</summary><p>Accepted to appear in proceedings of ISAAC 2024</p></details> |
-| **[Finding Diverse Minimum s-t Cuts](http://arxiv.org/abs/2303.07290v3)** | 2024-09-18 | <details><summary>An ea...</summary><p>An earlier version of this work appeared at the 34th International Symposium on Algorithms and Computation (ISAAC 2023). Corrected typos in Section 3 and revised arguments in Section 4. Results unchanged. Added new complexity results in Section 5. Readded missing acknowledgments section</p></details> |
 
