@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 22, 2025
+title: Latest 15 Papers - April 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Weakly Approximating Knapsack in Subquadratic Time](http://arxiv.org/abs/2504.15001v1)** | 2025-04-21 |  |
 | **[The Competitive Ratio of Threshold Policies for Online Unit-density Knapsack Problems](http://arxiv.org/abs/1907.08735v4)** | 2025-04-07 |  |
 | **[Local Computation Algorithms for Knapsack: impossibility results, and how to avoid them](http://arxiv.org/abs/2504.01543v1)** | 2025-04-02 |  |
 | **[Generalized Assignment and Knapsack Problems in the Random-Order Model](http://arxiv.org/abs/2504.01486v1)** | 2025-04-02 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Approximation Schemes for Geometric Knapsack for Packing Spheres and Fat Objects](http://arxiv.org/abs/2404.03981v2)** | 2024-12-23 | <details><summary>A pre...</summary><p>A preliminary version of the work appeared in the proceedings of the 51st EATCS International Colloquium on Automata, Languages, and Programming (ICALP) 2024</p></details> |
 | **[The complexity of knapsack problems in wreath products](http://arxiv.org/abs/2002.08086v2)** | 2024-11-30 |  |
 | **[Approximation Algorithms for Correlated Knapsack Orienteering](http://arxiv.org/abs/2408.16566v2)** | 2024-11-29 | <details><summary>Full ...</summary><p>Full version of APPROX 2024 paper</p></details> |
-| **[Shadoks Approach to Knapsack Polygonal Packing](http://arxiv.org/abs/2403.20123v2)** | 2024-11-28 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
