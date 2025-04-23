@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2025
+title: Latest 15 Papers - April 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Weakly Approximating Knapsack in Subquadratic Time](http://arxiv.org/abs/2504.15001v1)** | 2025-04-21 |  |
+| **[Weakly Approximating Knapsack in Subquadratic Time](http://arxiv.org/abs/2504.15001v2)** | 2025-04-22 | <details><summary>To ap...</summary><p>To appear in ICALP2025</p></details> |
 | **[The Competitive Ratio of Threshold Policies for Online Unit-density Knapsack Problems](http://arxiv.org/abs/1907.08735v4)** | 2025-04-07 |  |
 | **[Local Computation Algorithms for Knapsack: impossibility results, and how to avoid them](http://arxiv.org/abs/2504.01543v1)** | 2025-04-02 |  |
 | **[Generalized Assignment and Knapsack Problems in the Random-Order Model](http://arxiv.org/abs/2504.01486v1)** | 2025-04-02 |  |
