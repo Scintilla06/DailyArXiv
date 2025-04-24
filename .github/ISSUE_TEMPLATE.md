@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 24, 2025
+title: Latest 15 Papers - April 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adversarial Knapsack for Sequential Competitive Resource Allocation](http://arxiv.org/abs/2504.16752v1)** | 2025-04-23 | 8 pages, 7 figures |
 | **[Weakly Approximating Knapsack in Subquadratic Time](http://arxiv.org/abs/2504.15001v2)** | 2025-04-22 | <details><summary>To ap...</summary><p>To appear in ICALP2025</p></details> |
 | **[The Competitive Ratio of Threshold Policies for Online Unit-density Knapsack Problems](http://arxiv.org/abs/1907.08735v4)** | 2025-04-07 |  |
 | **[Local Computation Algorithms for Knapsack: impossibility results, and how to avoid them](http://arxiv.org/abs/2504.01543v1)** | 2025-04-02 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Hybrid Firefly-Genetic Algorithm for Single and Multi-dimensional 0-1 Knapsack Problems](http://arxiv.org/abs/2501.14775v1)** | 2024-12-31 |  |
 | **[Approximation Schemes for Geometric Knapsack for Packing Spheres and Fat Objects](http://arxiv.org/abs/2404.03981v2)** | 2024-12-23 | <details><summary>A pre...</summary><p>A preliminary version of the work appeared in the proceedings of the 51st EATCS International Colloquium on Automata, Languages, and Programming (ICALP) 2024</p></details> |
 | **[The complexity of knapsack problems in wreath products](http://arxiv.org/abs/2002.08086v2)** | 2024-11-30 |  |
-| **[Approximation Algorithms for Correlated Knapsack Orienteering](http://arxiv.org/abs/2408.16566v2)** | 2024-11-29 | <details><summary>Full ...</summary><p>Full version of APPROX 2024 paper</p></details> |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
