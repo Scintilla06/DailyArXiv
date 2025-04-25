@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 25, 2025
+title: Latest 15 Papers - April 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knapsack on Graphs with Relaxed Neighborhood Constraints](http://arxiv.org/abs/2504.17297v1)** | 2025-04-24 |  |
 | **[Adversarial Knapsack for Sequential Competitive Resource Allocation](http://arxiv.org/abs/2504.16752v1)** | 2025-04-23 | 8 pages, 7 figures |
 | **[Weakly Approximating Knapsack in Subquadratic Time](http://arxiv.org/abs/2504.15001v2)** | 2025-04-22 | <details><summary>To ap...</summary><p>To appear in ICALP2025</p></details> |
 | **[The Competitive Ratio of Threshold Policies for Online Unit-density Knapsack Problems](http://arxiv.org/abs/1907.08735v4)** | 2025-04-07 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[A Nearly Quadratic-Time FPTAS for Knapsack](http://arxiv.org/abs/2308.07821v3)** | 2025-01-07 |  |
 | **[Hybrid Firefly-Genetic Algorithm for Single and Multi-dimensional 0-1 Knapsack Problems](http://arxiv.org/abs/2501.14775v1)** | 2024-12-31 |  |
 | **[Approximation Schemes for Geometric Knapsack for Packing Spheres and Fat Objects](http://arxiv.org/abs/2404.03981v2)** | 2024-12-23 | <details><summary>A pre...</summary><p>A preliminary version of the work appeared in the proceedings of the 51st EATCS International Colloquium on Automata, Languages, and Programming (ICALP) 2024</p></details> |
-| **[The complexity of knapsack problems in wreath products](http://arxiv.org/abs/2002.08086v2)** | 2024-11-30 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Case for External Graph Sketching](http://arxiv.org/abs/2504.17563v1)** | 2025-04-24 | <details><summary>Full ...</summary><p>Full version for paper to appear in ACDA proceedings</p></details> |
 | **[Multicut Problems in Embedded Graphs: The Dependency of Complexity on the Demand Pattern](http://arxiv.org/abs/2312.11086v2)** | 2025-04-15 |  |
 | **[Minimum Cut Representability of Stable Matching Problems](http://arxiv.org/abs/2504.04577v1)** | 2025-04-06 |  |
 | **[Informed Greedy Algorithm for Scalable Bayesian Network Fusion via Minimum Cut Analysis](http://arxiv.org/abs/2504.00467v1)** | 2025-04-01 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[A Simpler Approach for Monotone Parametric Minimum Cut: Finding the Breakpoints in Order](http://arxiv.org/abs/2410.15920v1)** | 2024-10-21 |  |
 | **[Graph Cuts with Arbitrary Size Constraints Through Optimal Transport](http://arxiv.org/abs/2402.04732v2)** | 2024-10-04 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research</p></details> |
 | **[Optimal Sensitivity Oracle for Steiner Mincut](http://arxiv.org/abs/2409.17715v1)** | 2024-09-26 |  |
-| **[Mimicking Networks for Constrained Multicuts in Hypergraphs](http://arxiv.org/abs/2409.12548v2)** | 2024-09-20 | <details><summary>Accep...</summary><p>Accepted to appear in proceedings of ISAAC 2024</p></details> |
 
