@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 29, 2025
+title: Latest 15 Papers - April 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Near-Optimal Minimum Cuts in Hypergraphs at Scale](http://arxiv.org/abs/2504.19842v1)** | 2025-04-28 |  |
 | **[The Case for External Graph Sketching](http://arxiv.org/abs/2504.17563v1)** | 2025-04-24 | <details><summary>Full ...</summary><p>Full version for paper to appear in ACDA proceedings</p></details> |
 | **[Multicut Problems in Embedded Graphs: The Dependency of Complexity on the Demand Pattern](http://arxiv.org/abs/2312.11086v2)** | 2025-04-15 |  |
 | **[Minimum Cut Representability of Stable Matching Problems](http://arxiv.org/abs/2504.04577v1)** | 2025-04-06 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Linear-Time Algorithms for k-Edge-Connected Components, k-Lean Tree Decompositions, and More](http://arxiv.org/abs/2411.02658v1)** | 2024-11-04 | 107 pages |
 | **[A Simpler Approach for Monotone Parametric Minimum Cut: Finding the Breakpoints in Order](http://arxiv.org/abs/2410.15920v1)** | 2024-10-21 |  |
 | **[Graph Cuts with Arbitrary Size Constraints Through Optimal Transport](http://arxiv.org/abs/2402.04732v2)** | 2024-10-04 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research</p></details> |
-| **[Optimal Sensitivity Oracle for Steiner Mincut](http://arxiv.org/abs/2409.17715v1)** | 2024-09-26 |  |
 
