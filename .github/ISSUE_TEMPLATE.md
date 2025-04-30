@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 30, 2025
+title: Latest 15 Papers - May 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Online General Knapsack with Reservation Costs](http://arxiv.org/abs/2504.20855v1)** | 2025-04-29 | 14 pages |
 | **[Knapsack on Graphs with Relaxed Neighborhood Constraints](http://arxiv.org/abs/2504.17297v1)** | 2025-04-24 |  |
 | **[Adversarial Knapsack for Sequential Competitive Resource Allocation](http://arxiv.org/abs/2504.16752v1)** | 2025-04-23 | 8 pages, 7 figures |
 | **[Weakly Approximating Knapsack in Subquadratic Time](http://arxiv.org/abs/2504.15001v2)** | 2025-04-22 | <details><summary>To ap...</summary><p>To appear in ICALP2025</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Bandits with Anytime Knapsacks](http://arxiv.org/abs/2501.18560v1)** | 2025-01-30 |  |
 | **[A Nearly Quadratic-Time FPTAS for Knapsack](http://arxiv.org/abs/2308.07821v3)** | 2025-01-07 |  |
 | **[Hybrid Firefly-Genetic Algorithm for Single and Multi-dimensional 0-1 Knapsack Problems](http://arxiv.org/abs/2501.14775v1)** | 2024-12-31 |  |
-| **[Approximation Schemes for Geometric Knapsack for Packing Spheres and Fat Objects](http://arxiv.org/abs/2404.03981v2)** | 2024-12-23 | <details><summary>A pre...</summary><p>A preliminary version of the work appeared in the proceedings of the 51st EATCS International Colloquium on Automata, Languages, and Programming (ICALP) 2024</p></details> |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
