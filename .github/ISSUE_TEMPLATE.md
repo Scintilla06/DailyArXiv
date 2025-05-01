@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 01, 2025
+title: Latest 15 Papers - May 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Online Knapsack Problems with Estimates](http://arxiv.org/abs/2504.21750v1)** | 2025-04-30 | 20 pages, 2 figures |
 | **[Online General Knapsack with Reservation Costs](http://arxiv.org/abs/2504.20855v1)** | 2025-04-29 | 14 pages |
 | **[Knapsack on Graphs with Relaxed Neighborhood Constraints](http://arxiv.org/abs/2504.17297v1)** | 2025-04-24 |  |
 | **[Adversarial Knapsack for Sequential Competitive Resource Allocation](http://arxiv.org/abs/2504.16752v1)** | 2025-04-23 | 8 pages, 7 figures |
@@ -21,12 +22,11 @@ labels: documentation
 | **[Generative-enhanced optimization for knapsack problems: an industry-relevant study](http://arxiv.org/abs/2502.04928v1)** | 2025-02-07 |  |
 | **[Bandits with Anytime Knapsacks](http://arxiv.org/abs/2501.18560v1)** | 2025-01-30 |  |
 | **[A Nearly Quadratic-Time FPTAS for Knapsack](http://arxiv.org/abs/2308.07821v3)** | 2025-01-07 |  |
-| **[Hybrid Firefly-Genetic Algorithm for Single and Multi-dimensional 0-1 Knapsack Problems](http://arxiv.org/abs/2501.14775v1)** | 2024-12-31 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Near-Optimal Minimum Cuts in Hypergraphs at Scale](http://arxiv.org/abs/2504.19842v1)** | 2025-04-28 |  |
+| **[Near-Optimal Minimum Cuts in Hypergraphs at Scale](http://arxiv.org/abs/2504.19842v2)** | 2025-04-30 |  |
 | **[The Case for External Graph Sketching](http://arxiv.org/abs/2504.17563v1)** | 2025-04-24 | <details><summary>Full ...</summary><p>Full version for paper to appear in ACDA proceedings</p></details> |
 | **[Multicut Problems in Embedded Graphs: The Dependency of Complexity on the Demand Pattern](http://arxiv.org/abs/2312.11086v2)** | 2025-04-15 |  |
 | **[Minimum Cut Representability of Stable Matching Problems](http://arxiv.org/abs/2504.04577v1)** | 2025-04-06 |  |
