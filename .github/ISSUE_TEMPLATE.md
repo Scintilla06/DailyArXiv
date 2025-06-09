@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2025
+title: Latest 15 Papers - June 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An extension of Dembo-Hammer's reduction algorithm for the 0-1 knapsack problem](http://arxiv.org/abs/2506.06138v1)** | 2025-06-06 |  |
 | **[Fair Submodular Maximization over a Knapsack Constraint](http://arxiv.org/abs/2505.12126v1)** | 2025-05-17 | <details><summary>To ap...</summary><p>To appear in IJCAI 2025</p></details> |
 | **[Online Knapsack Problems with Estimates](http://arxiv.org/abs/2504.21750v1)** | 2025-04-30 | 20 pages, 2 figures |
 | **[Online General Knapsack with Reservation Costs](http://arxiv.org/abs/2504.20855v1)** | 2025-04-29 | 14 pages |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Sum-Of-Squares To Approximate Knapsack](http://arxiv.org/abs/2502.13292v1)** | 2025-02-18 |  |
 | **[Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](http://arxiv.org/abs/2502.12911v1)** | 2025-02-18 |  |
 | **[Generative-enhanced optimization for knapsack problems: an industry-relevant study](http://arxiv.org/abs/2502.04928v1)** | 2025-02-07 |  |
-| **[Bandits with Anytime Knapsacks](http://arxiv.org/abs/2501.18560v1)** | 2025-01-30 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
