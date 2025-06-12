@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 11, 2025
+title: Latest 15 Papers - June 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,8 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Framework for the Design of Efficient Diversification Algorithms to NP-Hard Problems](http://arxiv.org/abs/2501.12261v4)** | 2025-06-10 |  |
 | **[Spectral Clustering for Directed Graphs via Likelihood Estimation on Stochastic Block Models](http://arxiv.org/abs/2403.19516v2)** | 2025-06-03 |  |
-| **[A Framework for the Design of Efficient Diversification Algorithms to NP-Hard Problems](http://arxiv.org/abs/2501.12261v3)** | 2025-06-02 |  |
 | **[An Effective Flow-based Method for Positive-Unlabeled Learning: 2-HNC](http://arxiv.org/abs/2505.08212v1)** | 2025-05-13 |  |
 | **[Near-Optimal Minimum Cuts in Hypergraphs at Scale](http://arxiv.org/abs/2504.19842v2)** | 2025-04-30 |  |
 | **[The Case for External Graph Sketching](http://arxiv.org/abs/2504.17563v1)** | 2025-04-24 | <details><summary>Full ...</summary><p>Full version for paper to appear in ACDA proceedings</p></details> |
