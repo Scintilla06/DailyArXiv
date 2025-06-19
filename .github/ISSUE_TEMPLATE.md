@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 18, 2025
+title: Latest 15 Papers - June 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Energy Efficient Knapsack Optimization Using Probabilistic Memristor Crossbars](http://arxiv.org/abs/2407.04332v2)** | 2025-06-17 | 13 pages, 6 figures |
 | **[Knapsack and Shortest Path Problems Generalizations From A Quantum-Inspired Tensor Network Perspective](http://arxiv.org/abs/2506.11711v1)** | 2025-06-13 | <details><summary>14 pa...</summary><p>14 pages, 14 figures, extended version of the presented and published at the 1st International Conference on Quantum Software (IQSOFT)</p></details> |
 | **[An extension of Dembo-Hammer's reduction algorithm for the 0-1 knapsack problem](http://arxiv.org/abs/2506.06138v1)** | 2025-06-06 |  |
 | **[Fair Submodular Maximization over a Knapsack Constraint](http://arxiv.org/abs/2505.12126v1)** | 2025-05-17 | <details><summary>To ap...</summary><p>To appear in IJCAI 2025</p></details> |
@@ -21,12 +22,11 @@ labels: documentation
 | **[Improved Approximation Algorithms for Three-Dimensional Knapsack](http://arxiv.org/abs/2503.19365v1)** | 2025-03-25 |  |
 | **[Constrained Bandwidth Observation Sharing for Multi-Robot Navigation in Dynamic Environments via Intelligent Knapsack](http://arxiv.org/abs/2409.09975v2)** | 2025-03-03 |  |
 | **[Sum-Of-Squares To Approximate Knapsack](http://arxiv.org/abs/2502.13292v1)** | 2025-02-18 |  |
-| **[Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](http://arxiv.org/abs/2502.12911v1)** | 2025-02-18 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Breaking the O(mn)-Time Barrier for Vertex-Weighted Global Minimum Cut](http://arxiv.org/abs/2506.11926v1)** | 2025-06-13 |  |
+| **[Breaking the O(mn)-Time Barrier for Vertex-Weighted Global Minimum Cut](http://arxiv.org/abs/2506.11926v2)** | 2025-06-18 |  |
 | **[A Framework for the Design of Efficient Diversification Algorithms to NP-Hard Problems](http://arxiv.org/abs/2501.12261v4)** | 2025-06-10 |  |
 | **[Spectral Clustering for Directed Graphs via Likelihood Estimation on Stochastic Block Models](http://arxiv.org/abs/2403.19516v2)** | 2025-06-03 |  |
 | **[An Effective Flow-based Method for Positive-Unlabeled Learning: 2-HNC](http://arxiv.org/abs/2505.08212v1)** | 2025-05-13 |  |
