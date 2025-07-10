@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 10, 2025
+title: Latest 15 Papers - July 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Near-Optimal Consistency-Robustness Trade-Offs for Learning-Augmented Online Knapsack Problems](http://arxiv.org/abs/2406.18752v2)** | 2025-07-09 | <details><summary>31 pa...</summary><p>31 pages, 16 figures, Accepted at ICML 2025</p></details> |
+| **[Episodic Contextual Bandits with Knapsacks under Conversion Models](http://arxiv.org/abs/2507.06859v1)** | 2025-07-09 |  |
 | **[Dominating Set Knapsack: Profit Optimization on Dominating Sets](http://arxiv.org/abs/2506.24032v2)** | 2025-07-07 |  |
 | **[Quantum Algorithms for Bandits with Knapsacks with Improved Regret and Time Complexities](http://arxiv.org/abs/2507.04438v1)** | 2025-07-06 | 33 pages |
 | **[On the Complexity of Knapsack under Explorable Uncertainty: Hardness and Algorithms](http://arxiv.org/abs/2507.02657v1)** | 2025-07-03 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Online General Knapsack with Reservation Costs](http://arxiv.org/abs/2504.20855v1)** | 2025-04-29 | 14 pages |
 | **[Knapsack on Graphs with Relaxed Neighborhood Constraints](http://arxiv.org/abs/2504.17297v1)** | 2025-04-24 |  |
 | **[Adversarial Knapsack for Sequential Competitive Resource Allocation](http://arxiv.org/abs/2504.16752v1)** | 2025-04-23 | 8 pages, 7 figures |
-| **[Weakly Approximating Knapsack in Subquadratic Time](http://arxiv.org/abs/2504.15001v2)** | 2025-04-22 | <details><summary>To ap...</summary><p>To appear in ICALP2025</p></details> |
-| **[The Competitive Ratio of Threshold Policies for Online Unit-density Knapsack Problems](http://arxiv.org/abs/1907.08735v4)** | 2025-04-07 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
