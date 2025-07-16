@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 16, 2025
+title: Latest 15 Papers - July 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Branch-and-Bound for Submodular Function Maximization under Knapsack Constraint](http://arxiv.org/abs/2507.11107v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted to ECAI 2025</p></details> |
 | **[Near-Optimal Consistency-Robustness Trade-Offs for Learning-Augmented Online Knapsack Problems](http://arxiv.org/abs/2406.18752v2)** | 2025-07-09 | <details><summary>31 pa...</summary><p>31 pages, 16 figures, Accepted at ICML 2025</p></details> |
 | **[Episodic Contextual Bandits with Knapsacks under Conversion Models](http://arxiv.org/abs/2507.06859v1)** | 2025-07-09 |  |
 | **[Dominating Set Knapsack: Profit Optimization on Dominating Sets](http://arxiv.org/abs/2506.24032v2)** | 2025-07-07 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Online Knapsack Problems with Estimates](http://arxiv.org/abs/2504.21750v1)** | 2025-04-30 | 20 pages, 2 figures |
 | **[Online General Knapsack with Reservation Costs](http://arxiv.org/abs/2504.20855v1)** | 2025-04-29 | 14 pages |
 | **[Knapsack on Graphs with Relaxed Neighborhood Constraints](http://arxiv.org/abs/2504.17297v1)** | 2025-04-24 |  |
-| **[Adversarial Knapsack for Sequential Competitive Resource Allocation](http://arxiv.org/abs/2504.16752v1)** | 2025-04-23 | 8 pages, 7 figures |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bicriteria Polygon Aggregation with Arbitrary Shapes](http://arxiv.org/abs/2507.11212v1)** | 2025-07-15 |  |
 | **[Cut-Query Algorithms with Few Rounds](http://arxiv.org/abs/2506.20412v1)** | 2025-06-25 |  |
 | **[Approximating the Held-Karp Bound for Metric TSP in Nearly Linear Work and Polylogarithmic Depth](http://arxiv.org/abs/2411.14745v2)** | 2025-06-23 |  |
 | **[Breaking the O(mn)-Time Barrier for Vertex-Weighted Global Minimum Cut](http://arxiv.org/abs/2506.11926v2)** | 2025-06-18 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Network Unreliability in Almost-Linear Time](http://arxiv.org/abs/2503.23526v1)** | 2025-03-30 | <details><summary>To ap...</summary><p>To appear in STOC 2025</p></details> |
 | **[Faster Global Minimum Cut with Predictions](http://arxiv.org/abs/2503.05004v1)** | 2025-03-06 |  |
 | **[An O(log n)-Approximation Algorithm for (p,q)-Flexible Graph Connectivity via Independent Rounding](http://arxiv.org/abs/2501.12549v1)** | 2025-01-22 | 11 pages |
-| **[Fully Dynamic Approximate Minimum Cut in Subpolynomial Time per Operation](http://arxiv.org/abs/2412.15069v2)** | 2025-01-06 | <details><summary>To ap...</summary><p>To appear at SODA2025</p></details> |
 
