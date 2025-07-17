@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 17, 2025
+title: Latest 15 Papers - July 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bicriteria Polygon Aggregation with Arbitrary Shapes](http://arxiv.org/abs/2507.11212v1)** | 2025-07-15 |  |
+| **[Bicriteria Polygon Aggregation with Arbitrary Shapes](http://arxiv.org/abs/2507.11212v2)** | 2025-07-16 |  |
 | **[Cut-Query Algorithms with Few Rounds](http://arxiv.org/abs/2506.20412v1)** | 2025-06-25 |  |
 | **[Approximating the Held-Karp Bound for Metric TSP in Nearly Linear Work and Polylogarithmic Depth](http://arxiv.org/abs/2411.14745v2)** | 2025-06-23 |  |
 | **[Breaking the O(mn)-Time Barrier for Vertex-Weighted Global Minimum Cut](http://arxiv.org/abs/2506.11926v2)** | 2025-06-18 |  |
