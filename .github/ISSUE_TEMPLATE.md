@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 23, 2025
+title: Latest 15 Papers - July 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Exact Solver for Maximizing a Submodular Function Subject to a Knapsack Constraint](http://arxiv.org/abs/2507.16149v1)** | 2025-07-22 |  |
 | **[Entropy Stable Nodal Discontinuous Galerkin Methods via Quadratic Knapsack Limiting](http://arxiv.org/abs/2507.14488v1)** | 2025-07-19 |  |
 | **[Efficient Branch-and-Bound for Submodular Function Maximization under Knapsack Constraint](http://arxiv.org/abs/2507.11107v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted to ECAI 2025</p></details> |
 | **[Near-Optimal Consistency-Robustness Trade-Offs for Learning-Augmented Online Knapsack Problems](http://arxiv.org/abs/2406.18752v2)** | 2025-07-09 | <details><summary>31 pa...</summary><p>31 pages, 16 figures, Accepted at ICML 2025</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[An extension of Dembo-Hammer's reduction algorithm for the 0-1 knapsack problem](http://arxiv.org/abs/2506.06138v1)** | 2025-06-06 |  |
 | **[Fair Submodular Maximization over a Knapsack Constraint](http://arxiv.org/abs/2505.12126v1)** | 2025-05-17 | <details><summary>To ap...</summary><p>To appear in IJCAI 2025</p></details> |
 | **[Online Knapsack Problems with Estimates](http://arxiv.org/abs/2504.21750v1)** | 2025-04-30 | 20 pages, 2 figures |
-| **[Online General Knapsack with Reservation Costs](http://arxiv.org/abs/2504.20855v1)** | 2025-04-29 | 14 pages |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
