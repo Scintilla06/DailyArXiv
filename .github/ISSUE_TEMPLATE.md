@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 25, 2025
+title: Latest 15 Papers - July 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dual Charging for Half-Integral TSP](http://arxiv.org/abs/2507.17999v1)** | 2025-07-24 |  |
 | **[Fast Algorithms for Graph Arboricity and Related Problems](http://arxiv.org/abs/2507.15598v1)** | 2025-07-21 | <details><summary>FOCS ...</summary><p>FOCS 2025. 25 pages, 3 figures</p></details> |
 | **[Bicriteria Polygon Aggregation with Arbitrary Shapes](http://arxiv.org/abs/2507.11212v2)** | 2025-07-16 |  |
 | **[Cut-Query Algorithms with Few Rounds](http://arxiv.org/abs/2506.20412v1)** | 2025-06-25 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Minimum Cut Representability of Stable Matching Problems](http://arxiv.org/abs/2504.04577v1)** | 2025-04-06 |  |
 | **[Informed Greedy Algorithm for Scalable Bayesian Network Fusion via Minimum Cut Analysis](http://arxiv.org/abs/2504.00467v1)** | 2025-04-01 |  |
 | **[Network Unreliability in Almost-Linear Time](http://arxiv.org/abs/2503.23526v1)** | 2025-03-30 | <details><summary>To ap...</summary><p>To appear in STOC 2025</p></details> |
-| **[Faster Global Minimum Cut with Predictions](http://arxiv.org/abs/2503.05004v1)** | 2025-03-06 |  |
 
