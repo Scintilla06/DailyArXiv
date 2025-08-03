@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 03, 2025
+title: Latest 15 Papers - August 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Min cost flow on unit capacity networks and convex cost K-flow are as easy as the assignment problem with All-Min-Cuts algorithm](http://arxiv.org/abs/1610.04012v2)** | 2025-07-29 |  |
 | **[Dual Charging for Half-Integral TSP](http://arxiv.org/abs/2507.17999v1)** | 2025-07-24 |  |
 | **[Fast Algorithms for Graph Arboricity and Related Problems](http://arxiv.org/abs/2507.15598v1)** | 2025-07-21 | <details><summary>FOCS ...</summary><p>FOCS 2025. 25 pages, 3 figures</p></details> |
 | **[Bicriteria Polygon Aggregation with Arbitrary Shapes](http://arxiv.org/abs/2507.11212v2)** | 2025-07-16 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Multicut Problems in Embedded Graphs: The Dependency of Complexity on the Demand Pattern](http://arxiv.org/abs/2312.11086v2)** | 2025-04-15 |  |
 | **[Minimum Cut Representability of Stable Matching Problems](http://arxiv.org/abs/2504.04577v1)** | 2025-04-06 |  |
 | **[Informed Greedy Algorithm for Scalable Bayesian Network Fusion via Minimum Cut Analysis](http://arxiv.org/abs/2504.00467v1)** | 2025-04-01 |  |
-| **[Network Unreliability in Almost-Linear Time](http://arxiv.org/abs/2503.23526v1)** | 2025-03-30 | <details><summary>To ap...</summary><p>To appear in STOC 2025</p></details> |
 
