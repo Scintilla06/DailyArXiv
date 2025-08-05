@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 05, 2025
+title: Latest 15 Papers - August 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[High-dimensional Linear Bandits with Knapsacks](http://arxiv.org/abs/2311.01327v2)** | 2025-08-02 |  |
 | **[An Exact Solver for Maximizing a Submodular Function Subject to a Knapsack Constraint](http://arxiv.org/abs/2507.16149v1)** | 2025-07-22 |  |
 | **[Entropy Stable Nodal Discontinuous Galerkin Methods via Quadratic Knapsack Limiting](http://arxiv.org/abs/2507.14488v1)** | 2025-07-19 |  |
 | **[Efficient Branch-and-Bound for Submodular Function Maximization under Knapsack Constraint](http://arxiv.org/abs/2507.11107v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted to ECAI 2025</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Knapsack and Shortest Path Problems Generalizations From A Quantum-Inspired Tensor Network Perspective](http://arxiv.org/abs/2506.11711v1)** | 2025-06-13 | <details><summary>14 pa...</summary><p>14 pages, 14 figures, extended version of the presented and published at the 1st International Conference on Quantum Software (IQSOFT)</p></details> |
 | **[An extension of Dembo-Hammer's reduction algorithm for the 0-1 knapsack problem](http://arxiv.org/abs/2506.06138v1)** | 2025-06-06 |  |
 | **[Fair Submodular Maximization over a Knapsack Constraint](http://arxiv.org/abs/2505.12126v1)** | 2025-05-17 | <details><summary>To ap...</summary><p>To appear in IJCAI 2025</p></details> |
-| **[Online Knapsack Problems with Estimates](http://arxiv.org/abs/2504.21750v1)** | 2025-04-30 | 20 pages, 2 figures |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
