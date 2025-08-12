@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 12, 2025
+title: Latest 15 Papers - August 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[$(1-ε)$-Approximation of Knapsack in Nearly Quadratic Time](http://arxiv.org/abs/2308.07004v4)** | 2025-08-10 | <details><summary>Accep...</summary><p>Accepted to STOC 2024; Revision note: expanded technical overview;</p></details> |
+| **[Convolution and Knapsack in Higher Dimensions](http://arxiv.org/abs/2403.16117v2)** | 2025-08-10 | <details><summary>accep...</summary><p>accepted at WADS 2025</p></details> |
+| **[Performance of the Extended Ising Machine for the Quadratic Knapsack Problem](http://arxiv.org/abs/2508.06909v1)** | 2025-08-09 | 6 pages |
 | **[An Online Multi-dimensional Knapsack Approach for Slice Admission Control](http://arxiv.org/abs/2508.06468v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted by 20th Consumer Communications & Networking Conference (CCNC)</p></details> |
 | **[High-dimensional Linear Bandits with Knapsacks](http://arxiv.org/abs/2311.01327v2)** | 2025-08-02 |  |
 | **[An Exact Solver for Maximizing a Submodular Function Subject to a Knapsack Constraint](http://arxiv.org/abs/2507.16149v1)** | 2025-07-22 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[On the Complexity of Knapsack under Explorable Uncertainty: Hardness and Algorithms](http://arxiv.org/abs/2507.02657v1)** | 2025-07-03 |  |
 | **[Unbounded knapsack problem and double partitions](http://arxiv.org/abs/2506.23499v1)** | 2025-06-30 | 6 pages, 1 figure |
 | **[Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](http://arxiv.org/abs/2502.12911v2)** | 2025-06-20 |  |
-| **[Energy Efficient Knapsack Optimization Using Probabilistic Memristor Crossbars](http://arxiv.org/abs/2407.04332v2)** | 2025-06-17 | 13 pages, 6 figures |
-| **[Knapsack and Shortest Path Problems Generalizations From A Quantum-Inspired Tensor Network Perspective](http://arxiv.org/abs/2506.11711v1)** | 2025-06-13 | <details><summary>14 pa...</summary><p>14 pages, 14 figures, extended version of the presented and published at the 1st International Conference on Quantum Software (IQSOFT)</p></details> |
-| **[An extension of Dembo-Hammer's reduction algorithm for the 0-1 knapsack problem](http://arxiv.org/abs/2506.06138v1)** | 2025-06-06 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
