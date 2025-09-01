@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 01, 2025
+title: Latest 15 Papers - September 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Entropy stable finite difference (ESFD) methods via entropy correction artificial viscosity (ECAV) and knapsack limiting (KL) techniques](http://arxiv.org/abs/2508.21226v1)** | 2025-08-28 |  |
 | **[$(1-ε)$-Approximation of Knapsack in Nearly Quadratic Time](http://arxiv.org/abs/2308.07004v4)** | 2025-08-10 | <details><summary>Accep...</summary><p>Accepted to STOC 2024; Revision note: expanded technical overview;</p></details> |
 | **[Convolution and Knapsack in Higher Dimensions](http://arxiv.org/abs/2403.16117v2)** | 2025-08-10 | <details><summary>accep...</summary><p>accepted at WADS 2025</p></details> |
 | **[Performance of the Extended Ising Machine for the Quadratic Knapsack Problem](http://arxiv.org/abs/2508.06909v1)** | 2025-08-09 | 6 pages |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Quantum Algorithms for Bandits with Knapsacks with Improved Regret and Time Complexities](http://arxiv.org/abs/2507.04438v1)** | 2025-07-06 | 33 pages |
 | **[On the Complexity of Knapsack under Explorable Uncertainty: Hardness and Algorithms](http://arxiv.org/abs/2507.02657v1)** | 2025-07-03 |  |
 | **[Unbounded knapsack problem and double partitions](http://arxiv.org/abs/2506.23499v1)** | 2025-06-30 | 6 pages, 1 figure |
-| **[Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](http://arxiv.org/abs/2502.12911v2)** | 2025-06-20 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
