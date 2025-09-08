@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 08, 2025
+title: Latest 15 Papers - September 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Entropy stable finite difference (ESFD) methods via entropy correction artificial viscosity (ECAV) and knapsack limiting (KL) techniques](http://arxiv.org/abs/2508.21226v1)** | 2025-08-28 |  |
+| **[Entropy stable finite difference methods via entropy correction artificial viscosity and knapsack limiting](http://arxiv.org/abs/2508.21226v2)** | 2025-09-05 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2507.14488</p></details> |
 | **[$(1-ε)$-Approximation of Knapsack in Nearly Quadratic Time](http://arxiv.org/abs/2308.07004v4)** | 2025-08-10 | <details><summary>Accep...</summary><p>Accepted to STOC 2024; Revision note: expanded technical overview;</p></details> |
 | **[Convolution and Knapsack in Higher Dimensions](http://arxiv.org/abs/2403.16117v2)** | 2025-08-10 | <details><summary>accep...</summary><p>accepted at WADS 2025</p></details> |
 | **[Performance of the Extended Ising Machine for the Quadratic Knapsack Problem](http://arxiv.org/abs/2508.06909v1)** | 2025-08-09 | 6 pages |
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Contractions of Dynamic Graphs -- with Applications](http://arxiv.org/abs/2509.05157v1)** | 2025-09-05 |  |
 | **[Min cost flow on unit capacity networks and convex cost K-flow are as easy as the assignment problem with All-Min-Cuts algorithm](http://arxiv.org/abs/1610.04012v2)** | 2025-07-29 |  |
 | **[Dual Charging for Half-Integral TSP](http://arxiv.org/abs/2507.17999v1)** | 2025-07-24 |  |
 | **[Fast Algorithms for Graph Arboricity and Related Problems](http://arxiv.org/abs/2507.15598v1)** | 2025-07-21 | <details><summary>FOCS ...</summary><p>FOCS 2025. 25 pages, 3 figures</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[The Case for External Graph Sketching](http://arxiv.org/abs/2504.17563v1)** | 2025-04-24 | <details><summary>Full ...</summary><p>Full version for paper to appear in ACDA proceedings</p></details> |
 | **[Multicut Problems in Embedded Graphs: The Dependency of Complexity on the Demand Pattern](http://arxiv.org/abs/2312.11086v2)** | 2025-04-15 |  |
 | **[Minimum Cut Representability of Stable Matching Problems](http://arxiv.org/abs/2504.04577v1)** | 2025-04-06 |  |
-| **[Informed Greedy Algorithm for Scalable Bayesian Network Fusion via Minimum Cut Analysis](http://arxiv.org/abs/2504.00467v1)** | 2025-04-01 |  |
 
