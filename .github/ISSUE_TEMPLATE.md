@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 18, 2025
+title: Latest 15 Papers - September 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,12 +26,12 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cut-Query Algorithms with Few Rounds](http://arxiv.org/abs/2506.20412v2)** | 2025-09-17 |  |
 | **[Efficient Contractions of Dynamic Graphs -- with Applications](http://arxiv.org/abs/2509.05157v1)** | 2025-09-05 |  |
 | **[Min cost flow on unit capacity networks and convex cost K-flow are as easy as the assignment problem with All-Min-Cuts algorithm](http://arxiv.org/abs/1610.04012v2)** | 2025-07-29 |  |
 | **[Dual Charging for Half-Integral TSP](http://arxiv.org/abs/2507.17999v1)** | 2025-07-24 |  |
 | **[Fast Algorithms for Graph Arboricity and Related Problems](http://arxiv.org/abs/2507.15598v1)** | 2025-07-21 | <details><summary>FOCS ...</summary><p>FOCS 2025. 25 pages, 3 figures</p></details> |
 | **[Bicriteria Polygon Aggregation with Arbitrary Shapes](http://arxiv.org/abs/2507.11212v2)** | 2025-07-16 |  |
-| **[Cut-Query Algorithms with Few Rounds](http://arxiv.org/abs/2506.20412v1)** | 2025-06-25 |  |
 | **[Approximating the Held-Karp Bound for Metric TSP in Nearly Linear Work and Polylogarithmic Depth](http://arxiv.org/abs/2411.14745v2)** | 2025-06-23 |  |
 | **[Breaking the O(mn)-Time Barrier for Vertex-Weighted Global Minimum Cut](http://arxiv.org/abs/2506.11926v2)** | 2025-06-18 |  |
 | **[A Framework for the Design of Efficient Diversification Algorithms to NP-Hard Problems](http://arxiv.org/abs/2501.12261v4)** | 2025-06-10 |  |
