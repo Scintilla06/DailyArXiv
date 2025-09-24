@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2025
+title: Latest 15 Papers - September 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Differentially Private Algorithms for Graphs Under Continual Observation](http://arxiv.org/abs/2106.14756v3)** | 2025-09-23 | <details><summary>Corre...</summary><p>Corrected typos in lower bounds in Table 1. Fixed missing factor $\ell$ in statement of Theorem 45</p></details> |
 | **[Cut-Query Algorithms with Few Rounds](http://arxiv.org/abs/2506.20412v2)** | 2025-09-17 |  |
 | **[Efficient Contractions of Dynamic Graphs -- with Applications](http://arxiv.org/abs/2509.05157v1)** | 2025-09-05 |  |
 | **[Min cost flow on unit capacity networks and convex cost K-flow are as easy as the assignment problem with All-Min-Cuts algorithm](http://arxiv.org/abs/1610.04012v2)** | 2025-07-29 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Near-Optimal Minimum Cuts in Hypergraphs at Scale](http://arxiv.org/abs/2504.19842v2)** | 2025-04-30 |  |
 | **[The Case for External Graph Sketching](http://arxiv.org/abs/2504.17563v1)** | 2025-04-24 | <details><summary>Full ...</summary><p>Full version for paper to appear in ACDA proceedings</p></details> |
 | **[Multicut Problems in Embedded Graphs: The Dependency of Complexity on the Demand Pattern](http://arxiv.org/abs/2312.11086v2)** | 2025-04-15 |  |
-| **[Minimum Cut Representability of Stable Matching Problems](http://arxiv.org/abs/2504.04577v1)** | 2025-04-06 |  |
 
