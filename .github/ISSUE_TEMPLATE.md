@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 25, 2025
+title: Latest 15 Papers - September 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stealing From the Dragon's Hoard: Online Unbounded Knapsack With Removal](http://arxiv.org/abs/2509.19914v1)** | 2025-09-24 |  |
 | **[Blind Network Revenue Management and Bandits with Knapsacks under Limited Switches](http://arxiv.org/abs/1911.01067v5)** | 2025-09-17 |  |
 | **[Knapsack Contracts and the Importance of Return-on-Investment](http://arxiv.org/abs/2509.05956v1)** | 2025-09-07 |  |
 | **[Entropy stable finite difference methods via entropy correction artificial viscosity and knapsack limiting](http://arxiv.org/abs/2508.21226v2)** | 2025-09-05 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2507.14488</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Near-Optimal Consistency-Robustness Trade-Offs for Learning-Augmented Online Knapsack Problems](http://arxiv.org/abs/2406.18752v2)** | 2025-07-09 | <details><summary>31 pa...</summary><p>31 pages, 16 figures, Accepted at ICML 2025</p></details> |
 | **[Episodic Contextual Bandits with Knapsacks under Conversion Models](http://arxiv.org/abs/2507.06859v1)** | 2025-07-09 |  |
 | **[Dominating Set Knapsack: Profit Optimization on Dominating Sets](http://arxiv.org/abs/2506.24032v2)** | 2025-07-07 |  |
-| **[Quantum Algorithms for Bandits with Knapsacks with Improved Regret and Time Complexities](http://arxiv.org/abs/2507.04438v1)** | 2025-07-06 | 33 pages |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
