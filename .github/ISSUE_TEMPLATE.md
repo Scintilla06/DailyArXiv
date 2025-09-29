@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2025
+title: Latest 15 Papers - September 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Stealing From the Dragon's Hoard: Online Unbounded Knapsack With Removal](http://arxiv.org/abs/2509.19914v1)** | 2025-09-24 |  |
+| **[Stealing From the Dragon's Hoard: Online Unbounded Knapsack With Removal](http://arxiv.org/abs/2509.19914v2)** | 2025-09-26 |  |
 | **[Blind Network Revenue Management and Bandits with Knapsacks under Limited Switches](http://arxiv.org/abs/1911.01067v5)** | 2025-09-17 |  |
 | **[Knapsack Contracts and the Importance of Return-on-Investment](http://arxiv.org/abs/2509.05956v1)** | 2025-09-07 |  |
 | **[Entropy stable finite difference methods via entropy correction artificial viscosity and knapsack limiting](http://arxiv.org/abs/2508.21226v2)** | 2025-09-05 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2507.14488</p></details> |
