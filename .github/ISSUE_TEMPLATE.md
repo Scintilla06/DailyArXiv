@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2025
+title: Latest 15 Papers - October 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation](http://arxiv.org/abs/2509.25849v1)** | 2025-09-30 |  |
 | **[Stealing From the Dragon's Hoard: Online Unbounded Knapsack With Removal](http://arxiv.org/abs/2509.19914v2)** | 2025-09-26 |  |
 | **[Blind Network Revenue Management and Bandits with Knapsacks under Limited Switches](http://arxiv.org/abs/1911.01067v5)** | 2025-09-17 |  |
 | **[Knapsack Contracts and the Importance of Return-on-Investment](http://arxiv.org/abs/2509.05956v1)** | 2025-09-07 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Efficient Branch-and-Bound for Submodular Function Maximization under Knapsack Constraint](http://arxiv.org/abs/2507.11107v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted to ECAI 2025</p></details> |
 | **[Near-Optimal Consistency-Robustness Trade-Offs for Learning-Augmented Online Knapsack Problems](http://arxiv.org/abs/2406.18752v2)** | 2025-07-09 | <details><summary>31 pa...</summary><p>31 pages, 16 figures, Accepted at ICML 2025</p></details> |
 | **[Episodic Contextual Bandits with Knapsacks under Conversion Models](http://arxiv.org/abs/2507.06859v1)** | 2025-07-09 |  |
-| **[Dominating Set Knapsack: Profit Optimization on Dominating Sets](http://arxiv.org/abs/2506.24032v2)** | 2025-07-07 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
