@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 21, 2025
+title: Latest 15 Papers - October 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Exact Solver for Submodular Knapsack Problems](http://arxiv.org/abs/2507.16149v2)** | 2025-10-20 |  |
+| **[Automated Composition of Agents: A Knapsack Approach for Agentic Component Selection](http://arxiv.org/abs/2510.16499v1)** | 2025-10-18 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Conference</p></details> |
 | **[Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation](http://arxiv.org/abs/2509.25849v1)** | 2025-09-30 |  |
 | **[Stealing From the Dragon's Hoard: Online Unbounded Knapsack With Removal](http://arxiv.org/abs/2509.19914v2)** | 2025-09-26 |  |
 | **[Blind Network Revenue Management and Bandits with Knapsacks under Limited Switches](http://arxiv.org/abs/1911.01067v5)** | 2025-09-17 |  |
@@ -17,15 +19,14 @@ labels: documentation
 | **[Performance of the Extended Ising Machine for the Quadratic Knapsack Problem](http://arxiv.org/abs/2508.06909v1)** | 2025-08-09 | 6 pages |
 | **[An Online Multi-dimensional Knapsack Approach for Slice Admission Control](http://arxiv.org/abs/2508.06468v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted by 20th Consumer Communications & Networking Conference (CCNC)</p></details> |
 | **[High-dimensional Linear Bandits with Knapsacks](http://arxiv.org/abs/2311.01327v2)** | 2025-08-02 |  |
-| **[An Exact Solver for Maximizing a Submodular Function Subject to a Knapsack Constraint](http://arxiv.org/abs/2507.16149v1)** | 2025-07-22 |  |
 | **[Entropy Stable Nodal Discontinuous Galerkin Methods via Quadratic Knapsack Limiting](http://arxiv.org/abs/2507.14488v1)** | 2025-07-19 |  |
 | **[Efficient Branch-and-Bound for Submodular Function Maximization under Knapsack Constraint](http://arxiv.org/abs/2507.11107v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted to ECAI 2025</p></details> |
 | **[Near-Optimal Consistency-Robustness Trade-Offs for Learning-Augmented Online Knapsack Problems](http://arxiv.org/abs/2406.18752v2)** | 2025-07-09 | <details><summary>31 pa...</summary><p>31 pages, 16 figures, Accepted at ICML 2025</p></details> |
-| **[Episodic Contextual Bandits with Knapsacks under Conversion Models](http://arxiv.org/abs/2507.06859v1)** | 2025-07-09 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[All-Pairs Minimum Cut using $\tilde{O}(n^{7/4})$ Cut Queries](http://arxiv.org/abs/2510.16741v1)** | 2025-10-19 |  |
 | **[Differentially Private Algorithms for Graphs Under Continual Observation](http://arxiv.org/abs/2106.14756v3)** | 2025-09-23 | <details><summary>Corre...</summary><p>Corrected typos in lower bounds in Table 1. Fixed missing factor $\ell$ in statement of Theorem 45</p></details> |
 | **[Cut-Query Algorithms with Few Rounds](http://arxiv.org/abs/2506.20412v2)** | 2025-09-17 |  |
 | **[Efficient Contractions of Dynamic Graphs -- with Applications](http://arxiv.org/abs/2509.05157v1)** | 2025-09-05 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[An Effective Flow-based Method for Positive-Unlabeled Learning: 2-HNC](http://arxiv.org/abs/2505.08212v1)** | 2025-05-13 |  |
 | **[Near-Optimal Minimum Cuts in Hypergraphs at Scale](http://arxiv.org/abs/2504.19842v2)** | 2025-04-30 |  |
 | **[The Case for External Graph Sketching](http://arxiv.org/abs/2504.17563v1)** | 2025-04-24 | <details><summary>Full ...</summary><p>Full version for paper to appear in ACDA proceedings</p></details> |
-| **[Multicut Problems in Embedded Graphs: The Dependency of Complexity on the Demand Pattern](http://arxiv.org/abs/2312.11086v2)** | 2025-04-15 |  |
 
