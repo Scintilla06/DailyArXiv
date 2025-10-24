@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 24, 2025
+title: Latest 15 Papers - October 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Solving 0-1 Integer Programs with Unknown Knapsack Constraints Using Membership Oracles](http://arxiv.org/abs/2405.14090v4)** | 2025-10-23 |  |
 | **[The Complexity of Recognizing Facets for the Knapsack Polytope](http://arxiv.org/abs/2211.03311v3)** | 2025-10-20 |  |
 | **[An Exact Solver for Submodular Knapsack Problems](http://arxiv.org/abs/2507.16149v2)** | 2025-10-20 |  |
 | **[Automated Composition of Agents: A Knapsack Approach for Agentic Component Selection](http://arxiv.org/abs/2510.16499v1)** | 2025-10-18 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Conference</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[An Online Multi-dimensional Knapsack Approach for Slice Admission Control](http://arxiv.org/abs/2508.06468v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted by 20th Consumer Communications & Networking Conference (CCNC)</p></details> |
 | **[High-dimensional Linear Bandits with Knapsacks](http://arxiv.org/abs/2311.01327v2)** | 2025-08-02 |  |
 | **[Entropy Stable Nodal Discontinuous Galerkin Methods via Quadratic Knapsack Limiting](http://arxiv.org/abs/2507.14488v1)** | 2025-07-19 |  |
-| **[Efficient Branch-and-Bound for Submodular Function Maximization under Knapsack Constraint](http://arxiv.org/abs/2507.11107v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted to ECAI 2025</p></details> |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
