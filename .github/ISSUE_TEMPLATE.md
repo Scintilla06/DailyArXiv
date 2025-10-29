@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 29, 2025
+title: Latest 15 Papers - October 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust Extensible Bin Packing and Revisiting the Convex Knapsack Problem](http://arxiv.org/abs/2510.23765v1)** | 2025-10-27 |  |
 | **[Solving 0-1 Integer Programs with Unknown Knapsack Constraints Using Membership Oracles](http://arxiv.org/abs/2405.14090v4)** | 2025-10-23 |  |
 | **[The Complexity of Recognizing Facets for the Knapsack Polytope](http://arxiv.org/abs/2211.03311v3)** | 2025-10-20 |  |
 | **[An Exact Solver for Submodular Knapsack Problems](http://arxiv.org/abs/2507.16149v2)** | 2025-10-20 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Performance of the Extended Ising Machine for the Quadratic Knapsack Problem](http://arxiv.org/abs/2508.06909v1)** | 2025-08-09 | 6 pages |
 | **[An Online Multi-dimensional Knapsack Approach for Slice Admission Control](http://arxiv.org/abs/2508.06468v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted by 20th Consumer Communications & Networking Conference (CCNC)</p></details> |
 | **[High-dimensional Linear Bandits with Knapsacks](http://arxiv.org/abs/2311.01327v2)** | 2025-08-02 |  |
-| **[Entropy Stable Nodal Discontinuous Galerkin Methods via Quadratic Knapsack Limiting](http://arxiv.org/abs/2507.14488v1)** | 2025-07-19 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
