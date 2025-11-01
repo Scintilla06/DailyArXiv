@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 01, 2025
+title: Latest 15 Papers - November 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -35,4 +35,10 @@ labels: documentation
 | **[Fast Algorithms for Graph Arboricity and Related Problems](http://arxiv.org/abs/2507.15598v1)** | 2025-07-21 | <details><summary>FOCS ...</summary><p>FOCS 2025. 25 pages, 3 figures</p></details> |
 | **[Bicriteria Polygon Aggregation with Arbitrary Shapes](http://arxiv.org/abs/2507.11212v2)** | 2025-07-16 |  |
 | **[Approximating the Held-Karp Bound for Metric TSP in Nearly Linear Work and Polylogarithmic Depth](http://arxiv.org/abs/2411.14745v2)** | 2025-06-23 |  |
+| **[Breaking the O(mn)-Time Barrier for Vertex-Weighted Global Minimum Cut](http://arxiv.org/abs/2506.11926v2)** | 2025-06-18 |  |
+| **[A Framework for the Design of Efficient Diversification Algorithms to NP-Hard Problems](http://arxiv.org/abs/2501.12261v4)** | 2025-06-10 |  |
+| **[Spectral Clustering for Directed Graphs via Likelihood Estimation on Stochastic Block Models](http://arxiv.org/abs/2403.19516v2)** | 2025-06-03 |  |
+| **[An Effective Flow-based Method for Positive-Unlabeled Learning: 2-HNC](http://arxiv.org/abs/2505.08212v1)** | 2025-05-13 |  |
+| **[Near-Optimal Minimum Cuts in Hypergraphs at Scale](http://arxiv.org/abs/2504.19842v2)** | 2025-04-30 |  |
+| **[The Case for External Graph Sketching](http://arxiv.org/abs/2504.17563v1)** | 2025-04-24 | <details><summary>Full ...</summary><p>Full version for paper to appear in ACDA proceedings</p></details> |
 
