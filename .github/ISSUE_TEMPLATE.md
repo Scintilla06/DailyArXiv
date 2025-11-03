@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 03, 2025
+title: Latest 15 Papers - November 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Kad: A Framework for Proxy-based Test-time Alignment with Knapsack Approximation Deferral](http://arxiv.org/abs/2510.27017v1)** | 2025-10-30 |  |
 | **[Message Recovery Attack in NTRU via Knapsack](http://arxiv.org/abs/2510.26003v1)** | 2025-10-29 |  |
 | **[Robust Extensible Bin Packing and Revisiting the Convex Knapsack Problem](http://arxiv.org/abs/2510.23765v1)** | 2025-10-27 |  |
 | **[Solving 0-1 Integer Programs with Unknown Knapsack Constraints Using Membership Oracles](http://arxiv.org/abs/2405.14090v4)** | 2025-10-23 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[$(1-ε)$-Approximation of Knapsack in Nearly Quadratic Time](http://arxiv.org/abs/2308.07004v4)** | 2025-08-10 | <details><summary>Accep...</summary><p>Accepted to STOC 2024; Revision note: expanded technical overview;</p></details> |
 | **[Convolution and Knapsack in Higher Dimensions](http://arxiv.org/abs/2403.16117v2)** | 2025-08-10 | <details><summary>accep...</summary><p>accepted at WADS 2025</p></details> |
 | **[Performance of the Extended Ising Machine for the Quadratic Knapsack Problem](http://arxiv.org/abs/2508.06909v1)** | 2025-08-09 | 6 pages |
-| **[An Online Multi-dimensional Knapsack Approach for Slice Admission Control](http://arxiv.org/abs/2508.06468v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted by 20th Consumer Communications & Networking Conference (CCNC)</p></details> |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
