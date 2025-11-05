@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 05, 2025
+title: Latest 15 Papers - November 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evolutionary Algorithm for Chance Constrained Quadratic Multiple Knapsack Problem](http://arxiv.org/abs/2511.02500v1)** | 2025-11-04 |  |
+| **[A Re-solving Heuristic for Dynamic Assortment Optimization with Knapsack Constraints](http://arxiv.org/abs/2407.05564v2)** | 2025-11-03 |  |
 | **[Kad: A Framework for Proxy-based Test-time Alignment with Knapsack Approximation Deferral](http://arxiv.org/abs/2510.27017v1)** | 2025-10-30 |  |
 | **[Message Recovery Attack in NTRU via Knapsack](http://arxiv.org/abs/2510.26003v1)** | 2025-10-29 |  |
 | **[Robust Extensible Bin Packing and Revisiting the Convex Knapsack Problem](http://arxiv.org/abs/2510.23765v1)** | 2025-10-27 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Knapsack Contracts and the Importance of Return-on-Investment](http://arxiv.org/abs/2509.05956v1)** | 2025-09-07 |  |
 | **[Entropy stable finite difference methods via entropy correction artificial viscosity and knapsack limiting](http://arxiv.org/abs/2508.21226v2)** | 2025-09-05 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2507.14488</p></details> |
 | **[$(1-ε)$-Approximation of Knapsack in Nearly Quadratic Time](http://arxiv.org/abs/2308.07004v4)** | 2025-08-10 | <details><summary>Accep...</summary><p>Accepted to STOC 2024; Revision note: expanded technical overview;</p></details> |
-| **[Convolution and Knapsack in Higher Dimensions](http://arxiv.org/abs/2403.16117v2)** | 2025-08-10 | <details><summary>accep...</summary><p>accepted at WADS 2025</p></details> |
-| **[Performance of the Extended Ising Machine for the Quadratic Knapsack Problem](http://arxiv.org/abs/2508.06909v1)** | 2025-08-09 | 6 pages |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
