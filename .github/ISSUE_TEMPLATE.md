@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 11, 2025
+title: Latest 15 Papers - November 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evolutionary Algorithm for Chance Constrained Quadratic Multiple Knapsack Problem](http://arxiv.org/abs/2511.02500v1)** | 2025-11-04 |  |
-| **[A Re-solving Heuristic for Dynamic Assortment Optimization with Knapsack Constraints](http://arxiv.org/abs/2407.05564v2)** | 2025-11-03 |  |
-| **[Kad: A Framework for Proxy-based Test-time Alignment with Knapsack Approximation Deferral](http://arxiv.org/abs/2510.27017v1)** | 2025-10-30 |  |
-| **[Message Recovery Attack in NTRU via Knapsack](http://arxiv.org/abs/2510.26003v1)** | 2025-10-29 |  |
-| **[Robust Extensible Bin Packing and Revisiting the Convex Knapsack Problem](http://arxiv.org/abs/2510.23765v1)** | 2025-10-27 |  |
-| **[Solving 0-1 Integer Programs with Unknown Knapsack Constraints Using Membership Oracles](http://arxiv.org/abs/2405.14090v4)** | 2025-10-23 |  |
-| **[The Complexity of Recognizing Facets for the Knapsack Polytope](http://arxiv.org/abs/2211.03311v3)** | 2025-10-20 |  |
-| **[An Exact Solver for Submodular Knapsack Problems](http://arxiv.org/abs/2507.16149v2)** | 2025-10-20 |  |
-| **[Automated Composition of Agents: A Knapsack Approach for Agentic Component Selection](http://arxiv.org/abs/2510.16499v1)** | 2025-10-18 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Conference</p></details> |
-| **[Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation](http://arxiv.org/abs/2509.25849v1)** | 2025-09-30 |  |
-| **[Stealing From the Dragon's Hoard: Online Unbounded Knapsack With Removal](http://arxiv.org/abs/2509.19914v2)** | 2025-09-26 |  |
-| **[Blind Network Revenue Management and Bandits with Knapsacks under Limited Switches](http://arxiv.org/abs/1911.01067v5)** | 2025-09-17 |  |
-| **[Knapsack Contracts and the Importance of Return-on-Investment](http://arxiv.org/abs/2509.05956v1)** | 2025-09-07 |  |
-| **[Entropy stable finite difference methods via entropy correction artificial viscosity and knapsack limiting](http://arxiv.org/abs/2508.21226v2)** | 2025-09-05 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2507.14488</p></details> |
-| **[$(1-ε)$-Approximation of Knapsack in Nearly Quadratic Time](http://arxiv.org/abs/2308.07004v4)** | 2025-08-10 | <details><summary>Accep...</summary><p>Accepted to STOC 2024; Revision note: expanded technical overview;</p></details> |
+| **[Fair Knapsack](https://arxiv.org/pdf/1711.04520v2)** | 2018-11-14 | <details><summary>Exten...</summary><p>Extended abstract will appear in Proc. of 33rd AAAI 2019</p></details> |
+| **[Knapsack Problems for Wreath Products](https://arxiv.org/pdf/1709.09598v2)** | 2017-10-03 |  |
+| **[Knapsack in hyperbolic groups](https://arxiv.org/pdf/1807.06774v2)** | 2019-04-10 |  |
+| **[Improvable Knapsack Problems](https://arxiv.org/pdf/1607.08338v1)** | 2016-07-29 |  |
+| **[No Polynomial Kernels for Knapsack](https://arxiv.org/pdf/2308.12593v2)** | 2023-10-11 |  |
+| **[Online Unbounded Knapsack](https://arxiv.org/pdf/2407.02045v2)** | 2024-11-01 |  |
+| **[Group Fairness for Knapsack Problems](https://arxiv.org/pdf/2006.07832v3)** | 2021-01-19 |  |
+| **[Matroid and Knapsack Center Problems](https://arxiv.org/pdf/1301.0745v2)** | 2013-01-16 | <details><summary>A pre...</summary><p>A preliminary version of this paper is accepted to IPCO 2013</p></details> |
+| **[Knapsack: Connectedness, Path, and Shortest-Path](https://arxiv.org/pdf/2307.12547v4)** | 2024-01-25 | <details><summary>Accep...</summary><p>Accepted in LATIN 2024</p></details> |
+| **[The Symmetry between Arms and Knapsacks: A Primal-Dual Approach for Bandits with Knapsacks](https://arxiv.org/pdf/2102.06385v3)** | 2021-06-24 |  |
+| **[Multistage Knapsack](https://arxiv.org/pdf/1901.11260v1)** | 2019-02-01 |  |
+| **[Knapsack problem for automaton groups](https://arxiv.org/pdf/1609.09274v2)** | 2016-12-15 | <details><summary>This ...</summary><p>This article has been withdrawn due to a conceptual error in the proof of the decidability of the problem for bounded automata. The undecidability result remains true</p></details> |
+| **[Removable Online Knapsack and Advice](https://arxiv.org/pdf/2005.01867v2)** | 2024-02-29 |  |
+| **[The Product Knapsack Problem: Approximation and Complexity](https://arxiv.org/pdf/1901.00695v3)** | 2021-06-29 |  |
+| **[The Knapsack Problem with Neighbour Constraints](https://arxiv.org/pdf/0910.0777v4)** | 2011-09-28 | <details><summary>Full ...</summary><p>Full version of IWOCA 2011 paper</p></details> |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Effective Flow-based Method for Positive-Unlabeled Learning: 2-HNC](http://arxiv.org/abs/2505.08212v2)** | 2025-11-02 |  |
-| **[All-Pairs Minimum Cut using $\tilde{O}(n^{7/4})$ Cut Queries](http://arxiv.org/abs/2510.16741v1)** | 2025-10-19 |  |
-| **[Differentially Private Algorithms for Graphs Under Continual Observation](http://arxiv.org/abs/2106.14756v3)** | 2025-09-23 | <details><summary>Corre...</summary><p>Corrected typos in lower bounds in Table 1. Fixed missing factor $\ell$ in statement of Theorem 45</p></details> |
-| **[Cut-Query Algorithms with Few Rounds](http://arxiv.org/abs/2506.20412v2)** | 2025-09-17 |  |
-| **[Efficient Contractions of Dynamic Graphs -- with Applications](http://arxiv.org/abs/2509.05157v1)** | 2025-09-05 |  |
-| **[Min cost flow on unit capacity networks and convex cost K-flow are as easy as the assignment problem with All-Min-Cuts algorithm](http://arxiv.org/abs/1610.04012v2)** | 2025-07-29 |  |
-| **[Dual Charging for Half-Integral TSP](http://arxiv.org/abs/2507.17999v1)** | 2025-07-24 |  |
-| **[Fast Algorithms for Graph Arboricity and Related Problems](http://arxiv.org/abs/2507.15598v1)** | 2025-07-21 | <details><summary>FOCS ...</summary><p>FOCS 2025. 25 pages, 3 figures</p></details> |
-| **[Bicriteria Polygon Aggregation with Arbitrary Shapes](http://arxiv.org/abs/2507.11212v2)** | 2025-07-16 |  |
-| **[Approximating the Held-Karp Bound for Metric TSP in Nearly Linear Work and Polylogarithmic Depth](http://arxiv.org/abs/2411.14745v2)** | 2025-06-23 |  |
-| **[Breaking the O(mn)-Time Barrier for Vertex-Weighted Global Minimum Cut](http://arxiv.org/abs/2506.11926v2)** | 2025-06-18 |  |
-| **[A Framework for the Design of Efficient Diversification Algorithms to NP-Hard Problems](http://arxiv.org/abs/2501.12261v4)** | 2025-06-10 |  |
-| **[Spectral Clustering for Directed Graphs via Likelihood Estimation on Stochastic Block Models](http://arxiv.org/abs/2403.19516v2)** | 2025-06-03 |  |
-| **[Near-Optimal Minimum Cuts in Hypergraphs at Scale](http://arxiv.org/abs/2504.19842v2)** | 2025-04-30 |  |
-| **[The Case for External Graph Sketching](http://arxiv.org/abs/2504.17563v1)** | 2025-04-24 | <details><summary>Full ...</summary><p>Full version for paper to appear in ACDA proceedings</p></details> |
+| **[Approximate minimum cuts and their enumeration](https://arxiv.org/pdf/2211.16747v1)** | 2022-12-01 | Accepted to SOSA'23 |
+| **[The Structure of Minimum Vertex Cuts](https://arxiv.org/pdf/2102.06805v1)** | 2021-02-16 |  |
+| **[Finding All Global Minimum Cuts In Practice](https://arxiv.org/pdf/2002.06948v1)** | 2020-02-18 |  |
+| **[Quantum complexity of minimum cut](https://arxiv.org/pdf/2011.09823v3)** | 2021-05-25 | <details><summary>15 pa...</summary><p>15 pages; v2: improved bounds on query and time complexity; v3: fixes typos, accepted to CCC 2021</p></details> |
+| **[Query Complexity of Global Minimum Cut](https://arxiv.org/pdf/2007.09202v2)** | 2020-08-12 | 15 pages |
+| **[Minimum Cuts in Surface Graphs](https://arxiv.org/pdf/1910.04278v1)** | 2019-10-11 | <details><summary>Unifi...</summary><p>Unifies and improves upon contributions by different subsets of the authors that appeared in SoCG 2009, SODA 2011, and SODA 2012</p></details> |
+| **[Minimum Cuts in Near-Linear Time](https://arxiv.org/pdf/cs/9812007v1)** | 2005-09-17 |  |
+| **[Computing minimum cuts in hypergraphs](https://arxiv.org/pdf/1607.08682v3)** | 2017-05-16 | <details><summary>23 pa...</summary><p>23 pages, 2 figures. Fixed the proof of Theorem 3.5. Corrected typos</p></details> |
+| **[Finding Diverse Minimum s-t Cuts](https://arxiv.org/pdf/2303.07290v3)** | 2024-09-19 | <details><summary>An ea...</summary><p>An earlier version of this work appeared at the 34th International Symposium on Algorithms and Computation (ISAAC 2023). Corrected typos in Section 3 and revised arguments in Section 4. Results unchanged. Added new complexity results in Section 5. Readded missing acknowledgments section</p></details> |
+| **[Practical Minimum Cut Algorithms](https://arxiv.org/pdf/1708.06127v2)** | 2019-06-05 |  |
+| **[On the Connectivity Preserving Minimum Cut Problem](https://arxiv.org/pdf/1309.6689v1)** | 2013-09-27 |  |
+| **[Near-Optimal Minimum Cuts in Hypergraphs at Scale](https://arxiv.org/pdf/2504.19842v2)** | 2025-05-01 |  |
+| **[Shared-memory Exact Minimum Cuts](https://arxiv.org/pdf/1808.05458v1)** | 2018-08-17 |  |
+| **[A Distributed Minimum Cut Approximation Scheme](https://arxiv.org/pdf/1401.5316v1)** | 2014-01-22 |  |
+| **[Minimum Stable Cut and Treewidth](https://arxiv.org/pdf/2104.13097v3)** | 2025-08-21 | <details><summary>Full ...</summary><p>Full version of ICALP 2021 paper</p></details> |
 
