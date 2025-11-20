@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 20, 2025
+title: Latest 15 Papers - November 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Combinatorial Optimization using Comparison Oracles](https://arxiv.org/abs/2511.15142v1)** | 2025-11-19 |  |
 | **[Rankwidth of Graphs with Balanced Separations: Expansion for Dense Graphs](https://arxiv.org/abs/2511.13528v1)** | 2025-11-17 | 20 pages |
 | **[Greedy matroid base packings with applications to dynamic graph density and orientations](https://arxiv.org/abs/2511.13205v1)** | 2025-11-17 |  |
 | **[A new approach to bipartite stable matching optimization](https://arxiv.org/abs/2409.04885v2)** | 2025-11-13 | 38 pages |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Minimum $s$--$t$ Cuts with Fewer Cut Queries](https://arxiv.org/abs/2510.18274v1)** | 2025-10-21 |  |
 | **[All-Pairs Minimum Cut using $\tilde{O}(n^{7/4})$ Cut Queries](https://arxiv.org/abs/2510.16741v1)** | 2025-10-19 |  |
 | **[PLS-complete problems with lexicographic cost functions: Max-$k$-SAT and Abelian Permutation Orbit Minimization](https://arxiv.org/abs/2510.15712v1)** | 2025-10-17 | 26 pages |
-| **[Sensitivity Lower Bounds for Approximaiton Algorithms](https://arxiv.org/abs/2411.02744v3)** | 2025-10-16 | SODA'26 |
 
