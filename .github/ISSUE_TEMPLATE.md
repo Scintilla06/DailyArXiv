@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 21, 2025
+title: Latest 15 Papers - November 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimal Approximations for the Requirement Cut Problem on Sparse Graph Classes](https://arxiv.org/abs/2505.21433v3)** | 2025-11-20 |  |
+| **[Connectivity-Preserving Important Separators: Enumeration and an Improved FPT Algorithm for Node Multiway Cut-Uncut](https://arxiv.org/abs/2511.15849v1)** | 2025-11-19 |  |
 | **[Combinatorial Optimization using Comparison Oracles](https://arxiv.org/abs/2511.15142v1)** | 2025-11-19 |  |
 | **[Rankwidth of Graphs with Balanced Separations: Expansion for Dense Graphs](https://arxiv.org/abs/2511.13528v1)** | 2025-11-17 | 20 pages |
 | **[Greedy matroid base packings with applications to dynamic graph density and orientations](https://arxiv.org/abs/2511.13205v1)** | 2025-11-17 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Constructive Characterization and Recognition Algorithm for Grafts with a Connected Minimum Join](https://arxiv.org/abs/2510.26975v1)** | 2025-10-30 |  |
 | **[Combinatorial Algorithm for Tropical Linearly Factorized Programming](https://arxiv.org/abs/2507.07596v2)** | 2025-10-21 |  |
 | **[Minimum $s$--$t$ Cuts with Fewer Cut Queries](https://arxiv.org/abs/2510.18274v1)** | 2025-10-21 |  |
-| **[All-Pairs Minimum Cut using $\tilde{O}(n^{7/4})$ Cut Queries](https://arxiv.org/abs/2510.16741v1)** | 2025-10-19 |  |
-| **[PLS-complete problems with lexicographic cost functions: Max-$k$-SAT and Abelian Permutation Orbit Minimization](https://arxiv.org/abs/2510.15712v1)** | 2025-10-17 | 26 pages |
 
