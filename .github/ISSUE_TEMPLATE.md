@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 25, 2025
+title: Latest 15 Papers - November 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,8 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimal Approximations for the Requirement Cut Problem on Sparse Graph Classes](https://arxiv.org/abs/2505.21433v4)** | 2025-11-24 |  |
 | **[Reinforced Generation of Combinatorial Structures: Applications to Complexity Theory](https://arxiv.org/abs/2509.18057v5)** | 2025-11-20 |  |
-| **[Optimal Approximations for the Requirement Cut Problem on Sparse Graph Classes](https://arxiv.org/abs/2505.21433v3)** | 2025-11-20 |  |
 | **[Connectivity-Preserving Important Separators: Enumeration and an Improved FPT Algorithm for Node Multiway Cut-Uncut](https://arxiv.org/abs/2511.15849v1)** | 2025-11-19 |  |
 | **[Combinatorial Optimization using Comparison Oracles](https://arxiv.org/abs/2511.15142v1)** | 2025-11-19 |  |
 | **[Rankwidth of Graphs with Balanced Separations: Expansion for Dense Graphs](https://arxiv.org/abs/2511.13528v1)** | 2025-11-17 | 20 pages |
