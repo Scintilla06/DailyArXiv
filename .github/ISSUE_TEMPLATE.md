@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 01, 2025
+title: Latest 15 Papers - December 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Automated Composition of Agents: A Knapsack Approach for Agentic Component Selection](https://arxiv.org/abs/2510.16499v2)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Conference</p></details> |
 | **[Evolutionary Algorithm for Chance Constrained Quadratic Multiple Knapsack Problem](https://arxiv.org/abs/2511.02500v1)** | 2025-11-04 |  |
 | **[A Re-solving Heuristic for Dynamic Assortment Optimization with Knapsack Constraints](https://arxiv.org/abs/2407.05564v2)** | 2025-11-03 |  |
 | **[Kad: A Framework for Proxy-based Test-time Alignment with Knapsack Approximation Deferral](https://arxiv.org/abs/2510.27017v1)** | 2025-10-30 |  |
@@ -15,7 +16,6 @@ labels: documentation
 | **[Solving 0-1 Integer Programs with Unknown Knapsack Constraints Using Membership Oracles](https://arxiv.org/abs/2405.14090v4)** | 2025-10-23 |  |
 | **[The Complexity of Recognizing Facets for the Knapsack Polytope](https://arxiv.org/abs/2211.03311v3)** | 2025-10-20 |  |
 | **[An Exact Solver for Submodular Knapsack Problems](https://arxiv.org/abs/2507.16149v2)** | 2025-10-20 |  |
-| **[Automated Composition of Agents: A Knapsack Approach for Agentic Component Selection](https://arxiv.org/abs/2510.16499v1)** | 2025-10-18 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Conference</p></details> |
 | **[Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation](https://arxiv.org/abs/2509.25849v1)** | 2025-09-30 |  |
 | **[Stealing From the Dragon's Hoard: Online Unbounded Knapsack With Removal](https://arxiv.org/abs/2509.19914v2)** | 2025-09-26 |  |
 | **[Blind Network Revenue Management and Bandits with Knapsacks under Limited Switches](https://arxiv.org/abs/1911.01067v5)** | 2025-09-17 |  |
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Width Parameters for Minimum Flow Decomposition](https://arxiv.org/abs/2409.20278v2)** | 2025-11-26 |  |
 | **[Optimal Approximations for the Requirement Cut Problem on Sparse Graph Classes](https://arxiv.org/abs/2505.21433v4)** | 2025-11-24 |  |
 | **[Reinforced Generation of Combinatorial Structures: Applications to Complexity Theory](https://arxiv.org/abs/2509.18057v5)** | 2025-11-20 |  |
 | **[Connectivity-Preserving Important Separators: Enumeration and an Improved FPT Algorithm for Node Multiway Cut-Uncut](https://arxiv.org/abs/2511.15849v1)** | 2025-11-19 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[$O(\log n)$-Approximation Algorithms for Bipartiteness Ratio](https://arxiv.org/abs/2507.12847v2)** | 2025-11-04 | <details><summary>Previ...</summary><p>Previous title: "Cut-Matching Games for Bipartiteness Ratio of Undirected Graphs"</p></details> |
 | **[An Effective Flow-based Method for Positive-Unlabeled Learning: 2-HNC](https://arxiv.org/abs/2505.08212v2)** | 2025-11-02 |  |
 | **[Constructive Characterization and Recognition Algorithm for Grafts with a Connected Minimum Join](https://arxiv.org/abs/2510.26975v1)** | 2025-10-30 |  |
-| **[Combinatorial Algorithm for Tropical Linearly Factorized Programming](https://arxiv.org/abs/2507.07596v2)** | 2025-10-21 |  |
 
