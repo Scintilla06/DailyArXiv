@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 05, 2025
+title: Latest 15 Papers - December 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PLS-complete problems with lexicographic cost functions: Max-$k$-SAT and Abelian Permutation Orbit Minimization](https://arxiv.org/abs/2510.15712v2)** | 2025-12-04 | 29 pages |
 | **[Approximating Directed Connectivity in Almost-Linear Time](https://arxiv.org/abs/2512.00176v1)** | 2025-11-28 |  |
 | **[Maximum-Flow and Minimum-Cut Sensitivity Oracles for Directed Graphs](https://arxiv.org/abs/2512.00153v1)** | 2025-11-28 |  |
 | **[Width Parameters for Minimum Flow Decomposition](https://arxiv.org/abs/2409.20278v2)** | 2025-11-26 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Efficient Distributed Exact Subgraph Matching via GNN-PE: Load Balancing, Cache Optimization, and Query Plan Ranking](https://arxiv.org/abs/2511.09052v1)** | 2025-11-12 | 10 pages |
 | **[A Better-Than-2 Approximation for the Directed Tree Augmentation Problem](https://arxiv.org/abs/2511.06162v1)** | 2025-11-08 | <details><summary>To ap...</summary><p>To appear in SODA 2026</p></details> |
 | **[Pointwise Lipschitz Continuous Graph Algorithms](https://arxiv.org/abs/2405.08938v4)** | 2025-11-07 |  |
-| **[$O(\log n)$-Approximation Algorithms for Bipartiteness Ratio](https://arxiv.org/abs/2507.12847v2)** | 2025-11-04 | <details><summary>Previ...</summary><p>Previous title: "Cut-Matching Games for Bipartiteness Ratio of Undirected Graphs"</p></details> |
 
