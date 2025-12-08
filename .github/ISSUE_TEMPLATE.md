@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 08, 2025
+title: Latest 15 Papers - December 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,19 +26,19 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PLS-complete problems with lexicographic cost functions: Max-$k$-SAT and Abelian Permutation Orbit Minimization](https://arxiv.org/abs/2510.15712v2)** | 2025-12-04 | 29 pages |
-| **[Approximating Directed Connectivity in Almost-Linear Time](https://arxiv.org/abs/2512.00176v1)** | 2025-11-28 |  |
+| **[Crude Approximation of Directed Minimum Cut and Arborescence Packing in Almost Linear Time](https://arxiv.org/abs/2512.05300v1)** | 2025-12-04 |  |
 | **[Maximum-Flow and Minimum-Cut Sensitivity Oracles for Directed Graphs](https://arxiv.org/abs/2512.00153v1)** | 2025-11-28 |  |
-| **[Width Parameters for Minimum Flow Decomposition](https://arxiv.org/abs/2409.20278v2)** | 2025-11-26 |  |
-| **[Optimal Approximations for the Requirement Cut Problem on Sparse Graph Classes](https://arxiv.org/abs/2505.21433v4)** | 2025-11-24 |  |
-| **[Reinforced Generation of Combinatorial Structures: Applications to Complexity Theory](https://arxiv.org/abs/2509.18057v5)** | 2025-11-20 |  |
-| **[Connectivity-Preserving Important Separators: Enumeration and an Improved FPT Algorithm for Node Multiway Cut-Uncut](https://arxiv.org/abs/2511.15849v1)** | 2025-11-19 |  |
 | **[Combinatorial Optimization using Comparison Oracles](https://arxiv.org/abs/2511.15142v1)** | 2025-11-19 |  |
-| **[Rankwidth of Graphs with Balanced Separations: Expansion for Dense Graphs](https://arxiv.org/abs/2511.13528v1)** | 2025-11-17 | 20 pages |
-| **[Greedy matroid base packings with applications to dynamic graph density and orientations](https://arxiv.org/abs/2511.13205v1)** | 2025-11-17 |  |
-| **[A new approach to bipartite stable matching optimization](https://arxiv.org/abs/2409.04885v2)** | 2025-11-13 | 38 pages |
 | **[Faster All-Pairs Minimum Cut: Bypassing Exact Max-Flow](https://arxiv.org/abs/2511.10036v1)** | 2025-11-13 |  |
-| **[Efficient Distributed Exact Subgraph Matching via GNN-PE: Load Balancing, Cache Optimization, and Query Plan Ranking](https://arxiv.org/abs/2511.09052v1)** | 2025-11-12 | 10 pages |
-| **[A Better-Than-2 Approximation for the Directed Tree Augmentation Problem](https://arxiv.org/abs/2511.06162v1)** | 2025-11-08 | <details><summary>To ap...</summary><p>To appear in SODA 2026</p></details> |
-| **[Pointwise Lipschitz Continuous Graph Algorithms](https://arxiv.org/abs/2405.08938v4)** | 2025-11-07 |  |
+| **[An Effective Flow-based Method for Positive-Unlabeled Learning: 2-HNC](https://arxiv.org/abs/2505.08212v2)** | 2025-11-02 |  |
+| **[All-Pairs Minimum Cut using $\tilde{O}(n^{7/4})$ Cut Queries](https://arxiv.org/abs/2510.16741v1)** | 2025-10-19 |  |
+| **[Differentially Private Algorithms for Graphs Under Continual Observation](https://arxiv.org/abs/2106.14756v3)** | 2025-09-23 | <details><summary>Corre...</summary><p>Corrected typos in lower bounds in Table 1. Fixed missing factor $\ell$ in statement of Theorem 45</p></details> |
+| **[Cut-Query Algorithms with Few Rounds](https://arxiv.org/abs/2506.20412v2)** | 2025-09-17 |  |
+| **[Efficient Contractions of Dynamic Graphs -- with Applications](https://arxiv.org/abs/2509.05157v1)** | 2025-09-05 |  |
+| **[Min cost flow on unit capacity networks and convex cost K-flow are as easy as the assignment problem with All-Min-Cuts algorithm](https://arxiv.org/abs/1610.04012v2)** | 2025-07-29 |  |
+| **[Dual Charging for Half-Integral TSP](https://arxiv.org/abs/2507.17999v1)** | 2025-07-24 |  |
+| **[Fast Algorithms for Graph Arboricity and Related Problems](https://arxiv.org/abs/2507.15598v1)** | 2025-07-21 | <details><summary>FOCS ...</summary><p>FOCS 2025. 25 pages, 3 figures</p></details> |
+| **[Bicriteria Polygon Aggregation with Arbitrary Shapes](https://arxiv.org/abs/2507.11212v2)** | 2025-07-16 |  |
+| **[Approximating the Held-Karp Bound for Metric TSP in Nearly Linear Work and Polylogarithmic Depth](https://arxiv.org/abs/2411.14745v2)** | 2025-06-23 |  |
+| **[Breaking the O(mn)-Time Barrier for Vertex-Weighted Global Minimum Cut](https://arxiv.org/abs/2506.11926v2)** | 2025-06-18 |  |
 
