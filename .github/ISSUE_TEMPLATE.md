@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 17, 2025
+title: Latest 15 Papers - December 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,8 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Almost-Optimal Approximation Algorithms for Global Minimum Cut in Directed Graphs](https://arxiv.org/abs/2512.09080v2)** | 2025-12-16 | <details><summary>40 pa...</summary><p>40 pages. Submitted to STOC 2026</p></details> |
 | **[Deterministic and Exact Fully-dynamic Minimum Cut of Superpolylogarithmic Size in Subpolynomial Time](https://arxiv.org/abs/2512.13105v1)** | 2025-12-15 | <details><summary>To ap...</summary><p>To appear at SODA 2026</p></details> |
-| **[Almost-Optimal Approximation Algorithms for Global Minimum Cut in Directed Graphs](https://arxiv.org/abs/2512.09080v1)** | 2025-12-09 | <details><summary>40 pa...</summary><p>40 pages. Submitted to STOC 2026</p></details> |
 | **[Crude Approximation of Directed Minimum Cut and Arborescence Packing in Almost Linear Time](https://arxiv.org/abs/2512.05300v1)** | 2025-12-04 |  |
 | **[Maximum-Flow and Minimum-Cut Sensitivity Oracles for Directed Graphs](https://arxiv.org/abs/2512.00153v1)** | 2025-11-28 |  |
 | **[Combinatorial Optimization using Comparison Oracles](https://arxiv.org/abs/2511.15142v1)** | 2025-11-19 |  |
