@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 25, 2025
+title: Latest 15 Papers - December 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An O($nlogn$) approximate knapsack algorithm](https://arxiv.org/abs/2512.21195v1)** | 2025-12-24 | 8 pages |
 | **[Near-Optimal Sparsifiers for Stochastic Knapsack and Assignment Problems](https://arxiv.org/abs/2512.01240v1)** | 2025-12-01 | <details><summary>51 pa...</summary><p>51 pages, 8 figures. Accepted to ITCS 2026</p></details> |
 | **[Automated Composition of Agents: A Knapsack Approach for Agentic Component Selection](https://arxiv.org/abs/2510.16499v2)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Conference</p></details> |
 | **[Evolutionary Algorithm for Chance Constrained Quadratic Multiple Knapsack Problem](https://arxiv.org/abs/2511.02500v1)** | 2025-11-04 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Stealing From the Dragon's Hoard: Online Unbounded Knapsack With Removal](https://arxiv.org/abs/2509.19914v2)** | 2025-09-26 |  |
 | **[Blind Network Revenue Management and Bandits with Knapsacks under Limited Switches](https://arxiv.org/abs/1911.01067v5)** | 2025-09-17 |  |
 | **[Knapsack Contracts and the Importance of Return-on-Investment](https://arxiv.org/abs/2509.05956v1)** | 2025-09-07 |  |
-| **[$(1-ε)$-Approximation of Knapsack in Nearly Quadratic Time](https://arxiv.org/abs/2308.07004v4)** | 2025-08-10 | <details><summary>Accep...</summary><p>Accepted to STOC 2024; Revision note: expanded technical overview;</p></details> |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
