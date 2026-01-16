@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 16, 2026
+title: Latest 15 Papers - January 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Construction Framework of Coded Caching Scheme for Multi-Access MIMO Systems via Knapsack Problem](https://arxiv.org/abs/2601.10484v1)** | 2026-01-15 |  |
+| **[Shadoks Approach to Knapsack Polygonal Packing](https://arxiv.org/abs/2403.20123v3)** | 2026-01-15 |  |
 | **[Episodic Contextual Bandits with Knapsacks under Conversion Models](https://arxiv.org/abs/2507.06859v2)** | 2026-01-02 |  |
 | **[An O(nlogn) approximate knapsack algorithm](https://arxiv.org/abs/2512.21195v2)** | 2025-12-27 | <details><summary>8 pag...</summary><p>8 pages: removed latex from metadata title and abstract to improve readability</p></details> |
 | **[Near-Optimal Sparsifiers for Stochastic Knapsack and Assignment Problems](https://arxiv.org/abs/2512.01240v1)** | 2025-12-01 | <details><summary>51 pa...</summary><p>51 pages, 8 figures. Accepted to ITCS 2026</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[The Complexity of Recognizing Facets for the Knapsack Polytope](https://arxiv.org/abs/2211.03311v3)** | 2025-10-20 |  |
 | **[An Exact Solver for Submodular Knapsack Problems](https://arxiv.org/abs/2507.16149v2)** | 2025-10-20 |  |
 | **[Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation](https://arxiv.org/abs/2509.25849v1)** | 2025-09-30 |  |
-| **[Stealing From the Dragon's Hoard: Online Unbounded Knapsack With Removal](https://arxiv.org/abs/2509.19914v2)** | 2025-09-26 |  |
-| **[Blind Network Revenue Management and Bandits with Knapsacks under Limited Switches](https://arxiv.org/abs/1911.01067v5)** | 2025-09-17 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
