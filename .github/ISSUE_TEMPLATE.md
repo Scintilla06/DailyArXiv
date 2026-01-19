@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 19, 2026
+title: Latest 15 Papers - January 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Construction Framework of Coded Caching Scheme for Multi-Access MIMO Systems via Knapsack Problem](https://arxiv.org/abs/2601.10484v1)** | 2026-01-15 |  |
+| **[A Construction Framework of Coded Caching Scheme for Multi-Access MISO Systems via Knapsack Problem](https://arxiv.org/abs/2601.10484v2)** | 2026-01-16 |  |
 | **[Shadoks Approach to Knapsack Polygonal Packing](https://arxiv.org/abs/2403.20123v3)** | 2026-01-15 |  |
 | **[Episodic Contextual Bandits with Knapsacks under Conversion Models](https://arxiv.org/abs/2507.06859v2)** | 2026-01-02 |  |
 | **[An O(nlogn) approximate knapsack algorithm](https://arxiv.org/abs/2512.21195v2)** | 2025-12-27 | <details><summary>8 pag...</summary><p>8 pages: removed latex from metadata title and abstract to improve readability</p></details> |
