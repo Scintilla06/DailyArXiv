@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2026
+title: Latest 15 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Kad: A Framework for Proxy-based Test-time Alignment with Knapsack Approximation Deferral](https://arxiv.org/abs/2510.27017v2)** | 2026-01-24 | EACL 2026 main |
 | **[A Construction Framework of Coded Caching Scheme for Multi-Access MISO Systems via Knapsack Problem](https://arxiv.org/abs/2601.10484v2)** | 2026-01-16 |  |
 | **[Shadoks Approach to Knapsack Polygonal Packing](https://arxiv.org/abs/2403.20123v3)** | 2026-01-15 |  |
 | **[Episodic Contextual Bandits with Knapsacks under Conversion Models](https://arxiv.org/abs/2507.06859v2)** | 2026-01-02 |  |
@@ -15,7 +16,6 @@ labels: documentation
 | **[Automated Composition of Agents: A Knapsack Approach for Agentic Component Selection](https://arxiv.org/abs/2510.16499v2)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Conference</p></details> |
 | **[Evolutionary Algorithm for Chance Constrained Quadratic Multiple Knapsack Problem](https://arxiv.org/abs/2511.02500v1)** | 2025-11-04 |  |
 | **[A Re-solving Heuristic for Dynamic Assortment Optimization with Knapsack Constraints](https://arxiv.org/abs/2407.05564v2)** | 2025-11-03 |  |
-| **[Kad: A Framework for Proxy-based Test-time Alignment with Knapsack Approximation Deferral](https://arxiv.org/abs/2510.27017v1)** | 2025-10-30 |  |
 | **[Message Recovery Attack in NTRU via Knapsack](https://arxiv.org/abs/2510.26003v1)** | 2025-10-29 |  |
 | **[Robust Extensible Bin Packing and Revisiting the Convex Knapsack Problem](https://arxiv.org/abs/2510.23765v1)** | 2025-10-27 |  |
 | **[Solving 0-1 Integer Programs with Unknown Knapsack Constraints Using Membership Oracles](https://arxiv.org/abs/2405.14090v4)** | 2025-10-23 |  |
