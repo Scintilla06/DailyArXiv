@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 29, 2026
+title: Latest 15 Papers - January 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic framework for edge-connectivity maintenance of simple graphs](https://arxiv.org/abs/2601.20137v1)** | 2026-01-27 |  |
 | **[Dynamic Hierarchical $j$-Tree Decomposition and Its Applications](https://arxiv.org/abs/2601.09139v1)** | 2026-01-14 | SODA 2026 |
 | **[Pseudodeterministic Algorithms for Minimum Cut Problems](https://arxiv.org/abs/2512.23468v1)** | 2025-12-29 | <details><summary>Accep...</summary><p>Accepted to ITCS 2026</p></details> |
 | **[Approximating Directed Minimum Cut and Arborescence Packing via Directed Expander Hierarchies](https://arxiv.org/abs/2512.05300v2)** | 2025-12-17 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Cut-Query Algorithms with Few Rounds](https://arxiv.org/abs/2506.20412v2)** | 2025-09-17 |  |
 | **[Efficient Contractions of Dynamic Graphs -- with Applications](https://arxiv.org/abs/2509.05157v1)** | 2025-09-05 |  |
 | **[Min cost flow on unit capacity networks and convex cost K-flow are as easy as the assignment problem with All-Min-Cuts algorithm](https://arxiv.org/abs/1610.04012v2)** | 2025-07-29 |  |
-| **[Dual Charging for Half-Integral TSP](https://arxiv.org/abs/2507.17999v1)** | 2025-07-24 |  |
 
