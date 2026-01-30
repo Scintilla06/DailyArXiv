@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 30, 2026
+title: Latest 15 Papers - January 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dominating Set Knapsack: Profit Optimization on Dominating Sets](https://arxiv.org/abs/2506.24032v3)** | 2026-01-29 |  |
+| **[Differentiable Knapsack and Top-k Operators via Dynamic Programming](https://arxiv.org/abs/2601.21775v1)** | 2026-01-29 |  |
 | **[Kad: A Framework for Proxy-based Test-time Alignment with Knapsack Approximation Deferral](https://arxiv.org/abs/2510.27017v2)** | 2026-01-24 | EACL 2026 main |
 | **[A Construction Framework of Coded Caching Scheme for Multi-Access MISO Systems via Knapsack Problem](https://arxiv.org/abs/2601.10484v2)** | 2026-01-16 |  |
 | **[Shadoks Approach to Knapsack Polygonal Packing](https://arxiv.org/abs/2403.20123v3)** | 2026-01-15 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Robust Extensible Bin Packing and Revisiting the Convex Knapsack Problem](https://arxiv.org/abs/2510.23765v1)** | 2025-10-27 |  |
 | **[Solving 0-1 Integer Programs with Unknown Knapsack Constraints Using Membership Oracles](https://arxiv.org/abs/2405.14090v4)** | 2025-10-23 |  |
 | **[The Complexity of Recognizing Facets for the Knapsack Polytope](https://arxiv.org/abs/2211.03311v3)** | 2025-10-20 |  |
-| **[An Exact Solver for Submodular Knapsack Problems](https://arxiv.org/abs/2507.16149v2)** | 2025-10-20 |  |
-| **[Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation](https://arxiv.org/abs/2509.25849v1)** | 2025-09-30 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
