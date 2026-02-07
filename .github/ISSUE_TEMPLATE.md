@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 06, 2026
+title: Latest 15 Papers - February 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Atomic Information Flow: A Network Flow Model for Tool Attributions in RAG Systems](https://arxiv.org/abs/2602.04912v1)** | 2026-02-04 |  |
 | **[Dynamic framework for edge-connectivity maintenance of simple graphs](https://arxiv.org/abs/2601.20137v1)** | 2026-01-27 |  |
 | **[Dynamic Hierarchical $j$-Tree Decomposition and Its Applications](https://arxiv.org/abs/2601.09139v1)** | 2026-01-14 | SODA 2026 |
 | **[Pseudodeterministic Algorithms for Minimum Cut Problems](https://arxiv.org/abs/2512.23468v1)** | 2025-12-29 | <details><summary>Accep...</summary><p>Accepted to ITCS 2026</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Differentially Private Algorithms for Graphs Under Continual Observation](https://arxiv.org/abs/2106.14756v3)** | 2025-09-23 | <details><summary>Corre...</summary><p>Corrected typos in lower bounds in Table 1. Fixed missing factor $\ell$ in statement of Theorem 45</p></details> |
 | **[Cut-Query Algorithms with Few Rounds](https://arxiv.org/abs/2506.20412v2)** | 2025-09-17 |  |
 | **[Efficient Contractions of Dynamic Graphs -- with Applications](https://arxiv.org/abs/2509.05157v1)** | 2025-09-05 |  |
-| **[Min cost flow on unit capacity networks and convex cost K-flow are as easy as the assignment problem with All-Min-Cuts algorithm](https://arxiv.org/abs/1610.04012v2)** | 2025-07-29 |  |
 
