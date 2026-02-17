@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 17, 2026
+title: Latest 15 Papers - February 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Faster Pseudo-Deterministic Minimum Cut](https://arxiv.org/abs/2602.14550v1)** | 2026-02-16 |  |
 | **[Compact Conformal Subgraphs](https://arxiv.org/abs/2602.07530v1)** | 2026-02-07 |  |
 | **[Atomic Information Flow: A Network Flow Model for Tool Attributions in RAG Systems](https://arxiv.org/abs/2602.04912v1)** | 2026-02-04 |  |
 | **[Dynamic framework for edge-connectivity maintenance of simple graphs](https://arxiv.org/abs/2601.20137v1)** | 2026-01-27 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[An Effective Flow-based Method for Positive-Unlabeled Learning: 2-HNC](https://arxiv.org/abs/2505.08212v2)** | 2025-11-02 |  |
 | **[All-Pairs Minimum Cut using $\tilde{O}(n^{7/4})$ Cut Queries](https://arxiv.org/abs/2510.16741v1)** | 2025-10-19 |  |
 | **[Differentially Private Algorithms for Graphs Under Continual Observation](https://arxiv.org/abs/2106.14756v3)** | 2025-09-23 | <details><summary>Corre...</summary><p>Corrected typos in lower bounds in Table 1. Fixed missing factor $\ell$ in statement of Theorem 45</p></details> |
-| **[Cut-Query Algorithms with Few Rounds](https://arxiv.org/abs/2506.20412v2)** | 2025-09-17 |  |
 
