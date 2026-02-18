@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 18, 2026
+title: Latest 15 Papers - February 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stochastic Knapsack with Costs: On Adaptivity and Return-on-Investment](https://arxiv.org/abs/2509.05956v2)** | 2026-02-17 |  |
 | **[ROCKET: Rapid Optimization via Calibration-guided Knapsack Enhanced Truncation for Efficient Model Compression](https://arxiv.org/abs/2602.11008v1)** | 2026-02-11 |  |
 | **[Dominating Set Knapsack: Profit Optimization on Dominating Sets](https://arxiv.org/abs/2506.24032v3)** | 2026-01-29 |  |
 | **[Differentiable Knapsack and Top-k Operators via Dynamic Programming](https://arxiv.org/abs/2601.21775v1)** | 2026-01-29 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[A Re-solving Heuristic for Dynamic Assortment Optimization with Knapsack Constraints](https://arxiv.org/abs/2407.05564v2)** | 2025-11-03 |  |
 | **[Message Recovery Attack in NTRU via Knapsack](https://arxiv.org/abs/2510.26003v1)** | 2025-10-29 |  |
 | **[Robust Extensible Bin Packing and Revisiting the Convex Knapsack Problem](https://arxiv.org/abs/2510.23765v1)** | 2025-10-27 |  |
-| **[Solving 0-1 Integer Programs with Unknown Knapsack Constraints Using Membership Oracles](https://arxiv.org/abs/2405.14090v4)** | 2025-10-23 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
