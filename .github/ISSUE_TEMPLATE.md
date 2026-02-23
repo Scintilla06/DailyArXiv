@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 23, 2026
+title: Latest 15 Papers - February 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Combinatorial Optimization using Comparison Oracles](https://arxiv.org/abs/2511.15142v2)** | 2026-02-20 |  |
 | **[Faster Pseudo-Deterministic Minimum Cut](https://arxiv.org/abs/2602.14550v1)** | 2026-02-16 |  |
 | **[Compact Conformal Subgraphs](https://arxiv.org/abs/2602.07530v1)** | 2026-02-07 |  |
 | **[Atomic Information Flow: A Network Flow Model for Tool Attributions in RAG Systems](https://arxiv.org/abs/2602.04912v1)** | 2026-02-04 |  |
@@ -36,7 +37,6 @@ labels: documentation
 | **[Almost-Optimal Approximation Algorithms for Global Minimum Cut in Directed Graphs](https://arxiv.org/abs/2512.09080v2)** | 2025-12-16 | <details><summary>40 pa...</summary><p>40 pages. Submitted to STOC 2026</p></details> |
 | **[Deterministic and Exact Fully-dynamic Minimum Cut of Superpolylogarithmic Size in Subpolynomial Time](https://arxiv.org/abs/2512.13105v1)** | 2025-12-15 | <details><summary>To ap...</summary><p>To appear at SODA 2026</p></details> |
 | **[Maximum-Flow and Minimum-Cut Sensitivity Oracles for Directed Graphs](https://arxiv.org/abs/2512.00153v1)** | 2025-11-28 |  |
-| **[Combinatorial Optimization using Comparison Oracles](https://arxiv.org/abs/2511.15142v1)** | 2025-11-19 |  |
 | **[Faster All-Pairs Minimum Cut: Bypassing Exact Max-Flow](https://arxiv.org/abs/2511.10036v1)** | 2025-11-13 |  |
 | **[An Effective Flow-based Method for Positive-Unlabeled Learning: 2-HNC](https://arxiv.org/abs/2505.08212v2)** | 2025-11-02 |  |
 | **[All-Pairs Minimum Cut using $\tilde{O}(n^{7/4})$ Cut Queries](https://arxiv.org/abs/2510.16741v1)** | 2025-10-19 |  |
