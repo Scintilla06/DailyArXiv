@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 24, 2026
+title: Latest 15 Papers - February 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,8 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Faster Pseudo-Deterministic Minimum Cut](https://arxiv.org/abs/2602.14550v2)** | 2026-02-22 | Corrected references |
 | **[Combinatorial Optimization using Comparison Oracles](https://arxiv.org/abs/2511.15142v2)** | 2026-02-20 |  |
-| **[Faster Pseudo-Deterministic Minimum Cut](https://arxiv.org/abs/2602.14550v1)** | 2026-02-16 |  |
 | **[Compact Conformal Subgraphs](https://arxiv.org/abs/2602.07530v1)** | 2026-02-07 |  |
 | **[Atomic Information Flow: A Network Flow Model for Tool Attributions in RAG Systems](https://arxiv.org/abs/2602.04912v1)** | 2026-02-04 |  |
 | **[Dynamic framework for edge-connectivity maintenance of simple graphs](https://arxiv.org/abs/2601.20137v1)** | 2026-01-27 |  |
