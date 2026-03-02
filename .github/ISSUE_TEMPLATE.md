@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 02, 2026
+title: Latest 15 Papers - March 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stochastic Knapsack -- Semi-Adaptivity Gaps and Improved Approximation](https://arxiv.org/abs/2602.24042v1)** | 2026-02-27 |  |
 | **[KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem](https://arxiv.org/abs/2602.20217v1)** | 2026-02-23 |  |
 | **[Stochastic Knapsack with Costs: On Adaptivity and Return-on-Investment](https://arxiv.org/abs/2509.05956v2)** | 2026-02-17 |  |
 | **[ROCKET: Rapid Optimization via Calibration-guided Knapsack Enhanced Truncation for Efficient Model Compression](https://arxiv.org/abs/2602.11008v1)** | 2026-02-11 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Automated Composition of Agents: A Knapsack Approach for Agentic Component Selection](https://arxiv.org/abs/2510.16499v2)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Conference</p></details> |
 | **[Evolutionary Algorithm for Chance Constrained Quadratic Multiple Knapsack Problem](https://arxiv.org/abs/2511.02500v1)** | 2025-11-04 |  |
 | **[A Re-solving Heuristic for Dynamic Assortment Optimization with Knapsack Constraints](https://arxiv.org/abs/2407.05564v2)** | 2025-11-03 |  |
-| **[Message Recovery Attack in NTRU via Knapsack](https://arxiv.org/abs/2510.26003v1)** | 2025-10-29 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
