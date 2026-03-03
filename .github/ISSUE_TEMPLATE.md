@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2026
+title: Latest 15 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Stochastic Knapsack -- Semi-Adaptivity Gaps and Improved Approximation](https://arxiv.org/abs/2602.24042v1)** | 2026-02-27 |  |
+| **[Stochastic Knapsack: Semi-Adaptivity Gaps and Improved Approximation](https://arxiv.org/abs/2602.24042v2)** | 2026-03-02 |  |
 | **[KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem](https://arxiv.org/abs/2602.20217v1)** | 2026-02-23 |  |
 | **[Stochastic Knapsack with Costs: On Adaptivity and Return-on-Investment](https://arxiv.org/abs/2509.05956v2)** | 2026-02-17 |  |
 | **[ROCKET: Rapid Optimization via Calibration-guided Knapsack Enhanced Truncation for Efficient Model Compression](https://arxiv.org/abs/2602.11008v1)** | 2026-02-11 |  |
