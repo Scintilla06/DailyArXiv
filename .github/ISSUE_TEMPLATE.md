@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 12, 2026
+title: Latest 15 Papers - March 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deterministic Algorithm for Non-monotone Submodular Maximization under Matroid and Knapsack Constraints](https://arxiv.org/abs/2603.11996v1)** | 2026-03-12 |  |
 | **[Multi-Objective Evolutionary Optimization of Chance-Constrained Multiple-Choice Knapsack Problems with Implicit Probability Distributions](https://arxiv.org/abs/2603.08209v1)** | 2026-03-09 |  |
 | **[Stochastic Knapsack: Semi-Adaptivity Gaps and Improved Approximation](https://arxiv.org/abs/2602.24042v2)** | 2026-03-02 |  |
 | **[KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem](https://arxiv.org/abs/2602.20217v1)** | 2026-02-23 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[An O(nlogn) approximate knapsack algorithm](https://arxiv.org/abs/2512.21195v2)** | 2025-12-27 | <details><summary>8 pag...</summary><p>8 pages: removed latex from metadata title and abstract to improve readability</p></details> |
 | **[Near-Optimal Sparsifiers for Stochastic Knapsack and Assignment Problems](https://arxiv.org/abs/2512.01240v1)** | 2025-12-01 | <details><summary>51 pa...</summary><p>51 pages, 8 figures. Accepted to ITCS 2026</p></details> |
 | **[Automated Composition of Agents: A Knapsack Approach for Agentic Component Selection](https://arxiv.org/abs/2510.16499v2)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Conference</p></details> |
-| **[Evolutionary Algorithm for Chance Constrained Quadratic Multiple Knapsack Problem](https://arxiv.org/abs/2511.02500v1)** | 2025-11-04 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
