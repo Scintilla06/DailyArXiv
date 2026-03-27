@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 26, 2026
+title: Latest 15 Papers - March 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Approximation Schemes and Structural Barriers for the Two-Dimensional Knapsack Problem with Rotations](https://arxiv.org/abs/2603.23970v2)** | 2026-03-26 |  |
 | **[Deterministic Algorithm for Non-monotone Submodular Maximization under Matroid and Knapsack Constraints](https://arxiv.org/abs/2603.11996v2)** | 2026-03-16 |  |
 | **[Multi-Objective Evolutionary Optimization of Chance-Constrained Multiple-Choice Knapsack Problems with Implicit Probability Distributions](https://arxiv.org/abs/2603.08209v1)** | 2026-03-09 |  |
 | **[Stochastic Knapsack: Semi-Adaptivity Gaps and Improved Approximation](https://arxiv.org/abs/2602.24042v2)** | 2026-03-02 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Episodic Contextual Bandits with Knapsacks under Conversion Models](https://arxiv.org/abs/2507.06859v2)** | 2026-01-02 |  |
 | **[An O(nlogn) approximate knapsack algorithm](https://arxiv.org/abs/2512.21195v2)** | 2025-12-27 | <details><summary>8 pag...</summary><p>8 pages: removed latex from metadata title and abstract to improve readability</p></details> |
 | **[Near-Optimal Sparsifiers for Stochastic Knapsack and Assignment Problems](https://arxiv.org/abs/2512.01240v1)** | 2025-12-01 | <details><summary>51 pa...</summary><p>51 pages, 8 figures. Accepted to ITCS 2026</p></details> |
-| **[Automated Composition of Agents: A Knapsack Approach for Agentic Component Selection](https://arxiv.org/abs/2510.16499v2)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Conference</p></details> |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bounded Independence Edge Sampling for Combinatorial Graph Properties](https://arxiv.org/abs/2603.25095v1)** | 2026-03-26 |  |
 | **[Faster Pseudo-Deterministic Minimum Cut](https://arxiv.org/abs/2602.14550v2)** | 2026-02-22 | Corrected references |
 | **[Combinatorial Optimization using Comparison Oracles](https://arxiv.org/abs/2511.15142v2)** | 2026-02-20 |  |
 | **[Compact Conformal Subgraphs](https://arxiv.org/abs/2602.07530v1)** | 2026-02-07 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[An Effective Flow-based Method for Positive-Unlabeled Learning: 2-HNC](https://arxiv.org/abs/2505.08212v2)** | 2025-11-02 |  |
 | **[All-Pairs Minimum Cut using $\tilde{O}(n^{7/4})$ Cut Queries](https://arxiv.org/abs/2510.16741v1)** | 2025-10-19 |  |
 | **[Differentially Private Algorithms for Graphs Under Continual Observation](https://arxiv.org/abs/2106.14756v3)** | 2025-09-23 | <details><summary>Corre...</summary><p>Corrected typos in lower bounds in Table 1. Fixed missing factor $\ell$ in statement of Theorem 45</p></details> |
-| **[Cut-Query Algorithms with Few Rounds](https://arxiv.org/abs/2506.20412v2)** | 2025-09-17 |  |
 
