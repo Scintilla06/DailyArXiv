@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 28, 2026
+title: Latest 15 Papers - April 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,10 +26,10 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compact Conformal Subgraphs](https://arxiv.org/abs/2602.07530v2)** | 2026-03-27 |  |
 | **[Bounded Independence Edge Sampling for Combinatorial Graph Properties](https://arxiv.org/abs/2603.25095v1)** | 2026-03-26 |  |
 | **[Faster Pseudo-Deterministic Minimum Cut](https://arxiv.org/abs/2602.14550v2)** | 2026-02-22 | Corrected references |
 | **[Combinatorial Optimization using Comparison Oracles](https://arxiv.org/abs/2511.15142v2)** | 2026-02-20 |  |
-| **[Compact Conformal Subgraphs](https://arxiv.org/abs/2602.07530v1)** | 2026-02-07 |  |
 | **[Atomic Information Flow: A Network Flow Model for Tool Attributions in RAG Systems](https://arxiv.org/abs/2602.04912v1)** | 2026-02-04 |  |
 | **[Dynamic Hierarchical $j$-Tree Decomposition and Its Applications](https://arxiv.org/abs/2601.09139v1)** | 2026-01-14 | SODA 2026 |
 | **[Pseudodeterministic Algorithms for Minimum Cut Problems](https://arxiv.org/abs/2512.23468v1)** | 2025-12-29 | <details><summary>Accep...</summary><p>Accepted to ITCS 2026</p></details> |
