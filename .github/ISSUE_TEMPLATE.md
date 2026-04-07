@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 07, 2026
+title: Latest 15 Papers - April 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DAG Projections: Reducing Distance and Flow Problems to DAGs](https://arxiv.org/abs/2604.04752v1)** | 2026-04-06 |  |
+| **[Faster All-Pairs Minimum Cut: Bypassing Exact Max-Flow](https://arxiv.org/abs/2511.10036v2)** | 2026-04-06 | <details><summary>To ap...</summary><p>To appear in STOC 2026</p></details> |
 | **[Compact Conformal Subgraphs](https://arxiv.org/abs/2602.07530v2)** | 2026-03-27 |  |
 | **[Bounded Independence Edge Sampling for Combinatorial Graph Properties](https://arxiv.org/abs/2603.25095v1)** | 2026-03-26 |  |
 | **[Faster Pseudo-Deterministic Minimum Cut](https://arxiv.org/abs/2602.14550v2)** | 2026-02-22 | Corrected references |
@@ -37,8 +39,6 @@ labels: documentation
 | **[Almost-Optimal Approximation Algorithms for Global Minimum Cut in Directed Graphs](https://arxiv.org/abs/2512.09080v2)** | 2025-12-16 | <details><summary>40 pa...</summary><p>40 pages. Submitted to STOC 2026</p></details> |
 | **[Deterministic and Exact Fully-dynamic Minimum Cut of Superpolylogarithmic Size in Subpolynomial Time](https://arxiv.org/abs/2512.13105v1)** | 2025-12-15 | <details><summary>To ap...</summary><p>To appear at SODA 2026</p></details> |
 | **[Maximum-Flow and Minimum-Cut Sensitivity Oracles for Directed Graphs](https://arxiv.org/abs/2512.00153v1)** | 2025-11-28 |  |
-| **[Faster All-Pairs Minimum Cut: Bypassing Exact Max-Flow](https://arxiv.org/abs/2511.10036v1)** | 2025-11-13 |  |
 | **[An Effective Flow-based Method for Positive-Unlabeled Learning: 2-HNC](https://arxiv.org/abs/2505.08212v2)** | 2025-11-02 |  |
 | **[All-Pairs Minimum Cut using $\tilde{O}(n^{7/4})$ Cut Queries](https://arxiv.org/abs/2510.16741v1)** | 2025-10-19 |  |
-| **[Differentially Private Algorithms for Graphs Under Continual Observation](https://arxiv.org/abs/2106.14756v3)** | 2025-09-23 | <details><summary>Corre...</summary><p>Corrected typos in lower bounds in Table 1. Fixed missing factor $\ell$ in statement of Theorem 45</p></details> |
 
