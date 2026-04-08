@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 08, 2026
+title: Latest 15 Papers - April 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Solving Hard Instances from Knapsack and Bounded Knapsack Problems: A new state-of-the-art solver](https://arxiv.org/abs/2604.05232v1)** | 2026-04-06 |  |
 | **[Approximation Schemes and Structural Barriers for the Two-Dimensional Knapsack Problem with Rotations](https://arxiv.org/abs/2603.23970v2)** | 2026-03-26 |  |
 | **[Deterministic Algorithm for Non-monotone Submodular Maximization under Matroid and Knapsack Constraints](https://arxiv.org/abs/2603.11996v2)** | 2026-03-16 |  |
 | **[Multi-Objective Evolutionary Optimization of Chance-Constrained Multiple-Choice Knapsack Problems with Implicit Probability Distributions](https://arxiv.org/abs/2603.08209v1)** | 2026-03-09 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Shadoks Approach to Knapsack Polygonal Packing](https://arxiv.org/abs/2403.20123v3)** | 2026-01-15 |  |
 | **[Episodic Contextual Bandits with Knapsacks under Conversion Models](https://arxiv.org/abs/2507.06859v2)** | 2026-01-02 |  |
 | **[An O(nlogn) approximate knapsack algorithm](https://arxiv.org/abs/2512.21195v2)** | 2025-12-27 | <details><summary>8 pag...</summary><p>8 pages: removed latex from metadata title and abstract to improve readability</p></details> |
-| **[Near-Optimal Sparsifiers for Stochastic Knapsack and Assignment Problems](https://arxiv.org/abs/2512.01240v1)** | 2025-12-01 | <details><summary>51 pa...</summary><p>51 pages, 8 figures. Accepted to ITCS 2026</p></details> |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
