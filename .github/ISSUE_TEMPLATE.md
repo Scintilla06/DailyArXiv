@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 04, 2026
+title: Latest 15 Papers - May 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Introduction to QUDO, Tensor QUDO and HOBO formulations: Qudits, Equivalences, Knapsack Problem, Traveling Salesman Problem and Combinatorial Games](https://arxiv.org/abs/2508.01958v2)** | 2026-05-01 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, improved version with more complete QUBO and new equivalences and explanations</p></details> |
+| **[On the Distribution of Unweighted Minimum Knapsack Instances with Large SOS Rank](https://arxiv.org/abs/2605.00594v1)** | 2026-05-01 |  |
 | **[A simple $(2+ε)$-approximation for knapsack interdiction](https://arxiv.org/abs/2604.21877v1)** | 2026-04-23 | 7 pages |
 | **[Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](https://arxiv.org/abs/2502.12911v3)** | 2026-04-22 |  |
 | **[Competitive Transaction Admission in PCNs: Online Knapsack with Positive and Negative Items](https://arxiv.org/abs/2604.08205v1)** | 2026-04-09 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[ROCKET: Rapid Optimization via Calibration-guided Knapsack Enhanced Truncation for Efficient Model Compression](https://arxiv.org/abs/2602.11008v1)** | 2026-02-11 |  |
 | **[Dominating Set Knapsack: Profit Optimization on Dominating Sets](https://arxiv.org/abs/2506.24032v3)** | 2026-01-29 |  |
 | **[Differentiable Knapsack and Top-k Operators via Dynamic Programming](https://arxiv.org/abs/2601.21775v1)** | 2026-01-29 |  |
-| **[Kad: A Framework for Proxy-based Test-time Alignment with Knapsack Approximation Deferral](https://arxiv.org/abs/2510.27017v2)** | 2026-01-24 | EACL 2026 main |
-| **[A Construction Framework of Coded Caching Scheme for Multi-Access MISO Systems via Knapsack Problem](https://arxiv.org/abs/2601.10484v2)** | 2026-01-16 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
