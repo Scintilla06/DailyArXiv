@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 02, 2026
+title: Latest 15 Papers - June 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[XOR Bidding and Knapsack Formulations for HPC Network Resource Allocation](https://arxiv.org/abs/2606.00490v1)** | 2026-05-30 |  |
 | **[Competitive Transaction Admission in PCNs: Online Knapsack with Positive and Negative Items](https://arxiv.org/abs/2604.08205v2)** | 2026-05-17 | <details><summary>Accep...</summary><p>Accepted at ICDCS 2026</p></details> |
 | **[Introduction to QUDO, Tensor QUDO and HOBO formulations: Qudits, Equivalences, Knapsack Problem, Traveling Salesman Problem and Combinatorial Games](https://arxiv.org/abs/2508.01958v2)** | 2026-05-01 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, improved version with more complete QUBO and new equivalences and explanations</p></details> |
 | **[On the Distribution of Unweighted Minimum Knapsack Instances with Large SOS Rank](https://arxiv.org/abs/2605.00594v1)** | 2026-05-01 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem](https://arxiv.org/abs/2602.20217v1)** | 2026-02-23 |  |
 | **[Stochastic Knapsack with Costs: On Adaptivity and Return-on-Investment](https://arxiv.org/abs/2509.05956v2)** | 2026-02-17 |  |
 | **[ROCKET: Rapid Optimization via Calibration-guided Knapsack Enhanced Truncation for Efficient Model Compression](https://arxiv.org/abs/2602.11008v1)** | 2026-02-11 |  |
-| **[Dominating Set Knapsack: Profit Optimization on Dominating Sets](https://arxiv.org/abs/2506.24032v3)** | 2026-01-29 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
