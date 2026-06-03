@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 03, 2026
+title: Latest 15 Papers - June 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem](https://arxiv.org/abs/2602.20217v2)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[XOR Bidding and Knapsack Formulations for HPC Network Resource Allocation](https://arxiv.org/abs/2606.00490v1)** | 2026-05-30 |  |
 | **[Competitive Transaction Admission in PCNs: Online Knapsack with Positive and Negative Items](https://arxiv.org/abs/2604.08205v2)** | 2026-05-17 | <details><summary>Accep...</summary><p>Accepted at ICDCS 2026</p></details> |
 | **[Introduction to QUDO, Tensor QUDO and HOBO formulations: Qudits, Equivalences, Knapsack Problem, Traveling Salesman Problem and Combinatorial Games](https://arxiv.org/abs/2508.01958v2)** | 2026-05-01 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, improved version with more complete QUBO and new equivalences and explanations</p></details> |
@@ -19,7 +20,6 @@ labels: documentation
 | **[Deterministic Algorithm for Non-monotone Submodular Maximization under Matroid and Knapsack Constraints](https://arxiv.org/abs/2603.11996v2)** | 2026-03-16 |  |
 | **[Multi-Objective Evolutionary Optimization of Chance-Constrained Multiple-Choice Knapsack Problems with Implicit Probability Distributions](https://arxiv.org/abs/2603.08209v1)** | 2026-03-09 |  |
 | **[Stochastic Knapsack: Semi-Adaptivity Gaps and Improved Approximation](https://arxiv.org/abs/2602.24042v2)** | 2026-03-02 |  |
-| **[KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem](https://arxiv.org/abs/2602.20217v1)** | 2026-02-23 |  |
 | **[Stochastic Knapsack with Costs: On Adaptivity and Return-on-Investment](https://arxiv.org/abs/2509.05956v2)** | 2026-02-17 |  |
 | **[ROCKET: Rapid Optimization via Calibration-guided Knapsack Enhanced Truncation for Efficient Model Compression](https://arxiv.org/abs/2602.11008v1)** | 2026-02-11 |  |
 
