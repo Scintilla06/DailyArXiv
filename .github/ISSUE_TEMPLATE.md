@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 15, 2026
+title: Latest 15 Papers - June 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Task Structure Limits Multi-Agent Success: An Information-Theoretic Analysis](https://arxiv.org/abs/2606.13733v1)** | 2026-06-11 |  |
 | **[Thin Trees for Near Minimum Cuts](https://arxiv.org/abs/2605.12669v1)** | 2026-05-12 | ICALP 2026 |
 | **[An O(log n)-Approximation Algorithm for (p,q)-Flexible Graph Connectivity via Independent Rounding](https://arxiv.org/abs/2501.12549v2)** | 2026-05-05 | <details><summary>23 pa...</summary><p>23 pages. A preliminary version appeared in the proceedings of the 26th International Conference on Integer Programming and Combinatorial Optimization (IPCO 2025)</p></details> |
 | **[A Unified Approach to Minimizing Symmetric Submodular Functions](https://arxiv.org/abs/2605.01473v1)** | 2026-05-02 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Pseudodeterministic Algorithms for Minimum Cut Problems](https://arxiv.org/abs/2512.23468v1)** | 2025-12-29 | <details><summary>Accep...</summary><p>Accepted to ITCS 2026</p></details> |
 | **[Approximating Directed Minimum Cut and Arborescence Packing via Directed Expander Hierarchies](https://arxiv.org/abs/2512.05300v2)** | 2025-12-17 |  |
 | **[Almost-Optimal Approximation Algorithms for Global Minimum Cut in Directed Graphs](https://arxiv.org/abs/2512.09080v2)** | 2025-12-16 | <details><summary>40 pa...</summary><p>40 pages. Submitted to STOC 2026</p></details> |
-| **[Deterministic and Exact Fully-dynamic Minimum Cut of Superpolylogarithmic Size in Subpolynomial Time](https://arxiv.org/abs/2512.13105v1)** | 2025-12-15 | <details><summary>To ap...</summary><p>To appear at SODA 2026</p></details> |
 
