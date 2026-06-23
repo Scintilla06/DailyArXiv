@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 23, 2026
+title: Latest 15 Papers - June 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimal Macroitem Sequences in the Precedence Constrained Knapsack Problem](https://arxiv.org/abs/2606.22018v1)** | 2026-06-20 |  |
 | **[Differentially Private Submodular Maximization with a Knapsack Constraint](https://arxiv.org/abs/2606.14951v1)** | 2026-06-12 | ICML 2026 |
 | **[KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem](https://arxiv.org/abs/2602.20217v2)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[XOR Bidding and Knapsack Formulations for HPC Network Resource Allocation](https://arxiv.org/abs/2606.00490v1)** | 2026-05-30 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Deterministic Algorithm for Non-monotone Submodular Maximization under Matroid and Knapsack Constraints](https://arxiv.org/abs/2603.11996v2)** | 2026-03-16 |  |
 | **[Multi-Objective Evolutionary Optimization of Chance-Constrained Multiple-Choice Knapsack Problems with Implicit Probability Distributions](https://arxiv.org/abs/2603.08209v1)** | 2026-03-09 |  |
 | **[Stochastic Knapsack: Semi-Adaptivity Gaps and Improved Approximation](https://arxiv.org/abs/2602.24042v2)** | 2026-03-02 |  |
-| **[Stochastic Knapsack with Costs: On Adaptivity and Return-on-Investment](https://arxiv.org/abs/2509.05956v2)** | 2026-02-17 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
