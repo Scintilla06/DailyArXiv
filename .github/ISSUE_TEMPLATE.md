@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 09, 2026
+title: Latest 15 Papers - July 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stable Matchings with Minimum Utility Gap](https://arxiv.org/abs/2607.07160v1)** | 2026-07-08 | 20 pages |
+| **[Frameworks to Design Approximation Algorithms for Finding Diverse Solutions in Combinatorial Problems](https://arxiv.org/abs/2201.08940v2)** | 2026-07-07 |  |
 | **[Tree-Packing Revisited: Faster Fully Dynamic Min-Cut and Arboricity](https://arxiv.org/abs/2405.09141v3)** | 2026-06-26 | <details><summary>Prese...</summary><p>Presented at SODA '25. Full version published in Algorithmica</p></details> |
 | **[Threshold Minimum Cut with Terminal Quotas: Logarithmic and Planar Approximation Algorithms](https://arxiv.org/abs/2606.15324v1)** | 2026-06-13 |  |
 | **[How Task Structure Limits Multi-Agent Success: An Information-Theoretic Analysis](https://arxiv.org/abs/2606.13733v1)** | 2026-06-11 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Faster Pseudo-Deterministic Minimum Cut](https://arxiv.org/abs/2602.14550v2)** | 2026-02-22 | Corrected references |
 | **[Combinatorial Optimization using Comparison Oracles](https://arxiv.org/abs/2511.15142v2)** | 2026-02-20 |  |
 | **[Atomic Information Flow: A Network Flow Model for Tool Attributions in RAG Systems](https://arxiv.org/abs/2602.04912v1)** | 2026-02-04 |  |
-| **[Dynamic Hierarchical $j$-Tree Decomposition and Its Applications](https://arxiv.org/abs/2601.09139v1)** | 2026-01-14 | SODA 2026 |
-| **[Pseudodeterministic Algorithms for Minimum Cut Problems](https://arxiv.org/abs/2512.23468v1)** | 2025-12-29 | <details><summary>Accep...</summary><p>Accepted to ITCS 2026</p></details> |
 
