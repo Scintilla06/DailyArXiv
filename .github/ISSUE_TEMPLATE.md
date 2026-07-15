@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 15, 2026
+title: Latest 15 Papers - July 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -37,8 +37,8 @@ labels: documentation
 | **[DAG Projections: Reducing Distance and Flow Problems to DAGs](https://arxiv.org/abs/2604.04752v1)** | 2026-04-06 |  |
 | **[Faster All-Pairs Minimum Cut: Bypassing Exact Max-Flow](https://arxiv.org/abs/2511.10036v2)** | 2026-04-06 | <details><summary>To ap...</summary><p>To appear in STOC 2026</p></details> |
 | **[Compact Conformal Subgraphs](https://arxiv.org/abs/2602.07530v2)** | 2026-03-27 |  |
-| **[Bounded Independence Edge Sampling for Combinatorial Graph Properties](https://arxiv.org/abs/2603.25095v1)** | 2026-03-26 |  |
 | **[Faster Pseudo-Deterministic Minimum Cut](https://arxiv.org/abs/2602.14550v2)** | 2026-02-22 | Corrected references |
 | **[Combinatorial Optimization using Comparison Oracles](https://arxiv.org/abs/2511.15142v2)** | 2026-02-20 |  |
 | **[Atomic Information Flow: A Network Flow Model for Tool Attributions in RAG Systems](https://arxiv.org/abs/2602.04912v1)** | 2026-02-04 |  |
+| **[Dynamic Hierarchical $j$-Tree Decomposition and Its Applications](https://arxiv.org/abs/2601.09139v1)** | 2026-01-14 | SODA 2026 |
 
