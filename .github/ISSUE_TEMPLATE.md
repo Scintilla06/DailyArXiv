@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 23, 2026
+title: Latest 15 Papers - July 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Packing Linear Programs and Fractional Knapsack using Comparison Oracles](https://arxiv.org/abs/2607.19557v1)** | 2026-07-21 |  |
 | **[Pack, Remove, Reserve -- Online Knapsack with Second Thoughts](https://arxiv.org/abs/2607.13955v1)** | 2026-07-15 |  |
 | **[Optimal Macroitem Sequences in the Precedence Constrained Knapsack Problem](https://arxiv.org/abs/2606.22018v1)** | 2026-06-20 |  |
 | **[Differentially Private Submodular Maximization with a Knapsack Constraint](https://arxiv.org/abs/2606.14951v1)** | 2026-06-12 | ICML 2026 |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Solving Hard Instances from Knapsack and Bounded Knapsack Problems: A new state-of-the-art solver](https://arxiv.org/abs/2604.05232v1)** | 2026-04-06 |  |
 | **[Approximation Schemes and Structural Barriers for the Two-Dimensional Knapsack Problem with Rotations](https://arxiv.org/abs/2603.23970v2)** | 2026-03-26 |  |
 | **[Deterministic Algorithm for Non-monotone Submodular Maximization under Matroid and Knapsack Constraints](https://arxiv.org/abs/2603.11996v2)** | 2026-03-16 |  |
-| **[Multi-Objective Evolutionary Optimization of Chance-Constrained Multiple-Choice Knapsack Problems with Implicit Probability Distributions](https://arxiv.org/abs/2603.08209v1)** | 2026-03-09 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
