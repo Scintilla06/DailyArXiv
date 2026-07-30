@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 30, 2026
+title: Latest 15 Papers - July 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Approximation Schemes and Structural Barriers for the Two-Dimensional Knapsack Problem with Rotations](https://arxiv.org/abs/2603.23970v3)** | 2026-07-29 |  |
 | **[Knapsack Secretary is not $1/e$-Competitive](https://arxiv.org/abs/2607.24198v1)** | 2026-07-27 | 34 pages, 1 figure |
 | **[The Knapsack Secretary Problem is Strictly Harder Than the Secretary Problem](https://arxiv.org/abs/2607.22840v1)** | 2026-07-24 | 39 pages |
 | **[Packing Linear Programs and Fractional Knapsack using Comparison Oracles](https://arxiv.org/abs/2607.19557v1)** | 2026-07-21 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Near-Tight Approximation Algorithms for Bottleneck Multiple Knapsack Problems](https://arxiv.org/abs/2605.05233v1)** | 2026-04-30 |  |
 | **[A simple $(2+ε)$-approximation for knapsack interdiction](https://arxiv.org/abs/2604.21877v1)** | 2026-04-23 | 7 pages |
 | **[Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](https://arxiv.org/abs/2502.12911v3)** | 2026-04-22 |  |
-| **[Solving Hard Instances from Knapsack and Bounded Knapsack Problems: A new state-of-the-art solver](https://arxiv.org/abs/2604.05232v1)** | 2026-04-06 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
