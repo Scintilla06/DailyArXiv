@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 05, 2026
+title: Latest 15 Papers - August 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scalable Exact Densest P-Partite Subgraph Search in Heterogeneous Information Networks](https://arxiv.org/abs/2608.03061v1)** | 2026-08-04 |  |
 | **[Reachability in Directed Acyclic Graphs with Near-Linear Cut Queries](https://arxiv.org/abs/2607.21390v1)** | 2026-07-23 |  |
 | **[Almost-Optimal Approximation Algorithms for Global Minimum Cut in Directed Graphs](https://arxiv.org/abs/2512.09080v3)** | 2026-07-20 | <details><summary>40 pa...</summary><p>40 pages. Full version of a paper in STOC 2026. v2: added discussion of new independent work; v3: updated section 3.1 to match proceedings version, fixed typos, and updated the bibliography</p></details> |
 | **[Stable Matchings with Minimum Utility Gap](https://arxiv.org/abs/2607.07160v1)** | 2026-07-08 | 20 pages |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Faster All-Pairs Minimum Cut: Bypassing Exact Max-Flow](https://arxiv.org/abs/2511.10036v2)** | 2026-04-06 | <details><summary>To ap...</summary><p>To appear in STOC 2026</p></details> |
 | **[Compact Conformal Subgraphs](https://arxiv.org/abs/2602.07530v2)** | 2026-03-27 |  |
 | **[Faster Pseudo-Deterministic Minimum Cut](https://arxiv.org/abs/2602.14550v2)** | 2026-02-22 | Corrected references |
-| **[Combinatorial Optimization using Comparison Oracles](https://arxiv.org/abs/2511.15142v2)** | 2026-02-20 |  |
 
