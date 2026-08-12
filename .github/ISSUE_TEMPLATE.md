@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 12, 2026
+title: Latest 15 Papers - August 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can LLMs be Used to Simplify Algorithms? Simpler Algorithms for Vertex Coloring and Edge Connectivity](https://arxiv.org/abs/2608.10753v1)** | 2026-08-11 |  |
 | **[Scalable Exact Densest P-Partite Subgraph Search in Heterogeneous Information Networks](https://arxiv.org/abs/2608.03061v1)** | 2026-08-04 |  |
 | **[Reachability in Directed Acyclic Graphs with Near-Linear Cut Queries](https://arxiv.org/abs/2607.21390v1)** | 2026-07-23 |  |
 | **[Almost-Optimal Approximation Algorithms for Global Minimum Cut in Directed Graphs](https://arxiv.org/abs/2512.09080v3)** | 2026-07-20 | <details><summary>40 pa...</summary><p>40 pages. Full version of a paper in STOC 2026. v2: added discussion of new independent work; v3: updated section 3.1 to match proceedings version, fixed typos, and updated the bibliography</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[DAG Projections: Reducing Distance and Flow Problems to DAGs](https://arxiv.org/abs/2604.04752v1)** | 2026-04-06 |  |
 | **[Faster All-Pairs Minimum Cut: Bypassing Exact Max-Flow](https://arxiv.org/abs/2511.10036v2)** | 2026-04-06 | <details><summary>To ap...</summary><p>To appear in STOC 2026</p></details> |
 | **[Compact Conformal Subgraphs](https://arxiv.org/abs/2602.07530v2)** | 2026-03-27 |  |
-| **[Faster Pseudo-Deterministic Minimum Cut](https://arxiv.org/abs/2602.14550v2)** | 2026-02-22 | Corrected references |
 
