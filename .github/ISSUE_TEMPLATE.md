@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 13, 2026
+title: Latest 15 Papers - August 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reoptimization Algorithms for Contextual Bandits with Knapsack Constraints](https://arxiv.org/abs/2608.11383v1)** | 2026-08-11 |  |
 | **[Memory-Efficient Activation Checkpointing with Sliding Window and Hirschberg's Algorithm for 0/1 Knapsack Solving in PyTorch](https://arxiv.org/abs/2608.08740v1)** | 2026-08-09 | <details><summary>Accep...</summary><p>Accepted to COLM 2026 Workshop on Efficient Reasoning</p></details> |
 | **[Approximation Schemes and Structural Barriers for the Two-Dimensional Knapsack Problem with Rotations](https://arxiv.org/abs/2603.23970v3)** | 2026-07-29 |  |
 | **[Knapsack Secretary is not $1/e$-Competitive](https://arxiv.org/abs/2607.24198v1)** | 2026-07-27 | 34 pages, 1 figure |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Introduction to QUDO, Tensor QUDO and HOBO formulations: Qudits, Equivalences, Knapsack Problem, Traveling Salesman Problem and Combinatorial Games](https://arxiv.org/abs/2508.01958v2)** | 2026-05-01 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, improved version with more complete QUBO and new equivalences and explanations</p></details> |
 | **[On the Distribution of Unweighted Minimum Knapsack Instances with Large SOS Rank](https://arxiv.org/abs/2605.00594v1)** | 2026-05-01 |  |
 | **[Near-Tight Approximation Algorithms for Bottleneck Multiple Knapsack Problems](https://arxiv.org/abs/2605.05233v1)** | 2026-04-30 |  |
-| **[A simple $(2+ε)$-approximation for knapsack interdiction](https://arxiv.org/abs/2604.21877v1)** | 2026-04-23 | 7 pages |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Harmonic Ranking for Edge-Weighted Oblivious Matching](https://arxiv.org/abs/2608.12176v1)** | 2026-08-12 | 44 pages, 4 figures |
 | **[Can LLMs be Used to Simplify Algorithms? Simpler Algorithms for Vertex Coloring and Edge Connectivity](https://arxiv.org/abs/2608.10753v1)** | 2026-08-11 |  |
 | **[Scalable Exact Densest P-Partite Subgraph Search in Heterogeneous Information Networks](https://arxiv.org/abs/2608.03061v1)** | 2026-08-04 |  |
 | **[Reachability in Directed Acyclic Graphs with Near-Linear Cut Queries](https://arxiv.org/abs/2607.21390v1)** | 2026-07-23 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[A Unified Approach to Minimizing Symmetric Submodular Functions](https://arxiv.org/abs/2605.01473v1)** | 2026-05-02 |  |
 | **[DAG Projections: Reducing Distance and Flow Problems to DAGs](https://arxiv.org/abs/2604.04752v1)** | 2026-04-06 |  |
 | **[Faster All-Pairs Minimum Cut: Bypassing Exact Max-Flow](https://arxiv.org/abs/2511.10036v2)** | 2026-04-06 | <details><summary>To ap...</summary><p>To appear in STOC 2026</p></details> |
-| **[Compact Conformal Subgraphs](https://arxiv.org/abs/2602.07530v2)** | 2026-03-27 |  |
 
