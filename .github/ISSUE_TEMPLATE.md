@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2026
+title: Latest 15 Papers - August 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Incremental Directed Minimum Cut by Dynamizing Gabow's Algorithm](https://arxiv.org/abs/2608.16382v1)** | 2026-08-17 |  |
 | **[Harmonic Ranking for Edge-Weighted Oblivious Matching](https://arxiv.org/abs/2608.12176v1)** | 2026-08-12 | 44 pages, 4 figures |
 | **[Can LLMs be Used to Simplify Algorithms? Simpler Algorithms for Vertex Coloring and Edge Connectivity](https://arxiv.org/abs/2608.10753v1)** | 2026-08-11 |  |
 | **[Scalable Exact Densest P-Partite Subgraph Search in Heterogeneous Information Networks](https://arxiv.org/abs/2608.03061v1)** | 2026-08-04 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[An O(log n)-Approximation Algorithm for (p,q)-Flexible Graph Connectivity via Independent Rounding](https://arxiv.org/abs/2501.12549v2)** | 2026-05-05 | <details><summary>23 pa...</summary><p>23 pages. A preliminary version appeared in the proceedings of the 26th International Conference on Integer Programming and Combinatorial Optimization (IPCO 2025)</p></details> |
 | **[A Unified Approach to Minimizing Symmetric Submodular Functions](https://arxiv.org/abs/2605.01473v1)** | 2026-05-02 |  |
 | **[DAG Projections: Reducing Distance and Flow Problems to DAGs](https://arxiv.org/abs/2604.04752v1)** | 2026-04-06 |  |
-| **[Faster All-Pairs Minimum Cut: Bypassing Exact Max-Flow](https://arxiv.org/abs/2511.10036v2)** | 2026-04-06 | <details><summary>To ap...</summary><p>To appear in STOC 2026</p></details> |
 
