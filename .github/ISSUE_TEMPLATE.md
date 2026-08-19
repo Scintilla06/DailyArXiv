@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 19, 2026
+title: Latest 15 Papers - August 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stealing From the Dragon's Hoard: Online Unbounded Knapsack With Removal](https://arxiv.org/abs/2509.19914v3)** | 2026-08-18 |  |
 | **[Unifying Depth and Width Pruning for LLMs via Binary Knapsack Optimization](https://arxiv.org/abs/2608.12953v1)** | 2026-08-13 | <details><summary>29 pa...</summary><p>29 pages, 5 figures, 17 tables</p></details> |
 | **[Reoptimization Algorithms for Contextual Bandits with Knapsack Constraints](https://arxiv.org/abs/2608.11383v1)** | 2026-08-11 |  |
 | **[Memory-Efficient Activation Checkpointing with Sliding Window and Hirschberg's Algorithm for 0/1 Knapsack Solving in PyTorch](https://arxiv.org/abs/2608.08740v1)** | 2026-08-09 | <details><summary>Accep...</summary><p>Accepted to COLM 2026 Workshop on Efficient Reasoning</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[XOR Bidding and Knapsack Formulations for HPC Network Resource Allocation](https://arxiv.org/abs/2606.00490v1)** | 2026-05-30 |  |
 | **[Competitive Transaction Admission in PCNs: Online Knapsack with Positive and Negative Items](https://arxiv.org/abs/2604.08205v2)** | 2026-05-17 | <details><summary>Accep...</summary><p>Accepted at ICDCS 2026</p></details> |
 | **[Introduction to QUDO, Tensor QUDO and HOBO formulations: Qudits, Equivalences, Knapsack Problem, Traveling Salesman Problem and Combinatorial Games](https://arxiv.org/abs/2508.01958v2)** | 2026-05-01 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, improved version with more complete QUBO and new equivalences and explanations</p></details> |
-| **[On the Distribution of Unweighted Minimum Knapsack Instances with Large SOS Rank](https://arxiv.org/abs/2605.00594v1)** | 2026-05-01 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
