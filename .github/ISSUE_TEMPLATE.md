@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2026
+title: Latest 15 Papers - August 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Approximating Pandora's Knapsack via Simple Policies](https://arxiv.org/abs/2509.05956v3)** | 2026-08-19 |  |
 | **[Stealing From the Dragon's Hoard: Online Unbounded Knapsack With Removal](https://arxiv.org/abs/2509.19914v3)** | 2026-08-18 |  |
 | **[Unifying Depth and Width Pruning for LLMs via Binary Knapsack Optimization](https://arxiv.org/abs/2608.12953v1)** | 2026-08-13 | <details><summary>29 pa...</summary><p>29 pages, 5 figures, 17 tables</p></details> |
 | **[Reoptimization Algorithms for Contextual Bandits with Knapsack Constraints](https://arxiv.org/abs/2608.11383v1)** | 2026-08-11 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem](https://arxiv.org/abs/2602.20217v2)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[XOR Bidding and Knapsack Formulations for HPC Network Resource Allocation](https://arxiv.org/abs/2606.00490v1)** | 2026-05-30 |  |
 | **[Competitive Transaction Admission in PCNs: Online Knapsack with Positive and Negative Items](https://arxiv.org/abs/2604.08205v2)** | 2026-05-17 | <details><summary>Accep...</summary><p>Accepted at ICDCS 2026</p></details> |
-| **[Introduction to QUDO, Tensor QUDO and HOBO formulations: Qudits, Equivalences, Knapsack Problem, Traveling Salesman Problem and Combinatorial Games](https://arxiv.org/abs/2508.01958v2)** | 2026-05-01 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, improved version with more complete QUBO and new equivalences and explanations</p></details> |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tree-Packing Revisited: Faster Fully Dynamic Min-Cut and Arboricity](https://arxiv.org/abs/2405.09141v4)** | 2026-08-19 | <details><summary>Prese...</summary><p>Presented at SODA '25. Full version published in Algorithmica</p></details> |
+| **[A Framework for Enterprise Network Dimensioning](https://arxiv.org/abs/2608.18796v1)** | 2026-08-19 |  |
 | **[Incremental Directed Minimum Cut by Dynamizing Gabow's Algorithm](https://arxiv.org/abs/2608.16382v1)** | 2026-08-17 |  |
 | **[Harmonic Ranking for Edge-Weighted Oblivious Matching](https://arxiv.org/abs/2608.12176v1)** | 2026-08-12 | 44 pages, 4 figures |
 | **[Can LLMs be Used to Simplify Algorithms? Simpler Algorithms for Vertex Coloring and Edge Connectivity](https://arxiv.org/abs/2608.10753v1)** | 2026-08-11 |  |
@@ -34,11 +36,9 @@ labels: documentation
 | **[Almost-Optimal Approximation Algorithms for Global Minimum Cut in Directed Graphs](https://arxiv.org/abs/2512.09080v3)** | 2026-07-20 | <details><summary>40 pa...</summary><p>40 pages. Full version of a paper in STOC 2026. v2: added discussion of new independent work; v3: updated section 3.1 to match proceedings version, fixed typos, and updated the bibliography</p></details> |
 | **[Stable Matchings with Minimum Utility Gap](https://arxiv.org/abs/2607.07160v1)** | 2026-07-08 | 20 pages |
 | **[Frameworks to Design Approximation Algorithms for Finding Diverse Solutions in Combinatorial Problems](https://arxiv.org/abs/2201.08940v2)** | 2026-07-07 |  |
-| **[Tree-Packing Revisited: Faster Fully Dynamic Min-Cut and Arboricity](https://arxiv.org/abs/2405.09141v3)** | 2026-06-26 | <details><summary>Prese...</summary><p>Presented at SODA '25. Full version published in Algorithmica</p></details> |
 | **[Threshold Minimum Cut with Terminal Quotas: Logarithmic and Planar Approximation Algorithms](https://arxiv.org/abs/2606.15324v1)** | 2026-06-13 |  |
 | **[How Task Structure Limits Multi-Agent Success: An Information-Theoretic Analysis](https://arxiv.org/abs/2606.13733v1)** | 2026-06-11 |  |
 | **[Thin Trees for Near Minimum Cuts](https://arxiv.org/abs/2605.12669v1)** | 2026-05-12 | ICALP 2026 |
 | **[An O(log n)-Approximation Algorithm for (p,q)-Flexible Graph Connectivity via Independent Rounding](https://arxiv.org/abs/2501.12549v2)** | 2026-05-05 | <details><summary>23 pa...</summary><p>23 pages. A preliminary version appeared in the proceedings of the 26th International Conference on Integer Programming and Combinatorial Optimization (IPCO 2025)</p></details> |
 | **[A Unified Approach to Minimizing Symmetric Submodular Functions](https://arxiv.org/abs/2605.01473v1)** | 2026-05-02 |  |
-| **[DAG Projections: Reducing Distance and Flow Problems to DAGs](https://arxiv.org/abs/2604.04752v1)** | 2026-04-06 |  |
 
