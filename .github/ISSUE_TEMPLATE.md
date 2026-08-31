@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 31, 2026
+title: Latest 15 Papers - September 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fine-Grained Complexity of Approximating Vector Knapsack: A Faster Algorithm and Bicriteria Optimality in 2D](https://arxiv.org/abs/2608.27600v1)** | 2026-08-27 | <details><summary>Abstr...</summary><p>Abstract shortened to fit ArXiV requirements</p></details> |
 | **[Approximating Pandora's Knapsack via Simple Policies](https://arxiv.org/abs/2509.05956v3)** | 2026-08-19 |  |
 | **[Stealing From the Dragon's Hoard: Online Unbounded Knapsack With Removal](https://arxiv.org/abs/2509.19914v3)** | 2026-08-18 |  |
 | **[Unifying Depth and Width Pruning for LLMs via Binary Knapsack Optimization](https://arxiv.org/abs/2608.12953v1)** | 2026-08-13 | <details><summary>29 pa...</summary><p>29 pages, 5 figures, 17 tables</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Differentially Private Submodular Maximization with a Knapsack Constraint](https://arxiv.org/abs/2606.14951v1)** | 2026-06-12 | ICML 2026 |
 | **[KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem](https://arxiv.org/abs/2602.20217v2)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[XOR Bidding and Knapsack Formulations for HPC Network Resource Allocation](https://arxiv.org/abs/2606.00490v1)** | 2026-05-30 |  |
-| **[Competitive Transaction Admission in PCNs: Online Knapsack with Positive and Negative Items](https://arxiv.org/abs/2604.08205v2)** | 2026-05-17 | <details><summary>Accep...</summary><p>Accepted at ICDCS 2026</p></details> |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
