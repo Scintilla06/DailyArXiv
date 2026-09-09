@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 09, 2026
+title: Latest 15 Papers - September 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[High-dimensional Linear Bandits with Knapsacks](https://arxiv.org/abs/2311.01327v3)** | 2026-09-07 |  |
+| **[A Group-Based Resource Allocation Model for the Fractional Knapsack Problem](https://arxiv.org/abs/2609.06470v1)** | 2026-09-06 |  |
 | **[Fine-Grained Complexity of Approximating Vector Knapsack: A Faster Algorithm and Bicriteria Optimality in 2D](https://arxiv.org/abs/2608.27600v1)** | 2026-08-27 | <details><summary>Abstr...</summary><p>Abstract shortened to fit ArXiV requirements</p></details> |
 | **[Approximating Pandora's Knapsack via Simple Policies](https://arxiv.org/abs/2509.05956v3)** | 2026-08-19 |  |
 | **[Stealing From the Dragon's Hoard: Online Unbounded Knapsack With Removal](https://arxiv.org/abs/2509.19914v3)** | 2026-08-18 |  |
@@ -20,13 +22,11 @@ labels: documentation
 | **[Pack, Remove, Reserve -- Online Knapsack with Second Thoughts](https://arxiv.org/abs/2607.13955v1)** | 2026-07-15 |  |
 | **[Optimal Macroitem Sequences in the Precedence Constrained Knapsack Problem](https://arxiv.org/abs/2606.22018v1)** | 2026-06-20 |  |
 | **[Differentially Private Submodular Maximization with a Knapsack Constraint](https://arxiv.org/abs/2606.14951v1)** | 2026-06-12 | ICML 2026 |
-| **[KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem](https://arxiv.org/abs/2602.20217v2)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[XOR Bidding and Knapsack Formulations for HPC Network Resource Allocation](https://arxiv.org/abs/2606.00490v1)** | 2026-05-30 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Optimizing Credential Blast Radius Through Trust Boundaries and Delegation Under Post-Quantum Authentication Costs](https://arxiv.org/abs/2609.04566v1)** | 2026-09-03 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, supplementary material included</p></details> |
+| **[Agentic Algorithm Engineering: Improving Shared-Memory Exact Minimum Cuts](https://arxiv.org/abs/2609.07204v1)** | 2026-09-07 |  |
 | **[Tree-Packing Revisited: Faster Fully Dynamic Min-Cut and Arboricity](https://arxiv.org/abs/2405.09141v4)** | 2026-08-19 | <details><summary>Prese...</summary><p>Presented at SODA '25. Full version published in Algorithmica</p></details> |
 | **[A Framework for Enterprise Network Dimensioning](https://arxiv.org/abs/2608.18796v1)** | 2026-08-19 |  |
 | **[Incremental Directed Minimum Cut by Dynamizing Gabow's Algorithm](https://arxiv.org/abs/2608.16382v1)** | 2026-08-17 |  |
