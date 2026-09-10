@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 10, 2026
+title: Latest 15 Papers - September 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sharp Bounds on the Number of Small Cuts](https://arxiv.org/abs/2609.10255v1)** | 2026-09-09 |  |
 | **[Agentic Algorithm Engineering: Improving Shared-Memory Exact Minimum Cuts](https://arxiv.org/abs/2609.07204v1)** | 2026-09-07 |  |
 | **[Tree-Packing Revisited: Faster Fully Dynamic Min-Cut and Arboricity](https://arxiv.org/abs/2405.09141v4)** | 2026-08-19 | <details><summary>Prese...</summary><p>Presented at SODA '25. Full version published in Algorithmica</p></details> |
 | **[A Framework for Enterprise Network Dimensioning](https://arxiv.org/abs/2608.18796v1)** | 2026-08-19 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Threshold Minimum Cut with Terminal Quotas: Logarithmic and Planar Approximation Algorithms](https://arxiv.org/abs/2606.15324v1)** | 2026-06-13 |  |
 | **[How Task Structure Limits Multi-Agent Success: An Information-Theoretic Analysis](https://arxiv.org/abs/2606.13733v1)** | 2026-06-11 |  |
 | **[Thin Trees for Near Minimum Cuts](https://arxiv.org/abs/2605.12669v1)** | 2026-05-12 | ICALP 2026 |
-| **[An O(log n)-Approximation Algorithm for (p,q)-Flexible Graph Connectivity via Independent Rounding](https://arxiv.org/abs/2501.12549v2)** | 2026-05-05 | <details><summary>23 pa...</summary><p>23 pages. A preliminary version appeared in the proceedings of the 26th International Conference on Integer Programming and Combinatorial Optimization (IPCO 2025)</p></details> |
 
