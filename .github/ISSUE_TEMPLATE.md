@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 11, 2026
+title: Latest 15 Papers - September 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,8 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Group-Based Resource Allocation Model for the Fractional Knapsack Problem](https://arxiv.org/abs/2609.06470v2)** | 2026-09-10 |  |
 | **[High-dimensional Linear Bandits with Knapsacks](https://arxiv.org/abs/2311.01327v3)** | 2026-09-07 |  |
-| **[A Group-Based Resource Allocation Model for the Fractional Knapsack Problem](https://arxiv.org/abs/2609.06470v1)** | 2026-09-06 |  |
 | **[Fine-Grained Complexity of Approximating Vector Knapsack: A Faster Algorithm and Bicriteria Optimality in 2D](https://arxiv.org/abs/2608.27600v1)** | 2026-08-27 | <details><summary>Abstr...</summary><p>Abstract shortened to fit ArXiV requirements</p></details> |
 | **[Approximating Pandora's Knapsack via Simple Policies](https://arxiv.org/abs/2509.05956v3)** | 2026-08-19 |  |
 | **[Stealing From the Dragon's Hoard: Online Unbounded Knapsack With Removal](https://arxiv.org/abs/2509.19914v3)** | 2026-08-18 |  |
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lower Bounds for Private Graph Optimization Problems using Reconstruction Attacks](https://arxiv.org/abs/2609.10877v1)** | 2026-09-09 | <details><summary>32 pa...</summary><p>32 pages, 3 figures. To appear at PODS 2027</p></details> |
 | **[Sharp Bounds on the Number of Small Cuts](https://arxiv.org/abs/2609.10255v1)** | 2026-09-09 |  |
 | **[Agentic Algorithm Engineering: Improving Shared-Memory Exact Minimum Cuts](https://arxiv.org/abs/2609.07204v1)** | 2026-09-07 |  |
 | **[Tree-Packing Revisited: Faster Fully Dynamic Min-Cut and Arboricity](https://arxiv.org/abs/2405.09141v4)** | 2026-08-19 | <details><summary>Prese...</summary><p>Presented at SODA '25. Full version published in Algorithmica</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Frameworks to Design Approximation Algorithms for Finding Diverse Solutions in Combinatorial Problems](https://arxiv.org/abs/2201.08940v2)** | 2026-07-07 |  |
 | **[Threshold Minimum Cut with Terminal Quotas: Logarithmic and Planar Approximation Algorithms](https://arxiv.org/abs/2606.15324v1)** | 2026-06-13 |  |
 | **[How Task Structure Limits Multi-Agent Success: An Information-Theoretic Analysis](https://arxiv.org/abs/2606.13733v1)** | 2026-06-11 |  |
-| **[Thin Trees for Near Minimum Cuts](https://arxiv.org/abs/2605.12669v1)** | 2026-05-12 | ICALP 2026 |
 
