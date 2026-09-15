@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 12, 2026
+title: Latest 15 Papers - September 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Breaking the 1/3 Barrier for $\boldsymbol{k}$-Submodular Maximization under Matroid and Knapsack Constraints: A Proportional Top-2 Randomized Framework](https://arxiv.org/abs/2609.15677v1)** | 2026-09-14 |  |
 | **[A Group-Based Resource Allocation Model for the Fractional Knapsack Problem](https://arxiv.org/abs/2609.06470v2)** | 2026-09-10 |  |
 | **[High-dimensional Linear Bandits with Knapsacks](https://arxiv.org/abs/2311.01327v3)** | 2026-09-07 |  |
 | **[Fine-Grained Complexity of Approximating Vector Knapsack: A Faster Algorithm and Bicriteria Optimality in 2D](https://arxiv.org/abs/2608.27600v1)** | 2026-08-27 | <details><summary>Abstr...</summary><p>Abstract shortened to fit ArXiV requirements</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Packing Linear Programs and Fractional Knapsack using Comparison Oracles](https://arxiv.org/abs/2607.19557v1)** | 2026-07-21 |  |
 | **[Pack, Remove, Reserve -- Online Knapsack with Second Thoughts](https://arxiv.org/abs/2607.13955v1)** | 2026-07-15 |  |
 | **[Optimal Macroitem Sequences in the Precedence Constrained Knapsack Problem](https://arxiv.org/abs/2606.22018v1)** | 2026-06-20 |  |
-| **[Differentially Private Submodular Maximization with a Knapsack Constraint](https://arxiv.org/abs/2606.14951v1)** | 2026-06-12 | ICML 2026 |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
