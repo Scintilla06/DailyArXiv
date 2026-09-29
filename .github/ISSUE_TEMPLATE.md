@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2026
+title: Latest 15 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Making LLMs Truly Forget: Deep Unlearning by Searching, Selecting, and Severing Knowledge Paths](https://arxiv.org/abs/2609.34442v1)** | 2026-09-28 |  |
+| **[On the Complexity of Forcing and Anti-Forcing Minimum Cuts](https://arxiv.org/abs/2609.33292v1)** | 2026-09-27 | 24 pages, 4 figures |
 | **[An Optimal Structure for All-Pairs Nearest Mincuts and Sensitivity Oracles for Edge Insertions](https://arxiv.org/abs/2609.31290v1)** | 2026-09-25 |  |
 | **[A $59/33$ Cut-LP Guarantee for Matching Augmentation](https://arxiv.org/abs/2609.26531v1)** | 2026-09-22 | 20 pages, 6 figures |
 | **[Lower Bounds for Private Graph Optimization Problems using Reconstruction Attacks](https://arxiv.org/abs/2609.10877v1)** | 2026-09-09 | <details><summary>32 pa...</summary><p>32 pages, 3 figures. To appear at PODS 2027</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Can LLMs be Used to Simplify Algorithms? Simpler Algorithms for Vertex Coloring and Edge Connectivity](https://arxiv.org/abs/2608.10753v1)** | 2026-08-11 |  |
 | **[Scalable Exact Densest P-Partite Subgraph Search in Heterogeneous Information Networks](https://arxiv.org/abs/2608.03061v1)** | 2026-08-04 |  |
 | **[Reachability in Directed Acyclic Graphs with Near-Linear Cut Queries](https://arxiv.org/abs/2607.21390v1)** | 2026-07-23 |  |
-| **[Almost-Optimal Approximation Algorithms for Global Minimum Cut in Directed Graphs](https://arxiv.org/abs/2512.09080v3)** | 2026-07-20 | <details><summary>40 pa...</summary><p>40 pages. Full version of a paper in STOC 2026. v2: added discussion of new independent work; v3: updated section 3.1 to match proceedings version, fixed typos, and updated the bibliography</p></details> |
-| **[Stable Matchings with Minimum Utility Gap](https://arxiv.org/abs/2607.07160v1)** | 2026-07-08 | 20 pages |
 
