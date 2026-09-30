@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2026
+title: Latest 15 Papers - October 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Corruption-Robust Sparse Linear Contextual Bandits with Knapsack Constraints](https://arxiv.org/abs/2609.37189v1)** | 2026-09-29 |  |
+| **[Simpler Algorithms for Knapsack, Subset Sum, and Min-Plus Convolution](https://arxiv.org/abs/2609.37449v1)** | 2026-09-27 |  |
 | **[A Group-Based Resource Allocation Model for the Fractional Knapsack Problem](https://arxiv.org/abs/2609.06470v3)** | 2026-09-23 |  |
 | **[Linear-Query Deterministic Approximation for Non-monotone Submodular Maximization under a Knapsack Constraint](https://arxiv.org/abs/2609.25679v1)** | 2026-09-22 | ISAAC 2026 |
 | **[Approximating Pandora's Knapsack via Simple Policies](https://arxiv.org/abs/2509.05956v4)** | 2026-09-16 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Reoptimization Algorithms for Contextual Bandits with Knapsack Constraints](https://arxiv.org/abs/2608.11383v1)** | 2026-08-11 |  |
 | **[Memory-Efficient Activation Checkpointing with Sliding Window and Hirschberg's Algorithm for 0/1 Knapsack Solving in PyTorch](https://arxiv.org/abs/2608.08740v1)** | 2026-08-09 | <details><summary>Accep...</summary><p>Accepted to COLM 2026 Workshop on Efficient Reasoning</p></details> |
 | **[Approximation Schemes and Structural Barriers for the Two-Dimensional Knapsack Problem with Rotations](https://arxiv.org/abs/2603.23970v3)** | 2026-07-29 |  |
-| **[Knapsack Secretary is not $1/e$-Competitive](https://arxiv.org/abs/2607.24198v1)** | 2026-07-27 | 34 pages, 1 figure |
-| **[The Knapsack Secretary Problem is Strictly Harder Than the Secretary Problem](https://arxiv.org/abs/2607.22840v1)** | 2026-07-24 | 39 pages |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
