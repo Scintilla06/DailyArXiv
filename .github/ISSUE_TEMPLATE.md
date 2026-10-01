@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2026
+title: Latest 15 Papers - October 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GeoNest: Learning to Select Failure-Aware Neighborhoods for the Irregular Knapsack Problem in a Circular Container](https://arxiv.org/abs/2609.38863v1)** | 2026-09-30 | 9 pages, 3 figures |
 | **[Corruption-Robust Sparse Linear Contextual Bandits with Knapsack Constraints](https://arxiv.org/abs/2609.37189v1)** | 2026-09-29 |  |
 | **[Simpler Algorithms for Knapsack, Subset Sum, and Min-Plus Convolution](https://arxiv.org/abs/2609.37449v1)** | 2026-09-27 |  |
 | **[A Group-Based Resource Allocation Model for the Fractional Knapsack Problem](https://arxiv.org/abs/2609.06470v3)** | 2026-09-23 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Unifying Depth and Width Pruning for LLMs via Binary Knapsack Optimization](https://arxiv.org/abs/2608.12953v1)** | 2026-08-13 | <details><summary>29 pa...</summary><p>29 pages, 5 figures, 17 tables</p></details> |
 | **[Reoptimization Algorithms for Contextual Bandits with Knapsack Constraints](https://arxiv.org/abs/2608.11383v1)** | 2026-08-11 |  |
 | **[Memory-Efficient Activation Checkpointing with Sliding Window and Hirschberg's Algorithm for 0/1 Knapsack Solving in PyTorch](https://arxiv.org/abs/2608.08740v1)** | 2026-08-09 | <details><summary>Accep...</summary><p>Accepted to COLM 2026 Workshop on Efficient Reasoning</p></details> |
-| **[Approximation Schemes and Structural Barriers for the Two-Dimensional Knapsack Problem with Rotations](https://arxiv.org/abs/2603.23970v3)** | 2026-07-29 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
