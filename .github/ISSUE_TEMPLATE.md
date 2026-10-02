@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 02, 2026
+title: Latest 15 Papers - October 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Safe Hypergraph Contraction via Capacity-Aware Repair Certificates](https://arxiv.org/abs/2610.01678v1)** | 2026-10-01 |  |
+| **[Stable Matchings with Minimum Utility Gap](https://arxiv.org/abs/2607.07160v2)** | 2026-10-01 | <details><summary>v2: M...</summary><p>v2: Minor revisions from v1. To appear in ISAAC 2026</p></details> |
 | **[Making LLMs Truly Forget: Deep Unlearning by Searching, Selecting, and Severing Knowledge Paths](https://arxiv.org/abs/2609.34442v1)** | 2026-09-28 |  |
 | **[On the Complexity of Forcing and Anti-Forcing Minimum Cuts](https://arxiv.org/abs/2609.33292v1)** | 2026-09-27 | 24 pages, 4 figures |
 | **[An Optimal Structure for All-Pairs Nearest Mincuts and Sensitivity Oracles for Edge Insertions](https://arxiv.org/abs/2609.31290v1)** | 2026-09-25 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Incremental Directed Minimum Cut by Dynamizing Gabow's Algorithm](https://arxiv.org/abs/2608.16382v1)** | 2026-08-17 |  |
 | **[Harmonic Ranking for Edge-Weighted Oblivious Matching](https://arxiv.org/abs/2608.12176v1)** | 2026-08-12 | 44 pages, 4 figures |
 | **[Can LLMs be Used to Simplify Algorithms? Simpler Algorithms for Vertex Coloring and Edge Connectivity](https://arxiv.org/abs/2608.10753v1)** | 2026-08-11 |  |
-| **[Scalable Exact Densest P-Partite Subgraph Search in Heterogeneous Information Networks](https://arxiv.org/abs/2608.03061v1)** | 2026-08-04 |  |
-| **[Reachability in Directed Acyclic Graphs with Near-Linear Cut Queries](https://arxiv.org/abs/2607.21390v1)** | 2026-07-23 |  |
 
