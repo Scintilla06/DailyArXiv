@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 09, 2026
+title: Latest 15 Papers - October 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,10 +26,12 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Matroid Base Packings: Improved Dynamic Matroid Density and Combinatorics of Tree Packings](https://arxiv.org/abs/2511.13205v4)** | 2026-10-08 |  |
+| **[Efficient Recovery of Latent Coordinate Structure from Sparse Observations of the Hypercube](https://arxiv.org/abs/2610.11741v1)** | 2026-10-08 |  |
+| **[Directed Global Minimum Cut in Almost-Linear Time](https://arxiv.org/abs/2610.10898v1)** | 2026-10-07 | 11 pages, 4 figures |
 | **[Symmetric Submodular Minimization from Comparisons](https://arxiv.org/abs/2610.10518v1)** | 2026-10-07 |  |
 | **[A sharp higher-order Cheeger inequality](https://arxiv.org/abs/2609.35369v2)** | 2026-10-05 |  |
 | **[FAPO: Fanout-Aware Post-Mapping Optimization for LUT-Based FPGAs](https://arxiv.org/abs/2610.06937v1)** | 2026-10-03 |  |
-| **[Matroid Base Packings: Improved Dynamic Matroid Density and Combinatorics of Tree Packings](https://arxiv.org/abs/2511.13205v3)** | 2026-10-02 |  |
 | **[Exact Memory-Time Optimization for Prefix-Cached Language Model Serving](https://arxiv.org/abs/2610.02766v1)** | 2026-10-02 | <details><summary>16 pa...</summary><p>16 pages, 5 figures. Code and reproducibility artifacts: https://github.com/shi1720/prefix-certificate-retention</p></details> |
 | **[Safe Hypergraph Contraction via Capacity-Aware Repair Certificates](https://arxiv.org/abs/2610.01678v1)** | 2026-10-01 |  |
 | **[Stable Matchings with Minimum Utility Gap](https://arxiv.org/abs/2607.07160v2)** | 2026-10-01 | <details><summary>v2: M...</summary><p>v2: Minor revisions from v1. To appear in ISAAC 2026</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[A $59/33$ Cut-LP Guarantee for Matching Augmentation](https://arxiv.org/abs/2609.26531v1)** | 2026-09-22 | 20 pages, 6 figures |
 | **[Lower Bounds for Private Graph Optimization Problems using Reconstruction Attacks](https://arxiv.org/abs/2609.10877v1)** | 2026-09-09 | <details><summary>32 pa...</summary><p>32 pages, 3 figures. To appear at PODS 2027</p></details> |
 | **[Sharp Bounds on the Number of Small Cuts](https://arxiv.org/abs/2609.10255v1)** | 2026-09-09 |  |
-| **[Agentic Algorithm Engineering: Improving Shared-Memory Exact Minimum Cuts](https://arxiv.org/abs/2609.07204v1)** | 2026-09-07 |  |
-| **[Tree-Packing Revisited: Faster Fully Dynamic Min-Cut and Arboricity](https://arxiv.org/abs/2405.09141v4)** | 2026-08-19 | <details><summary>Prese...</summary><p>Presented at SODA '25. Full version published in Algorithmica</p></details> |
 
