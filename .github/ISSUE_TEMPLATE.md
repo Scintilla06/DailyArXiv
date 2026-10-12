@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 12, 2026
+title: Latest 15 Papers - October 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bandits with Anytime Knapsacks](https://arxiv.org/abs/2501.18560v2)** | 2026-10-09 |  |
 | **[GeoNest: Learning to Select Failure-Aware Neighborhoods for the Irregular Knapsack Problem in a Circular Container](https://arxiv.org/abs/2609.38863v1)** | 2026-09-30 | 9 pages, 3 figures |
 | **[Corruption-Robust Sparse Linear Contextual Bandits with Knapsack Constraints](https://arxiv.org/abs/2609.37189v1)** | 2026-09-29 |  |
 | **[Simpler Algorithms for Knapsack, Subset Sum, and Min-Plus Convolution](https://arxiv.org/abs/2609.37449v1)** | 2026-09-27 |  |
@@ -15,7 +16,6 @@ labels: documentation
 | **[Approximating Pandora's Knapsack via Simple Policies](https://arxiv.org/abs/2509.05956v4)** | 2026-09-16 |  |
 | **[A Better-Than-$3$ Approximation Algorithm for Demand Matching via Knapsack Intersection LP and Contention Resolution](https://arxiv.org/abs/2609.17932v1)** | 2026-09-15 |  |
 | **[A tight 1/3-approximation algorithm and fully polynomial-time approximation schemes for the Colored Knapsack Problem](https://arxiv.org/abs/2609.17713v1)** | 2026-09-15 |  |
-| **[Breaking the 1/3 Barrier for $\boldsymbol{k}$-Submodular Maximization under Matroid and Knapsack Constraints: A Proportional Top-2 Randomized Framework](https://arxiv.org/abs/2609.15677v1)** | 2026-09-14 |  |
 | **[High-dimensional Linear Bandits with Knapsacks](https://arxiv.org/abs/2311.01327v3)** | 2026-09-07 |  |
 | **[Fine-Grained Complexity of Approximating Vector Knapsack: A Faster Algorithm and Bicriteria Optimality in 2D](https://arxiv.org/abs/2608.27600v1)** | 2026-08-27 | <details><summary>Abstr...</summary><p>Abstract shortened to fit ArXiV requirements</p></details> |
 | **[Stealing From the Dragon's Hoard: Online Unbounded Knapsack With Removal](https://arxiv.org/abs/2509.19914v3)** | 2026-08-18 |  |
@@ -26,9 +26,9 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Directed Global Minimum Cut in Almost-Linear Time](https://arxiv.org/abs/2610.10898v2)** | 2026-10-09 | 11 pages, 4 figures |
 | **[Matroid Base Packings: Improved Dynamic Matroid Density and Combinatorics of Tree Packings](https://arxiv.org/abs/2511.13205v4)** | 2026-10-08 |  |
 | **[Efficient Recovery of Latent Coordinate Structure from Sparse Observations of the Hypercube](https://arxiv.org/abs/2610.11741v1)** | 2026-10-08 |  |
-| **[Directed Global Minimum Cut in Almost-Linear Time](https://arxiv.org/abs/2610.10898v1)** | 2026-10-07 | 11 pages, 4 figures |
 | **[Symmetric Submodular Minimization from Comparisons](https://arxiv.org/abs/2610.10518v1)** | 2026-10-07 |  |
 | **[A sharp higher-order Cheeger inequality](https://arxiv.org/abs/2609.35369v2)** | 2026-10-05 |  |
 | **[FAPO: Fanout-Aware Post-Mapping Optimization for LUT-Based FPGAs](https://arxiv.org/abs/2610.06937v1)** | 2026-10-03 |  |
