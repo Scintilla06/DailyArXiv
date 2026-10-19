@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 19, 2026
+title: Latest 15 Papers - October 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Inclusion-wise extremal knapsack problems are (mostly) hard to approximate](https://arxiv.org/abs/2610.18017v1)** | 2026-10-13 |  |
+| **[A simple $(2+ε)$-approximation for knapsack interdiction](https://arxiv.org/abs/2604.21877v2)** | 2026-10-16 | 13 pages |
+| **[Inclusion-wise extremal knapsack problems are (mostly) hard to approximate](https://arxiv.org/abs/2610.18017v2)** | 2026-10-16 |  |
 | **[Robust Extensible Bin Packing and Revisiting a Convex Knapsack Problem](https://arxiv.org/abs/2510.23765v2)** | 2026-10-12 |  |
 | **[Faster Deterministic Approximation for Counting Knapsack](https://arxiv.org/abs/2610.14595v1)** | 2026-10-10 | <details><summary>To ap...</summary><p>To appear in SODA 2027. 32 pages</p></details> |
 | **[Bandits with Anytime Knapsacks](https://arxiv.org/abs/2501.18560v2)** | 2026-10-09 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[A tight 1/3-approximation algorithm and fully polynomial-time approximation schemes for the Colored Knapsack Problem](https://arxiv.org/abs/2609.17713v1)** | 2026-09-15 |  |
 | **[High-dimensional Linear Bandits with Knapsacks](https://arxiv.org/abs/2311.01327v3)** | 2026-09-07 |  |
 | **[Fine-Grained Complexity of Approximating Vector Knapsack: A Faster Algorithm and Bicriteria Optimality in 2D](https://arxiv.org/abs/2608.27600v1)** | 2026-08-27 | <details><summary>Abstr...</summary><p>Abstract shortened to fit ArXiV requirements</p></details> |
-| **[Stealing From the Dragon's Hoard: Online Unbounded Knapsack With Removal](https://arxiv.org/abs/2509.19914v3)** | 2026-08-18 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deterministic Global Minimum Cut Using $\tilde{O}(n^{3/2})$ Cut Queries](https://arxiv.org/abs/2610.23461v1)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted at SOSA 2027</p></details> |
+| **[Peak-Memory Schedules You Can Trust: Exact Realization, Certified Optimality, and the Limits of Recomputation for Inference](https://arxiv.org/abs/2610.23328v1)** | 2026-10-16 | <details><summary>24 pa...</summary><p>24 pages, 5 figures. Preprint</p></details> |
 | **[Query Complexity of Densest Sub(hyper)graph Problems](https://arxiv.org/abs/2610.17581v1)** | 2026-10-13 | 26 pages |
 | **[Directed Global Minimum Cut in Almost-Linear Time](https://arxiv.org/abs/2610.10898v2)** | 2026-10-09 | 11 pages, 4 figures |
 | **[Matroid Base Packings: Improved Dynamic Matroid Density and Combinatorics of Tree Packings](https://arxiv.org/abs/2511.13205v4)** | 2026-10-08 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Making LLMs Truly Forget: Deep Unlearning by Searching, Selecting, and Severing Knowledge Paths](https://arxiv.org/abs/2609.34442v1)** | 2026-09-28 |  |
 | **[On the Complexity of Forcing and Anti-Forcing Minimum Cuts](https://arxiv.org/abs/2609.33292v1)** | 2026-09-27 | 24 pages, 4 figures |
 | **[An Optimal Structure for All-Pairs Nearest Mincuts and Sensitivity Oracles for Edge Insertions](https://arxiv.org/abs/2609.31290v1)** | 2026-09-25 |  |
-| **[A $59/33$ Cut-LP Guarantee for Matching Augmentation](https://arxiv.org/abs/2609.26531v1)** | 2026-09-22 | 20 pages, 6 figures |
-| **[Lower Bounds for Private Graph Optimization Problems using Reconstruction Attacks](https://arxiv.org/abs/2609.10877v1)** | 2026-09-09 | <details><summary>32 pa...</summary><p>32 pages, 3 figures. To appear at PODS 2027</p></details> |
 
