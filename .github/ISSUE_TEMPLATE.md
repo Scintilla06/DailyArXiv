@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 20, 2026
+title: Latest 15 Papers - October 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Combinatorial $(1/2-\varepsilon)$-Approximation for $k$-Submodular Maximization under Multiple Knapsacks](https://arxiv.org/abs/2610.24505v1)** | 2026-10-17 | 23 pages |
 | **[A simple $(2+ε)$-approximation for knapsack interdiction](https://arxiv.org/abs/2604.21877v2)** | 2026-10-16 | 13 pages |
 | **[Inclusion-wise extremal knapsack problems are (mostly) hard to approximate](https://arxiv.org/abs/2610.18017v2)** | 2026-10-16 |  |
 | **[Robust Extensible Bin Packing and Revisiting a Convex Knapsack Problem](https://arxiv.org/abs/2510.23765v2)** | 2026-10-12 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[A Better-Than-$3$ Approximation Algorithm for Demand Matching via Knapsack Intersection LP and Contention Resolution](https://arxiv.org/abs/2609.17932v1)** | 2026-09-15 |  |
 | **[A tight 1/3-approximation algorithm and fully polynomial-time approximation schemes for the Colored Knapsack Problem](https://arxiv.org/abs/2609.17713v1)** | 2026-09-15 |  |
 | **[High-dimensional Linear Bandits with Knapsacks](https://arxiv.org/abs/2311.01327v3)** | 2026-09-07 |  |
-| **[Fine-Grained Complexity of Approximating Vector Knapsack: A Faster Algorithm and Bicriteria Optimality in 2D](https://arxiv.org/abs/2608.27600v1)** | 2026-08-27 | <details><summary>Abstr...</summary><p>Abstract shortened to fit ArXiV requirements</p></details> |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
