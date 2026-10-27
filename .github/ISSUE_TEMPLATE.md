@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 27, 2026
+title: Latest 15 Papers - October 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Nearly Optimal Min-Cut Algorithm for Dynamic Streams](https://arxiv.org/abs/2610.34097v1)** | 2026-10-25 |  |
+| **[On the Number of Circuits in Regular Matroids (with Connections to Lattices and Codes)](https://arxiv.org/abs/1807.05164v3)** | 2026-10-24 | <details><summary>Fixed...</summary><p>Fixed an error in Claim 6.11 of the earlier version. Paper has been shortened</p></details> |
 | **[Deterministic Global Minimum Cut Using $\tilde{O}(n^{3/2})$ Cut Queries](https://arxiv.org/abs/2610.23461v1)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted at SOSA 2027</p></details> |
 | **[Peak-Memory Schedules You Can Trust: Exact Realization, Certified Optimality, and the Limits of Recomputation for Inference](https://arxiv.org/abs/2610.23328v1)** | 2026-10-16 | <details><summary>24 pa...</summary><p>24 pages, 5 figures. Preprint</p></details> |
 | **[Query Complexity of Densest Sub(hyper)graph Problems](https://arxiv.org/abs/2610.17581v1)** | 2026-10-13 | 26 pages |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Safe Hypergraph Contraction via Capacity-Aware Repair Certificates](https://arxiv.org/abs/2610.01678v1)** | 2026-10-01 |  |
 | **[Stable Matchings with Minimum Utility Gap](https://arxiv.org/abs/2607.07160v2)** | 2026-10-01 | <details><summary>v2: M...</summary><p>v2: Minor revisions from v1. To appear in ISAAC 2026</p></details> |
 | **[Making LLMs Truly Forget: Deep Unlearning by Searching, Selecting, and Severing Knowledge Paths](https://arxiv.org/abs/2609.34442v1)** | 2026-09-28 |  |
-| **[On the Complexity of Forcing and Anti-Forcing Minimum Cuts](https://arxiv.org/abs/2609.33292v1)** | 2026-09-27 | 24 pages, 4 figures |
-| **[An Optimal Structure for All-Pairs Nearest Mincuts and Sensitivity Oracles for Edge Insertions](https://arxiv.org/abs/2609.31290v1)** | 2026-09-25 |  |
 
