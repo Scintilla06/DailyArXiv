@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 30, 2026
+title: Latest 15 Papers - October 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Satisficing Regret Minimization in Bandits with Knapsacks](https://arxiv.org/abs/2610.39321v1)** | 2026-10-29 |  |
 | **[A Combinatorial $(1/2-\varepsilon)$-Approximation for $k$-Submodular Maximization under Multiple Knapsacks](https://arxiv.org/abs/2610.24505v1)** | 2026-10-17 | 23 pages |
 | **[A simple $(2+ε)$-approximation for knapsack interdiction](https://arxiv.org/abs/2604.21877v2)** | 2026-10-16 | 13 pages |
 | **[Inclusion-wise extremal knapsack problems are (mostly) hard to approximate](https://arxiv.org/abs/2610.18017v2)** | 2026-10-16 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Approximating Pandora's Knapsack via Simple Policies](https://arxiv.org/abs/2509.05956v4)** | 2026-09-16 |  |
 | **[A Better-Than-$3$ Approximation Algorithm for Demand Matching via Knapsack Intersection LP and Contention Resolution](https://arxiv.org/abs/2609.17932v1)** | 2026-09-15 |  |
 | **[A tight 1/3-approximation algorithm and fully polynomial-time approximation schemes for the Colored Knapsack Problem](https://arxiv.org/abs/2609.17713v1)** | 2026-09-15 |  |
-| **[High-dimensional Linear Bandits with Knapsacks](https://arxiv.org/abs/2311.01327v3)** | 2026-09-07 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fully Dynamic All-Pairs Min Cuts on Planar Graphs via Planar Pattern Emulators](https://arxiv.org/abs/2610.38730v1)** | 2026-10-28 |  |
 | **[A Nearly Optimal Min-Cut Algorithm for Dynamic Streams](https://arxiv.org/abs/2610.34097v1)** | 2026-10-25 |  |
 | **[On the Number of Circuits in Regular Matroids (with Connections to Lattices and Codes)](https://arxiv.org/abs/1807.05164v3)** | 2026-10-24 | <details><summary>Fixed...</summary><p>Fixed an error in Claim 6.11 of the earlier version. Paper has been shortened</p></details> |
 | **[Deterministic Global Minimum Cut Using $\tilde{O}(n^{3/2})$ Cut Queries](https://arxiv.org/abs/2610.23461v1)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted at SOSA 2027</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Exact Memory-Time Optimization for Prefix-Cached Language Model Serving](https://arxiv.org/abs/2610.02766v1)** | 2026-10-02 | <details><summary>16 pa...</summary><p>16 pages, 5 figures. Code and reproducibility artifacts: https://github.com/shi1720/prefix-certificate-retention</p></details> |
 | **[Safe Hypergraph Contraction via Capacity-Aware Repair Certificates](https://arxiv.org/abs/2610.01678v1)** | 2026-10-01 |  |
 | **[Stable Matchings with Minimum Utility Gap](https://arxiv.org/abs/2607.07160v2)** | 2026-10-01 | <details><summary>v2: M...</summary><p>v2: Minor revisions from v1. To appear in ISAAC 2026</p></details> |
-| **[Making LLMs Truly Forget: Deep Unlearning by Searching, Selecting, and Severing Knowledge Paths](https://arxiv.org/abs/2609.34442v1)** | 2026-09-28 |  |
 
