@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 02, 2026
+title: Latest 15 Papers - November 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Fully Polynomial Randomized Approximation Scheme for Hypergraph Unreliability](https://arxiv.org/abs/2610.41714v1)** | 2026-10-30 | 19 pages |
 | **[Fully Dynamic All-Pairs Min Cuts on Planar Graphs via Planar Pattern Emulators](https://arxiv.org/abs/2610.38730v1)** | 2026-10-28 |  |
 | **[A Nearly Optimal Min-Cut Algorithm for Dynamic Streams](https://arxiv.org/abs/2610.34097v1)** | 2026-10-25 |  |
 | **[On the Number of Circuits in Regular Matroids (with Connections to Lattices and Codes)](https://arxiv.org/abs/1807.05164v3)** | 2026-10-24 | <details><summary>Fixed...</summary><p>Fixed an error in Claim 6.11 of the earlier version. Paper has been shortened</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[FAPO: Fanout-Aware Post-Mapping Optimization for LUT-Based FPGAs](https://arxiv.org/abs/2610.06937v1)** | 2026-10-03 |  |
 | **[Exact Memory-Time Optimization for Prefix-Cached Language Model Serving](https://arxiv.org/abs/2610.02766v1)** | 2026-10-02 | <details><summary>16 pa...</summary><p>16 pages, 5 figures. Code and reproducibility artifacts: https://github.com/shi1720/prefix-certificate-retention</p></details> |
 | **[Safe Hypergraph Contraction via Capacity-Aware Repair Certificates](https://arxiv.org/abs/2610.01678v1)** | 2026-10-01 |  |
-| **[Stable Matchings with Minimum Utility Gap](https://arxiv.org/abs/2607.07160v2)** | 2026-10-01 | <details><summary>v2: M...</summary><p>v2: Minor revisions from v1. To appear in ISAAC 2026</p></details> |
 
