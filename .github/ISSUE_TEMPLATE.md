@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 03, 2026
+title: Latest 15 Papers - November 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,11 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Finding and Certifying Weighted Minimum Cuts with Cut Queries](https://arxiv.org/abs/2611.03107v1)** | 2026-11-02 | 57 pages |
+| **[Exact Shortest Paths and Maximum Flow in Planar Networks in the CONGEST Model](https://arxiv.org/abs/2611.02256v1)** | 2026-11-01 |  |
+| **[Faster Minimum k-Cut II: Improved Randomized and Deterministic Algorithms for Weighted Graphs](https://arxiv.org/abs/2609.27797v2)** | 2026-11-01 |  |
+| **[FAPO: Fanout-Aware Post-Mapping Optimization for LUT-Based FPGAs](https://arxiv.org/abs/2610.06937v2)** | 2026-10-31 |  |
+| **[Partial Path Interception in Derivation DAGs: Structural Complexity, Parameterized Algorithms, and Approximation](https://arxiv.org/abs/2608.11782v4)** | 2026-10-31 |  |
 | **[A Fully Polynomial Randomized Approximation Scheme for Hypergraph Unreliability](https://arxiv.org/abs/2610.41714v1)** | 2026-10-30 | 19 pages |
 | **[Fully Dynamic All-Pairs Min Cuts on Planar Graphs via Planar Pattern Emulators](https://arxiv.org/abs/2610.38730v1)** | 2026-10-28 |  |
 | **[A Nearly Optimal Min-Cut Algorithm for Dynamic Streams](https://arxiv.org/abs/2610.34097v1)** | 2026-10-25 |  |
@@ -36,9 +41,4 @@ labels: documentation
 | **[Directed Global Minimum Cut in Almost-Linear Time](https://arxiv.org/abs/2610.10898v2)** | 2026-10-09 | 11 pages, 4 figures |
 | **[Matroid Base Packings: Improved Dynamic Matroid Density and Combinatorics of Tree Packings](https://arxiv.org/abs/2511.13205v4)** | 2026-10-08 |  |
 | **[Efficient Recovery of Latent Coordinate Structure from Sparse Observations of the Hypercube](https://arxiv.org/abs/2610.11741v1)** | 2026-10-08 |  |
-| **[Symmetric Submodular Minimization from Comparisons](https://arxiv.org/abs/2610.10518v1)** | 2026-10-07 |  |
-| **[A sharp higher-order Cheeger inequality](https://arxiv.org/abs/2609.35369v2)** | 2026-10-05 |  |
-| **[FAPO: Fanout-Aware Post-Mapping Optimization for LUT-Based FPGAs](https://arxiv.org/abs/2610.06937v1)** | 2026-10-03 |  |
-| **[Exact Memory-Time Optimization for Prefix-Cached Language Model Serving](https://arxiv.org/abs/2610.02766v1)** | 2026-10-02 | <details><summary>16 pa...</summary><p>16 pages, 5 figures. Code and reproducibility artifacts: https://github.com/shi1720/prefix-certificate-retention</p></details> |
-| **[Safe Hypergraph Contraction via Capacity-Aware Repair Certificates](https://arxiv.org/abs/2610.01678v1)** | 2026-10-01 |  |
 
