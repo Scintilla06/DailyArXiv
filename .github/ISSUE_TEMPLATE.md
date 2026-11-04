@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2026
+title: Latest 15 Papers - November 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,9 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Finding and Certifying Weighted Minimum Cuts with Cut Queries](https://arxiv.org/abs/2611.03107v1)** | 2026-11-02 | 57 pages |
+| **[The Complexity of Continuous Contract Design over Polymatroids](https://arxiv.org/abs/2611.04934v1)** | 2026-11-03 | <details><summary>89 pa...</summary><p>89 pages, 6 figures. The Lean 4 formalization is at https://github.com/philippwarode/contract-design-polymatroids-lean</p></details> |
+| **[Counting Linear Extensions Faster than $2^n$](https://arxiv.org/abs/2608.19505v2)** | 2026-11-03 |  |
+| **[Finding and Certifying Weighted Minimum Cuts with Cut Queries](https://arxiv.org/abs/2611.03107v2)** | 2026-11-03 | <details><summary>57 pa...</summary><p>57 pages. v2: corrects cross-reference names (some lemmas, remarks, definitions and corollaries were labelled "Theorem"); no change in content</p></details> |
 | **[Exact Shortest Paths and Maximum Flow in Planar Networks in the CONGEST Model](https://arxiv.org/abs/2611.02256v1)** | 2026-11-01 |  |
 | **[Faster Minimum k-Cut II: Improved Randomized and Deterministic Algorithms for Weighted Graphs](https://arxiv.org/abs/2609.27797v2)** | 2026-11-01 |  |
 | **[FAPO: Fanout-Aware Post-Mapping Optimization for LUT-Based FPGAs](https://arxiv.org/abs/2610.06937v2)** | 2026-10-31 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Peak-Memory Schedules You Can Trust: Exact Realization, Certified Optimality, and the Limits of Recomputation for Inference](https://arxiv.org/abs/2610.23328v1)** | 2026-10-16 | <details><summary>24 pa...</summary><p>24 pages, 5 figures. Preprint</p></details> |
 | **[Query Complexity of Densest Sub(hyper)graph Problems](https://arxiv.org/abs/2610.17581v1)** | 2026-10-13 | 26 pages |
 | **[Directed Global Minimum Cut in Almost-Linear Time](https://arxiv.org/abs/2610.10898v2)** | 2026-10-09 | 11 pages, 4 figures |
-| **[Matroid Base Packings: Improved Dynamic Matroid Density and Combinatorics of Tree Packings](https://arxiv.org/abs/2511.13205v4)** | 2026-10-08 |  |
-| **[Efficient Recovery of Latent Coordinate Structure from Sparse Observations of the Hypercube](https://arxiv.org/abs/2610.11741v1)** | 2026-10-08 |  |
 
