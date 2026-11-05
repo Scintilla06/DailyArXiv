@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 05, 2026
+title: Latest 15 Papers - November 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Airlock: Bounding the Multi-Agent Blast Radius via Selective Online Containment](https://arxiv.org/abs/2611.06727v1)** | 2026-11-04 |  |
 | **[The Complexity of Continuous Contract Design over Polymatroids](https://arxiv.org/abs/2611.04934v1)** | 2026-11-03 | <details><summary>89 pa...</summary><p>89 pages, 6 figures. The Lean 4 formalization is at https://github.com/philippwarode/contract-design-polymatroids-lean</p></details> |
 | **[Counting Linear Extensions Faster than $2^n$](https://arxiv.org/abs/2608.19505v2)** | 2026-11-03 |  |
 | **[Finding and Certifying Weighted Minimum Cuts with Cut Queries](https://arxiv.org/abs/2611.03107v2)** | 2026-11-03 | <details><summary>57 pa...</summary><p>57 pages. v2: corrects cross-reference names (some lemmas, remarks, definitions and corollaries were labelled "Theorem"); no change in content</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Deterministic Global Minimum Cut Using $\tilde{O}(n^{3/2})$ Cut Queries](https://arxiv.org/abs/2610.23461v1)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted at SOSA 2027</p></details> |
 | **[Peak-Memory Schedules You Can Trust: Exact Realization, Certified Optimality, and the Limits of Recomputation for Inference](https://arxiv.org/abs/2610.23328v1)** | 2026-10-16 | <details><summary>24 pa...</summary><p>24 pages, 5 figures. Preprint</p></details> |
 | **[Query Complexity of Densest Sub(hyper)graph Problems](https://arxiv.org/abs/2610.17581v1)** | 2026-10-13 | 26 pages |
-| **[Directed Global Minimum Cut in Almost-Linear Time](https://arxiv.org/abs/2610.10898v2)** | 2026-10-09 | 11 pages, 4 figures |
 
