@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 06, 2026
+title: Latest 15 Papers - November 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Differentiable Knapsack and Top-k Operators via Dynamic Programming](https://arxiv.org/abs/2601.21775v2)** | 2026-11-05 |  |
 | **[Satisficing Regret Minimization in Bandits with Knapsacks](https://arxiv.org/abs/2610.39321v1)** | 2026-10-29 |  |
 | **[A Combinatorial $(1/2-\varepsilon)$-Approximation for $k$-Submodular Maximization under Multiple Knapsacks](https://arxiv.org/abs/2610.24505v1)** | 2026-10-17 | 23 pages |
 | **[A simple $(2+ε)$-approximation for knapsack interdiction](https://arxiv.org/abs/2604.21877v2)** | 2026-10-16 | 13 pages |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Linear-Query Deterministic Approximation for Non-monotone Submodular Maximization under a Knapsack Constraint](https://arxiv.org/abs/2609.25679v1)** | 2026-09-22 | ISAAC 2026 |
 | **[Approximating Pandora's Knapsack via Simple Policies](https://arxiv.org/abs/2509.05956v4)** | 2026-09-16 |  |
 | **[A Better-Than-$3$ Approximation Algorithm for Demand Matching via Knapsack Intersection LP and Contention Resolution](https://arxiv.org/abs/2609.17932v1)** | 2026-09-15 |  |
-| **[A tight 1/3-approximation algorithm and fully polynomial-time approximation schemes for the Colored Knapsack Problem](https://arxiv.org/abs/2609.17713v1)** | 2026-09-15 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[All minimum cuts of symmetric submodular functions](https://arxiv.org/abs/2611.08253v1)** | 2026-11-05 |  |
 | **[Airlock: Bounding the Multi-Agent Blast Radius via Selective Online Containment](https://arxiv.org/abs/2611.06727v1)** | 2026-11-04 |  |
 | **[The Complexity of Continuous Contract Design over Polymatroids](https://arxiv.org/abs/2611.04934v1)** | 2026-11-03 | <details><summary>89 pa...</summary><p>89 pages, 6 figures. The Lean 4 formalization is at https://github.com/philippwarode/contract-design-polymatroids-lean</p></details> |
 | **[Counting Linear Extensions Faster than $2^n$](https://arxiv.org/abs/2608.19505v2)** | 2026-11-03 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[On the Number of Circuits in Regular Matroids (with Connections to Lattices and Codes)](https://arxiv.org/abs/1807.05164v3)** | 2026-10-24 | <details><summary>Fixed...</summary><p>Fixed an error in Claim 6.11 of the earlier version. Paper has been shortened</p></details> |
 | **[Deterministic Global Minimum Cut Using $\tilde{O}(n^{3/2})$ Cut Queries](https://arxiv.org/abs/2610.23461v1)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted at SOSA 2027</p></details> |
 | **[Peak-Memory Schedules You Can Trust: Exact Realization, Certified Optimality, and the Limits of Recomputation for Inference](https://arxiv.org/abs/2610.23328v1)** | 2026-10-16 | <details><summary>24 pa...</summary><p>24 pages, 5 figures. Preprint</p></details> |
-| **[Query Complexity of Densest Sub(hyper)graph Problems](https://arxiv.org/abs/2610.17581v1)** | 2026-10-13 | 26 pages |
 
