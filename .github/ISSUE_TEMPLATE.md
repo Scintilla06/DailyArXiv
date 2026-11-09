@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 09, 2026
+title: Latest 15 Papers - November 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Weighted and Unweighted Online Connectivity Augmentation via Geometric Hitting Set](https://arxiv.org/abs/2611.08570v1)** | 2026-11-05 |  |
 | **[All minimum cuts of symmetric submodular functions](https://arxiv.org/abs/2611.08253v1)** | 2026-11-05 |  |
 | **[Airlock: Bounding the Multi-Agent Blast Radius via Selective Online Containment](https://arxiv.org/abs/2611.06727v1)** | 2026-11-04 |  |
 | **[The Complexity of Continuous Contract Design over Polymatroids](https://arxiv.org/abs/2611.04934v1)** | 2026-11-03 | <details><summary>89 pa...</summary><p>89 pages, 6 figures. The Lean 4 formalization is at https://github.com/philippwarode/contract-design-polymatroids-lean</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[A Nearly Optimal Min-Cut Algorithm for Dynamic Streams](https://arxiv.org/abs/2610.34097v1)** | 2026-10-25 |  |
 | **[On the Number of Circuits in Regular Matroids (with Connections to Lattices and Codes)](https://arxiv.org/abs/1807.05164v3)** | 2026-10-24 | <details><summary>Fixed...</summary><p>Fixed an error in Claim 6.11 of the earlier version. Paper has been shortened</p></details> |
 | **[Deterministic Global Minimum Cut Using $\tilde{O}(n^{3/2})$ Cut Queries](https://arxiv.org/abs/2610.23461v1)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted at SOSA 2027</p></details> |
-| **[Peak-Memory Schedules You Can Trust: Exact Realization, Certified Optimality, and the Limits of Recomputation for Inference](https://arxiv.org/abs/2610.23328v1)** | 2026-10-16 | <details><summary>24 pa...</summary><p>24 pages, 5 figures. Preprint</p></details> |
 
