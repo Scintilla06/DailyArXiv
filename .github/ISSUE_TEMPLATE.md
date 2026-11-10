@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 10, 2026
+title: Latest 15 Papers - November 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unmasking Four Knapsack Problems in the Traveling Thief Benchmark](https://arxiv.org/abs/2611.12597v1)** | 2026-11-09 |  |
 | **[Differentiable Knapsack and Top-k Operators via Dynamic Programming](https://arxiv.org/abs/2601.21775v2)** | 2026-11-05 |  |
 | **[Satisficing Regret Minimization in Bandits with Knapsacks](https://arxiv.org/abs/2610.39321v1)** | 2026-10-29 |  |
 | **[A Combinatorial $(1/2-\varepsilon)$-Approximation for $k$-Submodular Maximization under Multiple Knapsacks](https://arxiv.org/abs/2610.24505v1)** | 2026-10-17 | 23 pages |
@@ -21,7 +22,6 @@ labels: documentation
 | **[A Group-Based Resource Allocation Model for the Fractional Knapsack Problem](https://arxiv.org/abs/2609.06470v3)** | 2026-09-23 |  |
 | **[Linear-Query Deterministic Approximation for Non-monotone Submodular Maximization under a Knapsack Constraint](https://arxiv.org/abs/2609.25679v1)** | 2026-09-22 | ISAAC 2026 |
 | **[Approximating Pandora's Knapsack via Simple Policies](https://arxiv.org/abs/2509.05956v4)** | 2026-09-16 |  |
-| **[A Better-Than-$3$ Approximation Algorithm for Demand Matching via Knapsack Intersection LP and Contention Resolution](https://arxiv.org/abs/2609.17932v1)** | 2026-09-15 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
