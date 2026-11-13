@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2026
+title: Latest 15 Papers - November 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knapsack
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bounded Knapsack in Truly Subquadratic Time](https://arxiv.org/abs/2611.15792v1)** | 2026-11-11 | 66 pages, 5 figures |
+| **[Multiple-Choice Knapsack with Small Items](https://arxiv.org/abs/2611.15780v1)** | 2026-11-11 |  |
 | **[Pandora's Knapsack via Simple Policies](https://arxiv.org/abs/2509.05956v5)** | 2026-11-10 |  |
 | **[Greedy+Singleton for knapsack-constrained monotone submodular maximization has approximation ratio exactly $β^\star \approx 0.42944$](https://arxiv.org/abs/2611.13575v1)** | 2026-11-10 | <details><summary>26 pa...</summary><p>26 pages, 4 figures. Code and certificates: https://doi.org/10.5281/zenodo.24023723</p></details> |
 | **[Unmasking Four Knapsack Problems in the Traveling Thief Benchmark](https://arxiv.org/abs/2611.12597v1)** | 2026-11-09 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Bandits with Anytime Knapsacks](https://arxiv.org/abs/2501.18560v2)** | 2026-10-09 |  |
 | **[GeoNest: Learning to Select Failure-Aware Neighborhoods for the Irregular Knapsack Problem in a Circular Container](https://arxiv.org/abs/2609.38863v1)** | 2026-09-30 | 9 pages, 3 figures |
 | **[Corruption-Robust Sparse Linear Contextual Bandits with Knapsack Constraints](https://arxiv.org/abs/2609.37189v1)** | 2026-09-29 |  |
-| **[Simpler Algorithms for Knapsack, Subset Sum, and Min-Plus Convolution](https://arxiv.org/abs/2609.37449v1)** | 2026-09-27 |  |
-| **[A Group-Based Resource Allocation Model for the Fractional Knapsack Problem](https://arxiv.org/abs/2609.06470v3)** | 2026-09-23 |  |
 
 ## Minimum Cut
 | **Title** | **Date** | **Comment** |
